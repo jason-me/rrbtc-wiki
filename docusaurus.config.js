@@ -10,7 +10,7 @@ const config = {
   url: 'https://wiki.roundrockbitcoiners.com',
   baseUrl: '/',
 
-  organizationName: 'roundrock-bitcoiners',
+  organizationName: 'jason-me',
   projectName: 'rrbtc-wiki',
 
   onBrokenLinks: 'ignore',

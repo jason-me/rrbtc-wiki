@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://wiki.roundrockbitcoiners.com",
   "baseUrl": "/",
-  "organizationName": "roundrock-bitcoiners",
+  "organizationName": "jason-me",
   "projectName": "rrbtc-wiki",
   "onBrokenLinks": "ignore",
   "i18n": {
