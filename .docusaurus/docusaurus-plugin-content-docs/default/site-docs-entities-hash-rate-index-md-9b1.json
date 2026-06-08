@@ -1,0 +1,66 @@
+{
+  "id": "entities/hash-rate-index",
+  "title": "HashRate Index",
+  "description": "Data and analytics platform for Bitcoin mining. Tracks miner revenue, profitability, power consumption by rig, and historical ASIC pricing.",
+  "source": "@site/docs/entities/hash-rate-index.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/hash-rate-index",
+  "permalink": "/entities/hash-rate-index",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "data",
+      "permalink": "/tags/data"
+    },
+    {
+      "inline": true,
+      "label": "analytics",
+      "permalink": "/tags/analytics"
+    },
+    {
+      "inline": true,
+      "label": "profitability",
+      "permalink": "/tags/profitability"
+    },
+    {
+      "inline": true,
+      "label": "asic",
+      "permalink": "/tags/asic"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "HashRate Index",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "data",
+      "analytics",
+      "profitability",
+      "asic"
+    ],
+    "sources": [
+      "raw/home-mining-2023-07-31.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Fold",
+    "permalink": "/entities/fold"
+  },
+  "next": {
+    "title": "HashGuard",
+    "permalink": "/entities/hashguard"
+  }
+}

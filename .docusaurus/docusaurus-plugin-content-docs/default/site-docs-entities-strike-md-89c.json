@@ -1,0 +1,53 @@
+{
+  "id": "entities/strike",
+  "title": "Strike",
+  "description": "Consumer-friendly Bitcoin and Lightning payment application. Allows users to buy, sell, and send bitcoin with a focus on simplicity and low fees.",
+  "source": "@site/docs/entities/strike.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/strike",
+  "permalink": "/entities/strike",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    },
+    {
+      "inline": true,
+      "label": "business",
+      "permalink": "/tags/business"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Strike",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "tools",
+      "business",
+      "lightning"
+    ],
+    "sources": [
+      "raw/cashu-mints-meetup-10-2023-03-09.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Stratum V2",
+    "permalink": "/entities/stratum-v2"
+  },
+  "next": {
+    "title": "Tapsigner",
+    "permalink": "/entities/tapsigner"
+  }
+}

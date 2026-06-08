@@ -1,0 +1,72 @@
+{
+  "id": "entities/raspiblitz",
+  "title": "RaspiBlitz",
+  "description": "RaspiBlitz is a DIY Bitcoin Lightning node project built for education. Unlike commercial plug-and-play nodes, it emphasizes learning the underlying tools.",
+  "source": "@site/docs/entities/raspiblitz.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/raspiblitz",
+  "permalink": "/entities/raspiblitz",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "diy",
+      "permalink": "/tags/diy"
+    },
+    {
+      "inline": true,
+      "label": "raspberry-pi",
+      "permalink": "/tags/raspberry-pi"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    },
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RaspiBlitz",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "node",
+      "diy",
+      "raspberry-pi",
+      "lightning",
+      "open-source",
+      "education"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "public-pool.io",
+    "permalink": "/entities/public-pool"
+  },
+  "next": {
+    "title": "RoboSats",
+    "permalink": "/entities/robosats"
+  }
+}

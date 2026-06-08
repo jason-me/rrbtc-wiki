@@ -1,0 +1,66 @@
+{
+  "id": "entities/oshi-app",
+  "title": "Oshi App",
+  "description": "Bitcoin rewards and marketing platform for local businesses. Replaces traditional loyalty stars, punch cards, and points with bitcoin-backed incentives.",
+  "source": "@site/docs/entities/oshi-app.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/oshi-app",
+  "permalink": "/entities/oshi-app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "merchant",
+      "permalink": "/tags/merchant"
+    },
+    {
+      "inline": true,
+      "label": "rewards",
+      "permalink": "/tags/rewards"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "onboarding",
+      "permalink": "/tags/onboarding"
+    },
+    {
+      "inline": true,
+      "label": "local-business",
+      "permalink": "/tags/local-business"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Oshi App",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "merchant",
+      "rewards",
+      "lightning",
+      "onboarding",
+      "local-business"
+    ],
+    "sources": [
+      "raw/onboarding-local-businesses-2023-03-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "OpenNode",
+    "permalink": "/entities/opennode"
+  },
+  "next": {
+    "title": "Payjoin Development Kit (PDK)",
+    "permalink": "/entities/payjoin-dev-kit"
+  }
+}

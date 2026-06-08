@@ -1,0 +1,66 @@
+{
+  "id": "entities/pleblab",
+  "title": "PlebLab",
+  "description": "PlebLab is an Austin-based Bitcoin education initiative home to PlebDevs, a program that teaches Lightning and Bitcoin app development to beginners.",
+  "source": "@site/docs/entities/pleblab.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/pleblab",
+  "permalink": "/entities/pleblab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/tags/community"
+    },
+    {
+      "inline": true,
+      "label": "austin",
+      "permalink": "/tags/austin"
+    },
+    {
+      "inline": true,
+      "label": "plebdevs",
+      "permalink": "/tags/plebdevs"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "PlebLab",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "education",
+      "development",
+      "community",
+      "austin",
+      "plebdevs"
+    ],
+    "sources": [
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "PlebDevs",
+    "permalink": "/entities/plebdevs"
+  },
+  "next": {
+    "title": "Polar",
+    "permalink": "/entities/polar"
+  }
+}

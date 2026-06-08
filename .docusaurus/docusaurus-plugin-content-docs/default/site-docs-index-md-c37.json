@@ -1,0 +1,26 @@
+{
+  "id": "index",
+  "title": "Welcome",
+  "description": "Community knowledge base for Round Rock Bitcoin meetups",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Welcome",
+    "author": "Round Rock Bitcoiners",
+    "description": "Community knowledge base for Round Rock Bitcoin meetups",
+    "status": "complete",
+    "date": "2026-06-07T00:00:00.000Z",
+    "nav_order": 1
+  },
+  "sidebar": "wikiSidebar",
+  "next": {
+    "title": "Concepts",
+    "permalink": "/concepts/"
+  }
+}

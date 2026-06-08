@@ -1,0 +1,66 @@
+{
+  "id": "entities/ibexpay",
+  "title": "IBEXPay",
+  "description": "Merchant payment processor for accepting Bitcoin via Lightning and on-chain. Targets businesses from single-location shops to multi-location chains.",
+  "source": "@site/docs/entities/ibexpay.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/ibexpay",
+  "permalink": "/entities/ibexpay",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "merchant",
+      "permalink": "/tags/merchant"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "on-chain",
+      "permalink": "/tags/on-chain"
+    },
+    {
+      "inline": true,
+      "label": "payments",
+      "permalink": "/tags/payments"
+    },
+    {
+      "inline": true,
+      "label": "business",
+      "permalink": "/tags/business"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "IBEXPay",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "merchant",
+      "lightning",
+      "on-chain",
+      "payments",
+      "business"
+    ],
+    "sources": [
+      "raw/onboarding-local-businesses-2023-03-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "HWI (Hardware Wallet Interface)",
+    "permalink": "/entities/hwi"
+  },
+  "next": {
+    "title": "JoinMarket",
+    "permalink": "/entities/joinmarket"
+  }
+}

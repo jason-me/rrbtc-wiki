@@ -1,0 +1,78 @@
+{
+  "id": "concepts/mesh-networks",
+  "title": "Mesh Networks",
+  "description": "Mesh networks enable communication without centralized infrastructure — no cell towers, no ISPs, no internet required. For Bitcoiners, this is critical: payments can be agreed upon and signed offline, then broadcast when connectivity returns.",
+  "source": "@site/docs/concepts/mesh-networks.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/mesh-networks",
+  "permalink": "/concepts/mesh-networks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "mesh-networking",
+      "permalink": "/tags/mesh-networking"
+    },
+    {
+      "inline": true,
+      "label": "offline",
+      "permalink": "/tags/offline"
+    },
+    {
+      "inline": true,
+      "label": "disaster-prep",
+      "permalink": "/tags/disaster-prep"
+    },
+    {
+      "inline": true,
+      "label": "bluetooth",
+      "permalink": "/tags/bluetooth"
+    },
+    {
+      "inline": true,
+      "label": "lora",
+      "permalink": "/tags/lora"
+    },
+    {
+      "inline": true,
+      "label": "resilient-communications",
+      "permalink": "/tags/resilient-communications"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mesh Networks",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "privacy",
+      "mesh-networking",
+      "offline",
+      "disaster-prep",
+      "bluetooth",
+      "lora",
+      "resilient-communications"
+    ],
+    "sources": [
+      "raw/bitchat-and-chill-2025-08-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Lightning Network",
+    "permalink": "/concepts/lightning-network"
+  },
+  "next": {
+    "title": "Mining Payout Schemas",
+    "permalink": "/concepts/mining-payout-schemas"
+  }
+}

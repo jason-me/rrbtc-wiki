@@ -1,0 +1,63 @@
+{
+  "id": "entities/seedsigner",
+  "title": "SeedSigner",
+  "description": "Open-source, DIY Bitcoin signing device built from commodity hardware. Designed for air-gapped seed generation, transaction signing, and multisig coordination without trusting proprietary hardware.",
+  "source": "@site/docs/entities/seedsigner.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/seedsigner",
+  "permalink": "/entities/seedsigner",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    },
+    {
+      "inline": true,
+      "label": "signing-device",
+      "permalink": "/tags/signing-device"
+    },
+    {
+      "inline": true,
+      "label": "diy",
+      "permalink": "/tags/diy"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SeedSigner",
+    "created": "2026-06-05T00:00:00.000Z",
+    "updated": "2026-06-05T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "hardware-wallet",
+      "signing-device",
+      "diy",
+      "multisig",
+      "open-source"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "SatsCard",
+    "permalink": "/entities/sats-card"
+  },
+  "next": {
+    "title": "ShushMiner",
+    "permalink": "/entities/shushminer"
+  }
+}

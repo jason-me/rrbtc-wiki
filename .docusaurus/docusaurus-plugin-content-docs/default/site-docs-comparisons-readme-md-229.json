@@ -1,0 +1,23 @@
+{
+  "id": "comparisons/README",
+  "title": "Comparisons",
+  "description": "Head-to-head comparison pages for meetup discussion topics.",
+  "source": "@site/docs/comparisons/README.md",
+  "sourceDirName": "comparisons",
+  "slug": "/comparisons/",
+  "permalink": "/comparisons/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "UTXO Model",
+    "permalink": "/concepts/utxo-model"
+  },
+  "next": {
+    "title": "Bitcoin Core vs Bitcoin Knots",
+    "permalink": "/comparisons/bitcoin-core-vs-knots"
+  }
+}

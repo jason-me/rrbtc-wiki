@@ -1,0 +1,79 @@
+{
+  "id": "comparisons/privacy-stacks",
+  "title": "Privacy Stacks — CoinJoin and No-KYC Acquisition",
+  "description": "Privacy in Bitcoin is not a single tool — it is a layered practice. This comparison focuses on the two most critical layers: how you acquire bitcoin without KYC and how you break the transaction graph after acquisition.",
+  "source": "@site/docs/comparisons/privacy-stacks.md",
+  "sourceDirName": "comparisons",
+  "slug": "/comparisons/privacy-stacks",
+  "permalink": "/comparisons/privacy-stacks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "coinjoin",
+      "permalink": "/tags/coinjoin"
+    },
+    {
+      "inline": true,
+      "label": "acquisition",
+      "permalink": "/tags/acquisition"
+    },
+    {
+      "inline": true,
+      "label": "no-kyc",
+      "permalink": "/tags/no-kyc"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "opsec",
+      "permalink": "/tags/opsec"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Privacy Stacks — CoinJoin and No-KYC Acquisition",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "comparison",
+    "tags": [
+      "privacy",
+      "coinjoin",
+      "acquisition",
+      "no-kyc",
+      "bitcoin",
+      "opsec"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "raw/mobile-privacy-meetup-5-2022-10-13.md",
+      "entities/samourai-wallet.md",
+      "entities/wasabi-wallet.md",
+      "entities/joinmarket.md",
+      "entities/bisq.md",
+      "entities/azteco.md",
+      "concepts/privacy-stacks.md"
+    ],
+    "confidence": "high",
+    "contested": true
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Node Operating Systems",
+    "permalink": "/comparisons/node-operating-systems"
+  },
+  "next": {
+    "title": "Entities",
+    "permalink": "/entities/"
+  }
+}

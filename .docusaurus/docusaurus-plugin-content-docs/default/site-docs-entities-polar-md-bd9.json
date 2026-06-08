@@ -1,0 +1,59 @@
+{
+  "id": "entities/polar",
+  "title": "Polar",
+  "description": "A one-click Lightning Network simulator for local development and testing. Runs inside Docker and lets developers spin up private networks with multiple node implementations without touching mainnet.",
+  "source": "@site/docs/entities/polar.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/polar",
+  "permalink": "/entities/polar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "testing",
+      "permalink": "/tags/testing"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Polar",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "development",
+      "testing",
+      "tools"
+    ],
+    "sources": [
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "PlebLab",
+    "permalink": "/entities/pleblab"
+  },
+  "next": {
+    "title": "public-pool.io",
+    "permalink": "/entities/public-pool"
+  }
+}

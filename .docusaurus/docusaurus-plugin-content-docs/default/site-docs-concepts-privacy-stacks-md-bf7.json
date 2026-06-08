@@ -1,0 +1,79 @@
+{
+  "id": "concepts/privacy-stacks",
+  "title": "Privacy Stacks",
+  "description": "Privacy in Bitcoin is not a single tool — it is a layered practice combining network hygiene, transaction obfuscation, and operational security (OPSEC). The goal is to selectively reveal data instead of broadcasting it by default.",
+  "source": "@site/docs/concepts/privacy-stacks.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/privacy-stacks",
+  "permalink": "/concepts/privacy-stacks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "coinjoin",
+      "permalink": "/tags/coinjoin"
+    },
+    {
+      "inline": true,
+      "label": "tor",
+      "permalink": "/tags/tor"
+    },
+    {
+      "inline": true,
+      "label": "vpn",
+      "permalink": "/tags/vpn"
+    },
+    {
+      "inline": true,
+      "label": "opsec",
+      "permalink": "/tags/opsec"
+    },
+    {
+      "inline": true,
+      "label": "utxo-management",
+      "permalink": "/tags/utxo-management"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Privacy Stacks",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "privacy",
+      "bitcoin",
+      "coinjoin",
+      "tor",
+      "vpn",
+      "opsec",
+      "utxo-management"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "raw/mobile-privacy-meetup-5-2022-10-13.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "PayJoin",
+    "permalink": "/concepts/payjoin"
+  },
+  "next": {
+    "title": "Proof of Work & Bitcoin Supply",
+    "permalink": "/concepts/proof-of-work"
+  }
+}

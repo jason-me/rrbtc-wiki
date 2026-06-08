@@ -1,0 +1,78 @@
+{
+  "id": "concepts/no-kyc-acquisition",
+  "title": "No-KYC Acquisition Methods",
+  "description": "Acquiring bitcoin without identity verification preserves financial privacy, reduces third-party trust, and protects against data breaches. These methods range from low-effort (vouchers) to high-effort (mining), with varying privacy guarantees.",
+  "source": "@site/docs/concepts/no-kyc-acquisition.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/no-kyc-acquisition",
+  "permalink": "/concepts/no-kyc-acquisition",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "kyc",
+      "permalink": "/tags/kyc"
+    },
+    {
+      "inline": true,
+      "label": "acquisition",
+      "permalink": "/tags/acquisition"
+    },
+    {
+      "inline": true,
+      "label": "p2p",
+      "permalink": "/tags/p-2-p"
+    },
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "vouchers",
+      "permalink": "/tags/vouchers"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "No-KYC Acquisition Methods",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "privacy",
+      "bitcoin",
+      "kyc",
+      "acquisition",
+      "p2p",
+      "mining",
+      "vouchers"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Multisig",
+    "permalink": "/concepts/multisig"
+  },
+  "next": {
+    "title": "Nostr",
+    "permalink": "/concepts/nostr"
+  }
+}

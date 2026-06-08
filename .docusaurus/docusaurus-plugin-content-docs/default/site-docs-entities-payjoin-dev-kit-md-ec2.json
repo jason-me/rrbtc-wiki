@@ -1,0 +1,66 @@
+{
+  "id": "entities/payjoin-dev-kit",
+  "title": "Payjoin Development Kit (PDK)",
+  "description": "Open-source SDK for building Payjoin (BIP 78) functionality into Bitcoin wallets and applications. Maintained by Dan Gould.",
+  "source": "@site/docs/entities/payjoin-dev-kit.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/payjoin-dev-kit",
+  "permalink": "/entities/payjoin-dev-kit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "development-kit",
+      "permalink": "/tags/development-kit"
+    },
+    {
+      "inline": true,
+      "label": "payjoin",
+      "permalink": "/tags/payjoin"
+    },
+    {
+      "inline": true,
+      "label": "bip-78",
+      "permalink": "/tags/bip-78"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Payjoin Development Kit (PDK)",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "privacy",
+      "development-kit",
+      "payjoin",
+      "bip-78",
+      "open-source"
+    ],
+    "sources": [
+      "raw/bip-78-payjoin-protocol-pay-to-endpoint-p2ep-2023-07-31.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Oshi App",
+    "permalink": "/entities/oshi-app"
+  },
+  "next": {
+    "title": "Phoenix",
+    "permalink": "/entities/phoenix"
+  }
+}

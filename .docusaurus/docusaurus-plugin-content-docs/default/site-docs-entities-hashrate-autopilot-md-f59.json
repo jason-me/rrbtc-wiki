@@ -1,0 +1,61 @@
+{
+  "id": "entities/hashrate-autopilot",
+  "title": "Braiins Hashrate Autopilot",
+  "description": "Official automation tool from Braiins for managing hashrate bids on the Braiins Hashpower marketplace. Rules-based engine that buys hashrate when price crosses thresholds and auto-rebalances between pools.",
+  "source": "@site/docs/entities/hashrate-autopilot.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/hashrate-autopilot",
+  "permalink": "/entities/hashrate-autopilot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "automation",
+      "permalink": "/tags/automation"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    },
+    {
+      "inline": true,
+      "label": "braiins",
+      "permalink": "/tags/braiins"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Braiins Hashrate Autopilot",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "automation",
+      "tools",
+      "braiins"
+    ],
+    "sources": [
+      "raw/mining-like-the-big-players-2026-05-14.md",
+      "presentations/mining-like-the-big-players-2026-05-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "HashGuard",
+    "permalink": "/entities/hashguard"
+  },
+  "next": {
+    "title": "Hodl Up",
+    "permalink": "/entities/hodl-up"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "entities/sparrow-wallet",
+  "title": "Sparrow Wallet",
+  "description": "Sparrow Wallet is a desktop Bitcoin wallet focused on privacy, security, and flexibility. It supports single-sig and multisig setups and is designed for users who want full control over their coins and connections.",
+  "source": "@site/docs/entities/sparrow-wallet.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/sparrow-wallet",
+  "permalink": "/entities/sparrow-wallet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "desktop",
+      "permalink": "/tags/desktop"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sparrow Wallet",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "wallet",
+      "desktop",
+      "privacy",
+      "multisig",
+      "open-source"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/what-is-multisig-meetup-7-2022-12-08.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Simple Proof",
+    "permalink": "/entities/simple-proof"
+  },
+  "next": {
+    "title": "Specter Desktop",
+    "permalink": "/entities/specter-desktop"
+  }
+}

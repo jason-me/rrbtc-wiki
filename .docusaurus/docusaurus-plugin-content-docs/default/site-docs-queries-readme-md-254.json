@@ -1,0 +1,23 @@
+{
+  "id": "queries/README",
+  "title": "Queries",
+  "description": "Pre-built query examples for searching and filtering wiki content.",
+  "source": "@site/docs/queries/README.md",
+  "sourceDirName": "queries",
+  "slug": "/queries/",
+  "permalink": "/queries/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Zero Dollar Manifesto",
+    "permalink": "/presentations/zero-dollar-manifesto-sahil-2024-06-22"
+  },
+  "next": {
+    "title": "How Do I Start Mining at Home?",
+    "permalink": "/queries/how-do-i-start-mining-at-home"
+  }
+}

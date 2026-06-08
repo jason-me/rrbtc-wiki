@@ -1,0 +1,70 @@
+{
+  "id": "entities/robosats",
+  "title": "RoboSats",
+  "description": "RoboSats is a peer-to-peer exchange for buying and selling bitcoin using Lightning Network payments. It operates entirely over Tor and uses temporary robot identities, meaning users do not accumulate persistent trade history or reputation.",
+  "source": "@site/docs/entities/robosats.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/robosats",
+  "permalink": "/entities/robosats",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "exchange",
+      "permalink": "/tags/exchange"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "p2p",
+      "permalink": "/tags/p-2-p"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "tor",
+      "permalink": "/tags/tor"
+    },
+    {
+      "inline": true,
+      "label": "no-kyc",
+      "permalink": "/tags/no-kyc"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RoboSats",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "exchange",
+      "privacy",
+      "p2p",
+      "lightning",
+      "tor",
+      "no-kyc"
+    ],
+    "sources": [],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "RaspiBlitz",
+    "permalink": "/entities/raspiblitz"
+  },
+  "next": {
+    "title": "RoninDojo",
+    "permalink": "/entities/ronindojo"
+  }
+}

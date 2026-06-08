@@ -1,0 +1,59 @@
+{
+  "id": "entities/plebdevs",
+  "title": "PlebDevs",
+  "description": "A Bitcoin developer education initiative founded by Austin (@bitcoinplebdev) that teaches plebs to become technical builders on Bitcoin, Lightning, and Nostr. Operates out of PlebLab in Austin, TX.",
+  "source": "@site/docs/entities/plebdevs.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/plebdevs",
+  "permalink": "/entities/plebdevs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    },
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/tags/community"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "PlebDevs",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "development",
+      "education",
+      "community"
+    ],
+    "sources": [
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Phoenix",
+    "permalink": "/entities/phoenix"
+  },
+  "next": {
+    "title": "PlebLab",
+    "permalink": "/entities/pleblab"
+  }
+}

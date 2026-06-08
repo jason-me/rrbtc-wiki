@@ -1,0 +1,66 @@
+{
+  "id": "entities/phoenix",
+  "title": "Phoenix",
+  "description": "Self-custodial Lightning wallet by ACINQ. Designed to abstract channel management from the user while keeping keys on-device.",
+  "source": "@site/docs/entities/phoenix.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/phoenix",
+  "permalink": "/entities/phoenix",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "self-custodial",
+      "permalink": "/tags/self-custodial"
+    },
+    {
+      "inline": true,
+      "label": "beginner-friendly",
+      "permalink": "/tags/beginner-friendly"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Phoenix",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "wallet",
+      "mobile",
+      "self-custodial",
+      "beginner-friendly"
+    ],
+    "sources": [
+      "raw/running-robosats-2023-04-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Payjoin Development Kit (PDK)",
+    "permalink": "/entities/payjoin-dev-kit"
+  },
+  "next": {
+    "title": "PlebDevs",
+    "permalink": "/entities/plebdevs"
+  }
+}

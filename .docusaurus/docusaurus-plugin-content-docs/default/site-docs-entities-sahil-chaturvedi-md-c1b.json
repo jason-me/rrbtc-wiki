@@ -1,0 +1,61 @@
+{
+  "id": "entities/sahil-chaturvedi",
+  "title": "Sahil Chaturvedi",
+  "description": "Bitcoiner, designer, and advocate for the #GetOnZero philosophy. Presented the Zero Dollar Manifesto at Round Rock Bitcoiners Meetup #24.",
+  "source": "@site/docs/entities/sahil-chaturvedi.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/sahil-chaturvedi",
+  "permalink": "/entities/sahil-chaturvedi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "presenter",
+      "permalink": "/tags/presenter"
+    },
+    {
+      "inline": true,
+      "label": "getonzero",
+      "permalink": "/tags/getonzero"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin-only",
+      "permalink": "/tags/bitcoin-only"
+    },
+    {
+      "inline": true,
+      "label": "personal-finance",
+      "permalink": "/tags/personal-finance"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sahil Chaturvedi",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "presenter",
+      "getonzero",
+      "bitcoin-only",
+      "personal-finance"
+    ],
+    "sources": [
+      "raw/zero-dollar-manifesto-sahil-2024-06-22.md",
+      "presentations/zero-dollar-manifesto-sahil-2024-06-22.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "RoninDojo",
+    "permalink": "/entities/ronindojo"
+  },
+  "next": {
+    "title": "Samourai Wallet",
+    "permalink": "/entities/samourai-wallet"
+  }
+}

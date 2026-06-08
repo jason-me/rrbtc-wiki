@@ -1,0 +1,628 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "comparisons/bitcoin-core-vs-knots",
+              "path": "/comparisons/bitcoin-core-vs-knots",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "comparisons/collaborative-custody-providers",
+              "path": "/comparisons/collaborative-custody-providers",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "comparisons/mining-payout-schemas",
+              "path": "/comparisons/mining-payout-schemas",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "comparisons/node-operating-systems",
+              "path": "/comparisons/node-operating-systems",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "comparisons/privacy-stacks",
+              "path": "/comparisons/privacy-stacks",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "comparisons/README",
+              "path": "/comparisons/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/accessibility-in-bitcoin",
+              "path": "/concepts/accessibility-in-bitcoin",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/ai-and-bitcoin",
+              "path": "/concepts/ai-and-bitcoin",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/bitcoin-address-types",
+              "path": "/concepts/bitcoin-address-types",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/bitcoin-education",
+              "path": "/concepts/bitcoin-education",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/bitcoin-nfts",
+              "path": "/concepts/bitcoin-nfts",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/bitcoin-node-types",
+              "path": "/concepts/bitcoin-node-types",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/bitcoin-protocol",
+              "path": "/concepts/bitcoin-protocol",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/chaumian-ecash",
+              "path": "/concepts/chaumian-ecash",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/circular-economy",
+              "path": "/concepts/circular-economy",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/custody-models",
+              "path": "/concepts/custody-models",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/home-mining",
+              "path": "/concepts/home-mining",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/lightning-network",
+              "path": "/concepts/lightning-network",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/mesh-networks",
+              "path": "/concepts/mesh-networks",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/mining-payout-schemas",
+              "path": "/concepts/mining-payout-schemas",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/multisig",
+              "path": "/concepts/multisig",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/no-kyc-acquisition",
+              "path": "/concepts/no-kyc-acquisition",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/nostr",
+              "path": "/concepts/nostr",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/p2p-exchange",
+              "path": "/concepts/p2p-exchange",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/payjoin",
+              "path": "/concepts/payjoin",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/privacy-stacks",
+              "path": "/concepts/privacy-stacks",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/proof-of-work",
+              "path": "/concepts/proof-of-work",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/README",
+              "path": "/concepts/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "concepts/utxo-model",
+              "path": "/concepts/utxo-model",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/alby",
+              "path": "/entities/alby",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/axe-os",
+              "path": "/entities/axe-os",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/azteco",
+              "path": "/entities/azteco",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/base58",
+              "path": "/entities/base58",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bisq",
+              "path": "/entities/bisq",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bitaxe",
+              "path": "/entities/bitaxe",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bitcoin-commons",
+              "path": "/entities/bitcoin-commons",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bitcoin-core",
+              "path": "/entities/bitcoin-core",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bitcoin-knots",
+              "path": "/entities/bitcoin-knots",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bitrefill",
+              "path": "/entities/bitrefill",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/blockstream-green",
+              "path": "/entities/blockstream-green",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bluewallet",
+              "path": "/entities/bluewallet",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/bolt-card",
+              "path": "/entities/bolt-card",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/braiins-hashpower",
+              "path": "/entities/braiins-hashpower",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/breez",
+              "path": "/entities/breez",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/btcmap",
+              "path": "/entities/btcmap",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/btcpay-server",
+              "path": "/entities/btcpay-server",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/c-lightning",
+              "path": "/entities/c-lightning",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/caravan",
+              "path": "/entities/caravan",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/casa",
+              "path": "/entities/casa",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/casdcr",
+              "path": "/entities/casdcr",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/cashu",
+              "path": "/entities/cashu",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/coinatmradar",
+              "path": "/entities/coinatmradar",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/coldcard",
+              "path": "/entities/coldcard",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/comparepower",
+              "path": "/entities/comparepower",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/datum",
+              "path": "/entities/datum",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/electrum",
+              "path": "/entities/electrum",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/feed-filter",
+              "path": "/entities/feed-filter",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/fold",
+              "path": "/entities/fold",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/hash-rate-index",
+              "path": "/entities/hash-rate-index",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/hashguard",
+              "path": "/entities/hashguard",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/hashrate-autopilot",
+              "path": "/entities/hashrate-autopilot",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/hodl-up",
+              "path": "/entities/hodl-up",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/hodlhodl",
+              "path": "/entities/hodlhodl",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/hwi",
+              "path": "/entities/hwi",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/ibexpay",
+              "path": "/entities/ibexpay",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/joinmarket",
+              "path": "/entities/joinmarket",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/kaboom-racks",
+              "path": "/entities/kaboom-racks",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/ledger",
+              "path": "/entities/ledger",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/lnbits",
+              "path": "/entities/lnbits",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/muun",
+              "path": "/entities/muun",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/mynode",
+              "path": "/entities/mynode",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/nunchuk",
+              "path": "/entities/nunchuk",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/nutstash",
+              "path": "/entities/nutstash",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/ocean-xyz",
+              "path": "/entities/ocean-xyz",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/opennode",
+              "path": "/entities/opennode",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/oshi-app",
+              "path": "/entities/oshi-app",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/payjoin-dev-kit",
+              "path": "/entities/payjoin-dev-kit",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/phoenix",
+              "path": "/entities/phoenix",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/plebdevs",
+              "path": "/entities/plebdevs",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/pleblab",
+              "path": "/entities/pleblab",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/polar",
+              "path": "/entities/polar",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/public-pool",
+              "path": "/entities/public-pool",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/raspiblitz",
+              "path": "/entities/raspiblitz",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/README",
+              "path": "/entities/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/robosats",
+              "path": "/entities/robosats",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/ronindojo",
+              "path": "/entities/ronindojo",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/sahil-chaturvedi",
+              "path": "/entities/sahil-chaturvedi",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/samourai-wallet",
+              "path": "/entities/samourai-wallet",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/sats-card",
+              "path": "/entities/sats-card",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/seedsigner",
+              "path": "/entities/seedsigner",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/shushminer",
+              "path": "/entities/shushminer",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/simple-proof",
+              "path": "/entities/simple-proof",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/sparrow-wallet",
+              "path": "/entities/sparrow-wallet",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/specter-desktop",
+              "path": "/entities/specter-desktop",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/start-os",
+              "path": "/entities/start-os",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/stonewall",
+              "path": "/entities/stonewall",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/stowaway",
+              "path": "/entities/stowaway",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/stratum-v2",
+              "path": "/entities/stratum-v2",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/strike",
+              "path": "/entities/strike",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/tapsigner",
+              "path": "/entities/tapsigner",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/trezor",
+              "path": "/entities/trezor",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/umbrel",
+              "path": "/entities/umbrel",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/unchained-capital",
+              "path": "/entities/unchained-capital",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/upstream-data",
+              "path": "/entities/upstream-data",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/wasabi-wallet",
+              "path": "/entities/wasabi-wallet",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/whirlpool",
+              "path": "/entities/whirlpool",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "entities/zeus",
+              "path": "/entities/zeus",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "log",
+              "path": "/log",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-hashpower-datum-outline",
+              "path": "/presentations/mining-hashpower-datum-outline",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/README",
+              "path": "/presentations/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "queries/how-do-i-start-mining-at-home",
+              "path": "/queries/how-do-i-start-mining-at-home",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "queries/README",
+              "path": "/queries/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "queries/what-privacy-stack-should-i-use-for-mobile",
+              "path": "/queries/what-privacy-stack-should-i-use-for-mobile",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "queries/which-custody-model-fits-my-threat-model",
+              "path": "/queries/which-custody-model-fits-my-threat-model",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "summaries/getonzero-synthesis",
+              "path": "/summaries/getonzero-synthesis",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "summaries/mining-decentralization",
+              "path": "/summaries/mining-decentralization",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "summaries/privacy-as-a-spectrum",
+              "path": "/summaries/privacy-as-a-spectrum",
+              "sidebar": "wikiSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "wikiSidebar": {
+              "link": {
+                "path": "/",
+                "label": "Welcome"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

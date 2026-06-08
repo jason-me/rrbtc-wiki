@@ -1,0 +1,87 @@
+{
+  "id": "summaries/privacy-as-a-spectrum",
+  "title": "Privacy as a Spectrum",
+  "description": "Privacy is not a feature you add to Bitcoin after the fact. It is a prerequisite for fungibility: the property that makes one satoshi interchangeable with any other. Without privacy, transactions become targets for censorship, surveillance, and discrimination. The blockchain is permanent; any link you create between your identity and your UTXOs cannot be undone.",
+  "source": "@site/docs/summaries/privacy-as-a-spectrum.md",
+  "sourceDirName": "summaries",
+  "slug": "/summaries/privacy-as-a-spectrum",
+  "permalink": "/summaries/privacy-as-a-spectrum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "opsec",
+      "permalink": "/tags/opsec"
+    },
+    {
+      "inline": true,
+      "label": "coinjoin",
+      "permalink": "/tags/coinjoin"
+    },
+    {
+      "inline": true,
+      "label": "ecash",
+      "permalink": "/tags/ecash"
+    },
+    {
+      "inline": true,
+      "label": "mesh",
+      "permalink": "/tags/mesh"
+    },
+    {
+      "inline": true,
+      "label": "spectrum",
+      "permalink": "/tags/spectrum"
+    },
+    {
+      "inline": true,
+      "label": "synthesis",
+      "permalink": "/tags/synthesis"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Privacy as a Spectrum",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "summary",
+    "tags": [
+      "privacy",
+      "bitcoin",
+      "opsec",
+      "coinjoin",
+      "ecash",
+      "mesh",
+      "spectrum",
+      "synthesis"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "raw/mobile-privacy-meetup-5-2022-10-13.md",
+      "raw/cashu-mints-meetup-10-2023-03-09.md",
+      "raw/bitchat-and-chill-2025-08-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Mining Decentralization",
+    "permalink": "/summaries/mining-decentralization"
+  },
+  "next": {
+    "title": "Change Log",
+    "permalink": "/log"
+  }
+}

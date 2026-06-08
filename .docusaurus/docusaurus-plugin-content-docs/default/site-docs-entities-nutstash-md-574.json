@@ -1,0 +1,53 @@
+{
+  "id": "entities/nutstash",
+  "title": "Nutstash",
+  "description": "Web-based Cashu ecash wallet. Enables users to hold and transfer Chaumian ecash tokens backed by Lightning Network bitcoin.",
+  "source": "@site/docs/entities/nutstash.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/nutstash",
+  "permalink": "/entities/nutstash",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nutstash",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "privacy",
+      "tools",
+      "lightning"
+    ],
+    "sources": [
+      "raw/cashu-mints-meetup-10-2023-03-09.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Nunchuk",
+    "permalink": "/entities/nunchuk"
+  },
+  "next": {
+    "title": "Ocean.xyz",
+    "permalink": "/entities/ocean-xyz"
+  }
+}

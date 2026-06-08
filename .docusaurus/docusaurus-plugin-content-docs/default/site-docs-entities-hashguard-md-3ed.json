@@ -1,0 +1,61 @@
+{
+  "id": "entities/hashguard",
+  "title": "HashGuard",
+  "description": "DIY Python auto-optimizer for the Braiins Hashpower marketplace. Monitors the order book, detects stalled bids, and automatically adjusts pricing to maintain hashrate flow while minimizing overpayment.",
+  "source": "@site/docs/entities/hashguard.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/hashguard",
+  "permalink": "/entities/hashguard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "automation",
+      "permalink": "/tags/automation"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    },
+    {
+      "inline": true,
+      "label": "python",
+      "permalink": "/tags/python"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "HashGuard",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "automation",
+      "tools",
+      "python"
+    ],
+    "sources": [
+      "raw/mining-like-the-big-players-2026-05-14.md",
+      "presentations/mining-like-the-big-players-2026-05-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "HashRate Index",
+    "permalink": "/entities/hash-rate-index"
+  },
+  "next": {
+    "title": "Braiins Hashrate Autopilot",
+    "permalink": "/entities/hashrate-autopilot"
+  }
+}

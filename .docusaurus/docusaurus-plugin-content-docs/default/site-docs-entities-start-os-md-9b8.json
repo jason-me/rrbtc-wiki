@@ -1,0 +1,66 @@
+{
+  "id": "entities/start-os",
+  "title": "StartOS",
+  "description": "StartOS (formerly Start9OS) is a Debian-based operating system designed specifically for self-hosting Bitcoin and Lightning infrastructure. It packages complex services into one-click installs with automatic Tor and LAN access.",
+  "source": "@site/docs/entities/start-os.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/start-os",
+  "permalink": "/entities/start-os",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "server",
+      "permalink": "/tags/server"
+    },
+    {
+      "inline": true,
+      "label": "self-hosting",
+      "permalink": "/tags/self-hosting"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StartOS",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "node",
+      "server",
+      "self-hosting",
+      "bitcoin",
+      "privacy"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Specter Desktop",
+    "permalink": "/entities/specter-desktop"
+  },
+  "next": {
+    "title": "Stonewall",
+    "permalink": "/entities/stonewall"
+  }
+}

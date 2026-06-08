@@ -1,0 +1,56 @@
+{
+  "id": "entities/alby",
+  "title": "Alby",
+  "description": "Browser extension for Bitcoin Lightning payments and Nostr signing. Provides a non-custodial wallet with seamless web integration via the WebLN standard.",
+  "source": "@site/docs/entities/alby.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/alby",
+  "permalink": "/entities/alby",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "nostr",
+      "permalink": "/tags/nostr"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Alby",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "nostr",
+      "tools"
+    ],
+    "sources": [
+      "raw/what-is-nostr-meetup-8-2023-01-12.md",
+      "raw/cascdr-project-meetup-27-2024-08-08.md",
+      "raw/why-lightning-plus-ai-2024-08-13.md",
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/entities/"
+  },
+  "next": {
+    "title": "AxeOS",
+    "permalink": "/entities/axe-os"
+  }
+}

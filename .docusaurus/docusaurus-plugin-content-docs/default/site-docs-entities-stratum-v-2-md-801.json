@@ -1,0 +1,66 @@
+{
+  "id": "entities/stratum-v2",
+  "title": "Stratum V2",
+  "description": "Stratum V2 (Sv2) is a next-generation mining protocol that addresses the centralization risks inherent in the original Stratum protocol by giving miners control over block template construction.",
+  "source": "@site/docs/entities/stratum-v2.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/stratum-v2",
+  "permalink": "/entities/stratum-v2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "protocol",
+      "permalink": "/tags/protocol"
+    },
+    {
+      "inline": true,
+      "label": "stratum",
+      "permalink": "/tags/stratum"
+    },
+    {
+      "inline": true,
+      "label": "security",
+      "permalink": "/tags/security"
+    },
+    {
+      "inline": true,
+      "label": "decentralization",
+      "permalink": "/tags/decentralization"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Stratum V2",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "protocol",
+      "stratum",
+      "security",
+      "decentralization"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Stowaway",
+    "permalink": "/entities/stowaway"
+  },
+  "next": {
+    "title": "Strike",
+    "permalink": "/entities/strike"
+  }
+}

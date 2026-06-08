@@ -1,0 +1,87 @@
+{
+  "id": "queries/how-do-i-start-mining-at-home",
+  "title": "How Do I Start Mining at Home?",
+  "description": "Home mining has three entry points: low-power hardware (Bitaxe), professional ASICs at home (S19, S21), or rented industrial hashrate you control via template protocols (DATUM/Stratum V2). This page maps all three paths from first purchase to first accepted share.",
+  "source": "@site/docs/queries/how-do-i-start-mining-at-home.md",
+  "sourceDirName": "queries",
+  "slug": "/queries/how-do-i-start-mining-at-home",
+  "permalink": "/queries/how-do-i-start-mining-at-home",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "bitaxe",
+      "permalink": "/tags/bitaxe"
+    },
+    {
+      "inline": true,
+      "label": "solo-mining",
+      "permalink": "/tags/solo-mining"
+    },
+    {
+      "inline": true,
+      "label": "pool-mining",
+      "permalink": "/tags/pool-mining"
+    },
+    {
+      "inline": true,
+      "label": "datum",
+      "permalink": "/tags/datum"
+    },
+    {
+      "inline": true,
+      "label": "stratum",
+      "permalink": "/tags/stratum"
+    },
+    {
+      "inline": true,
+      "label": "home-mining",
+      "permalink": "/tags/home-mining"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "How Do I Start Mining at Home?",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "query",
+    "tags": [
+      "mining",
+      "bitaxe",
+      "solo-mining",
+      "pool-mining",
+      "datum",
+      "stratum",
+      "home-mining"
+    ],
+    "sources": [
+      "raw/decentralized-home-mining-bitaxe-2025-04.md",
+      "raw/decentralized-mining-workshop-meetup-30.md",
+      "presentations/mining-hashpower-datum-outline-2026-05.md",
+      "entities/bitaxe.md",
+      "entities/datum.md",
+      "entities/stratum-v2.md",
+      "entities/ocean-xyz.md",
+      "entities/public-pool.md",
+      "entities/braiins-hashpower.md",
+      "concepts/mining-payout-schemas.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Queries",
+    "permalink": "/queries/"
+  },
+  "next": {
+    "title": "What Privacy Stack Should I Use for Mobile?",
+    "permalink": "/queries/what-privacy-stack-should-i-use-for-mobile"
+  }
+}

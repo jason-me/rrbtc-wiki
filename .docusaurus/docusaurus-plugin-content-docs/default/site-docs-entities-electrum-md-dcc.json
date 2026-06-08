@@ -1,0 +1,67 @@
+{
+  "id": "entities/electrum",
+  "title": "Electrum",
+  "description": "Electrum is one of the oldest Bitcoin wallets, using SPV to verify transactions without downloading the full blockchain. Its server implementation (ElectrumX, Electrs, Fulcrum) is widely bundled with node packages.",
+  "source": "@site/docs/entities/electrum.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/electrum",
+  "permalink": "/entities/electrum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "desktop",
+      "permalink": "/tags/desktop"
+    },
+    {
+      "inline": true,
+      "label": "light-client",
+      "permalink": "/tags/light-client"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    },
+    {
+      "inline": true,
+      "label": "legacy",
+      "permalink": "/tags/legacy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Electrum",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "wallet",
+      "desktop",
+      "light-client",
+      "open-source",
+      "legacy"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/node-builder-workshop-2025-11-13.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "DATUM",
+    "permalink": "/entities/datum"
+  },
+  "next": {
+    "title": "Feed Filter",
+    "permalink": "/entities/feed-filter"
+  }
+}

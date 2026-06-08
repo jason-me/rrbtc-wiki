@@ -1,0 +1,66 @@
+{
+  "id": "entities/tapsigner",
+  "title": "Tapsigner",
+  "description": "NFC-enabled card from Coinkite storing a Bitcoin private key. Sign transactions by tapping the card to your phone.",
+  "source": "@site/docs/entities/tapsigner.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/tapsigner",
+  "permalink": "/entities/tapsigner",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "nfc",
+      "permalink": "/tags/nfc"
+    },
+    {
+      "inline": true,
+      "label": "hardware",
+      "permalink": "/tags/hardware"
+    },
+    {
+      "inline": true,
+      "label": "signing-device",
+      "permalink": "/tags/signing-device"
+    },
+    {
+      "inline": true,
+      "label": "cold-storage",
+      "permalink": "/tags/cold-storage"
+    },
+    {
+      "inline": true,
+      "label": "coinkite",
+      "permalink": "/tags/coinkite"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tapsigner",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "nfc",
+      "hardware",
+      "signing-device",
+      "cold-storage",
+      "coinkite"
+    ],
+    "sources": [
+      "raw/nfc-cards-wallets-for-bitcoin-2023-05-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Strike",
+    "permalink": "/entities/strike"
+  },
+  "next": {
+    "title": "Trezor",
+    "permalink": "/entities/trezor"
+  }
+}

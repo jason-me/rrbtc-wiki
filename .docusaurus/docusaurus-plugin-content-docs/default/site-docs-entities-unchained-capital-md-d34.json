@@ -1,0 +1,54 @@
+{
+  "id": "entities/unchained-capital",
+  "title": "Unchained Capital",
+  "description": "Collaborative custody provider and financial services company focused on bitcoin-native products.",
+  "source": "@site/docs/entities/unchained-capital.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/unchained-capital",
+  "permalink": "/entities/unchained-capital",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "business",
+      "permalink": "/tags/business"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Unchained Capital",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "custody",
+      "multisig",
+      "business"
+    ],
+    "sources": [
+      "raw/what-is-multisig-meetup-7-2022-12-08.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Umbrel",
+    "permalink": "/entities/umbrel"
+  },
+  "next": {
+    "title": "Upstream Data",
+    "permalink": "/entities/upstream-data"
+  }
+}

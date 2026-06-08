@@ -1,0 +1,73 @@
+{
+  "id": "concepts/ai-and-bitcoin",
+  "title": "AI and Bitcoin",
+  "description": "The intersection of artificial intelligence and Bitcoin presents both risks and opportunities. AI benefits from decentralization, privacy, and permissionless payment rails — while Bitcoin benefits from AI-assisted tooling for content, code, and automation.",
+  "source": "@site/docs/concepts/ai-and-bitcoin.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/ai-and-bitcoin",
+  "permalink": "/concepts/ai-and-bitcoin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "decentralization",
+      "permalink": "/tags/decentralization"
+    },
+    {
+      "inline": true,
+      "label": "LLM",
+      "permalink": "/tags/llm"
+    },
+    {
+      "inline": true,
+      "label": "sovereignty",
+      "permalink": "/tags/sovereignty"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "AI and Bitcoin",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "AI",
+      "lightning",
+      "privacy",
+      "decentralization",
+      "LLM",
+      "sovereignty"
+    ],
+    "sources": [
+      "raw/why-lightning-plus-ai-2024-08-13.md",
+      "raw/cascdr-project-meetup-27-2024-08-08.md",
+      "raw/feed-filter-demo-2025-12-11.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Accessibility in Bitcoin",
+    "permalink": "/concepts/accessibility-in-bitcoin"
+  },
+  "next": {
+    "title": "Bitcoin Address Types",
+    "permalink": "/concepts/bitcoin-address-types"
+  }
+}

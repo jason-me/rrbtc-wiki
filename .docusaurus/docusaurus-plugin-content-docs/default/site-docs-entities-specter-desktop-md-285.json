@@ -1,0 +1,54 @@
+{
+  "id": "entities/specter-desktop",
+  "title": "Specter Desktop",
+  "description": "Open-source DIY multisig coordinator for Bitcoin. Runs as a desktop application with optional hardware wallet integration.",
+  "source": "@site/docs/entities/specter-desktop.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/specter-desktop",
+  "permalink": "/entities/specter-desktop",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Specter Desktop",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "custody",
+      "multisig",
+      "tools"
+    ],
+    "sources": [
+      "raw/what-is-multisig-meetup-7-2022-12-08.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Sparrow Wallet",
+    "permalink": "/entities/sparrow-wallet"
+  },
+  "next": {
+    "title": "StartOS",
+    "permalink": "/entities/start-os"
+  }
+}

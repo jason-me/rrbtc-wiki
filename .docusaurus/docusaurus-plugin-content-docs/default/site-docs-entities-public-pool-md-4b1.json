@@ -1,0 +1,66 @@
+{
+  "id": "entities/public-pool",
+  "title": "public-pool.io",
+  "description": "public-pool.io is a zero-fee, open-source solo mining pool. Instead of sharing rewards across participants, every connected miner hashes independently against the network difficulty—if you find a block, you keep the entire reward.",
+  "source": "@site/docs/entities/public-pool.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/public-pool",
+  "permalink": "/entities/public-pool",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "pool",
+      "permalink": "/tags/pool"
+    },
+    {
+      "inline": true,
+      "label": "solo-mining",
+      "permalink": "/tags/solo-mining"
+    },
+    {
+      "inline": true,
+      "label": "bitaxe",
+      "permalink": "/tags/bitaxe"
+    },
+    {
+      "inline": true,
+      "label": "non-kyc",
+      "permalink": "/tags/non-kyc"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "public-pool.io",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "pool",
+      "solo-mining",
+      "bitaxe",
+      "non-kyc"
+    ],
+    "sources": [
+      "raw/decentralized-home-mining-bitaxe-2025-04.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Polar",
+    "permalink": "/entities/polar"
+  },
+  "next": {
+    "title": "RaspiBlitz",
+    "permalink": "/entities/raspiblitz"
+  }
+}

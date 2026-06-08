@@ -1,0 +1,72 @@
+{
+  "id": "concepts/bitcoin-node-types",
+  "title": "Bitcoin Node Types",
+  "description": "A Bitcoin node is any computer running software that enforces the consensus rules of the network. Not all nodes serve the same purpose — they range from passive validators to active infrastructure participants.",
+  "source": "@site/docs/concepts/bitcoin-node-types.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/bitcoin-node-types",
+  "permalink": "/concepts/bitcoin-node-types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "nodes",
+      "permalink": "/tags/nodes"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "full-node",
+      "permalink": "/tags/full-node"
+    },
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Node Types",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "bitcoin",
+      "nodes",
+      "infrastructure",
+      "full-node",
+      "mining",
+      "lightning"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Data Carving (Ordinals, Inscriptions, BRC-20, Runes)",
+    "permalink": "/concepts/bitcoin-nfts"
+  },
+  "next": {
+    "title": "Bitcoin Protocol",
+    "permalink": "/concepts/bitcoin-protocol"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "entities/axe-os",
+  "title": "AxeOS",
+  "description": "AxeOS is the primary open-source firmware for BitAxe miners. It replaces factory firmware to provide lower latency, better pool compatibility, and advanced configuration options including DATUM support.",
+  "source": "@site/docs/entities/axe-os.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/axe-os",
+  "permalink": "/entities/axe-os",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "firmware",
+      "permalink": "/tags/firmware"
+    },
+    {
+      "inline": true,
+      "label": "bitaxe",
+      "permalink": "/tags/bitaxe"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    },
+    {
+      "inline": true,
+      "label": "optimization",
+      "permalink": "/tags/optimization"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "AxeOS",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "firmware",
+      "bitaxe",
+      "open-source",
+      "optimization"
+    ],
+    "sources": [
+      "raw/decentralized-home-mining-bitaxe-2025-04.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Alby",
+    "permalink": "/entities/alby"
+  },
+  "next": {
+    "title": "Azteco",
+    "permalink": "/entities/azteco"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "entities/hodlhodl",
+  "title": "HodlHodl",
+  "description": "HodlHodl is a non-custodial, peer-to-peer bitcoin exchange platform. Unlike Bisq, it is web-hosted rather than fully decentralized, but it remains non-custodial through 2-of-3 multisig escrow.",
+  "source": "@site/docs/entities/hodlhodl.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/hodlhodl",
+  "permalink": "/entities/hodlhodl",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "exchange",
+      "permalink": "/tags/exchange"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "p2p",
+      "permalink": "/tags/p-2-p"
+    },
+    {
+      "inline": true,
+      "label": "no-kyc",
+      "permalink": "/tags/no-kyc"
+    },
+    {
+      "inline": true,
+      "label": "trading",
+      "permalink": "/tags/trading"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "HodlHodl",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "exchange",
+      "privacy",
+      "p2p",
+      "no-kyc",
+      "trading"
+    ],
+    "sources": [],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Hodl Up",
+    "permalink": "/entities/hodl-up"
+  },
+  "next": {
+    "title": "HWI (Hardware Wallet Interface)",
+    "permalink": "/entities/hwi"
+  }
+}

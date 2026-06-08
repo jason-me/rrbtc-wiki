@@ -1,0 +1,54 @@
+{
+  "id": "concepts/accessibility-in-bitcoin",
+  "title": "Accessibility in Bitcoin",
+  "description": "Bitcoin UX is high-stakes and unforgiving. Accessibility ensures that people with disabilities — and those in temporary or environmental limiting conditions — can use bitcoin safely and independently.",
+  "source": "@site/docs/concepts/accessibility-in-bitcoin.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/accessibility-in-bitcoin",
+  "permalink": "/concepts/accessibility-in-bitcoin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "design",
+      "permalink": "/tags/design"
+    },
+    {
+      "inline": true,
+      "label": "accessibility",
+      "permalink": "/tags/accessibility"
+    },
+    {
+      "inline": true,
+      "label": "ux",
+      "permalink": "/tags/ux"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Accessibility in Bitcoin",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "design",
+      "accessibility",
+      "ux"
+    ],
+    "sources": [
+      "raw/bitcoindesign-gaad-workshop1-2025-05-16.md",
+      "raw/bitcoindesign-gaad-workshop2-2025-05-16.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/concepts/"
+  },
+  "next": {
+    "title": "AI and Bitcoin",
+    "permalink": "/concepts/ai-and-bitcoin"
+  }
+}

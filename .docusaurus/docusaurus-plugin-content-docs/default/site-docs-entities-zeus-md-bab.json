@@ -1,0 +1,66 @@
+{
+  "id": "entities/zeus",
+  "title": "Zeus",
+  "description": "Mobile Lightning wallet and node management app. Connects to your own Lightning node (LND, Core Lightning, or Eclair) remotely, giving you full control without running a node on your phone.",
+  "source": "@site/docs/entities/zeus.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/zeus",
+  "permalink": "/entities/zeus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "node-management",
+      "permalink": "/tags/node-management"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Zeus",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "wallet",
+      "mobile",
+      "node-management",
+      "open-source"
+    ],
+    "sources": [
+      "raw/running-robosats-2023-04-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Whirlpool",
+    "permalink": "/entities/whirlpool"
+  },
+  "next": {
+    "title": "Presentations",
+    "permalink": "/presentations/"
+  }
+}

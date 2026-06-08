@@ -1,0 +1,53 @@
+{
+  "id": "entities/casa",
+  "title": "Casa",
+  "description": "Fee-based collaborative custody service providing managed multisig vaults and personal security consulting.",
+  "source": "@site/docs/entities/casa.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/casa",
+  "permalink": "/entities/casa",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "business",
+      "permalink": "/tags/business"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Casa",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "custody",
+      "multisig",
+      "business"
+    ],
+    "sources": [
+      "raw/what-is-multisig-meetup-7-2022-12-08.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Caravan",
+    "permalink": "/entities/caravan"
+  },
+  "next": {
+    "title": "CASCDR",
+    "permalink": "/entities/casdcr"
+  }
+}

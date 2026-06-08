@@ -1,0 +1,68 @@
+{
+  "id": "entities/coldcard",
+  "title": "ColdCard",
+  "description": "ColdCard is a hardware wallet for advanced users prioritizing security verification, air-gapped signing, and open-source principles. Manufactured by Coinkite, widely used in multisig setups.",
+  "source": "@site/docs/entities/coldcard.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/coldcard",
+  "permalink": "/entities/coldcard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    },
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "cold-storage",
+      "permalink": "/tags/cold-storage"
+    },
+    {
+      "inline": true,
+      "label": "air-gapped",
+      "permalink": "/tags/air-gapped"
+    },
+    {
+      "inline": true,
+      "label": "verifiable",
+      "permalink": "/tags/verifiable"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ColdCard",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "hardware-wallet",
+      "custody",
+      "cold-storage",
+      "air-gapped",
+      "verifiable"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "raw/bitcoin-protocol-meetup-2-2022-07-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "CoinATMRadar",
+    "permalink": "/entities/coinatmradar"
+  },
+  "next": {
+    "title": "ComparePower",
+    "permalink": "/entities/comparepower"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "concepts/utxo-model",
+  "title": "UTXO Model",
+  "description": "Bitcoin does not use an \"account balance\" system like a bank. Instead, it tracks Unspent Transaction Outputs (UTXOs) — discrete chunks of bitcoin that have been received but not yet spent.",
+  "source": "@site/docs/concepts/utxo-model.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/utxo-model",
+  "permalink": "/concepts/utxo-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "utxo",
+      "permalink": "/tags/utxo"
+    },
+    {
+      "inline": true,
+      "label": "transactions",
+      "permalink": "/tags/transactions"
+    },
+    {
+      "inline": true,
+      "label": "keys",
+      "permalink": "/tags/keys"
+    },
+    {
+      "inline": true,
+      "label": "cryptography",
+      "permalink": "/tags/cryptography"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "UTXO Model",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "bitcoin",
+      "utxo",
+      "transactions",
+      "keys",
+      "cryptography"
+    ],
+    "sources": [
+      "raw/understand-how-bitcoin-works-2026-01-08.md",
+      "raw/bitcoin-protocol-meetup-2-2022-07-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Proof of Work & Bitcoin Supply",
+    "permalink": "/concepts/proof-of-work"
+  },
+  "next": {
+    "title": "Comparisons",
+    "permalink": "/comparisons/"
+  }
+}

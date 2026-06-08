@@ -1,0 +1,66 @@
+{
+  "id": "entities/comparepower",
+  "title": "ComparePower",
+  "description": "Electricity plan comparison marketplace for Texas. Aggregates rates across multiple providers with zero fees to the user.",
+  "source": "@site/docs/entities/comparepower.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/comparepower",
+  "permalink": "/entities/comparepower",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "electricity",
+      "permalink": "/tags/electricity"
+    },
+    {
+      "inline": true,
+      "label": "texas",
+      "permalink": "/tags/texas"
+    },
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "marketplace",
+      "permalink": "/tags/marketplace"
+    },
+    {
+      "inline": true,
+      "label": "cost-saving",
+      "permalink": "/tags/cost-saving"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ComparePower",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "electricity",
+      "texas",
+      "mining",
+      "marketplace",
+      "cost-saving"
+    ],
+    "sources": [
+      "raw/home-mining-2023-07-31.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "ColdCard",
+    "permalink": "/entities/coldcard"
+  },
+  "next": {
+    "title": "DATUM",
+    "permalink": "/entities/datum"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "concepts/bitcoin-address-types",
+  "title": "Bitcoin Address Types",
+  "description": "Bitcoin addresses are human-readable encodings of scriptPubKeys — the spending conditions that lock bitcoin to a specific key or set of keys. Over time, address formats have evolved to improve efficiency, privacy, and compatibility.",
+  "source": "@site/docs/concepts/bitcoin-address-types.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/bitcoin-address-types",
+  "permalink": "/concepts/bitcoin-address-types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "addresses",
+      "permalink": "/tags/addresses"
+    },
+    {
+      "inline": true,
+      "label": "scripts",
+      "permalink": "/tags/scripts"
+    },
+    {
+      "inline": true,
+      "label": "segwit",
+      "permalink": "/tags/segwit"
+    },
+    {
+      "inline": true,
+      "label": "taproot",
+      "permalink": "/tags/taproot"
+    },
+    {
+      "inline": true,
+      "label": "cryptography",
+      "permalink": "/tags/cryptography"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Address Types",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "bitcoin",
+      "addresses",
+      "scripts",
+      "segwit",
+      "taproot",
+      "cryptography"
+    ],
+    "sources": [
+      "raw/bitcoin-protocol-meetup-2-2022-07-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "AI and Bitcoin",
+    "permalink": "/concepts/ai-and-bitcoin"
+  },
+  "next": {
+    "title": "Bitcoin Education",
+    "permalink": "/concepts/bitcoin-education"
+  }
+}

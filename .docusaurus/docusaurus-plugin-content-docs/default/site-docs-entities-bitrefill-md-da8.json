@@ -1,0 +1,66 @@
+{
+  "id": "entities/bitrefill",
+  "title": "Bitrefill",
+  "description": "Bitrefill sells gift cards, mobile top-ups, and bill-pay vouchers for bitcoin and Lightning payments. It bridges the gap between the bitcoin economy and traditional retail.",
+  "source": "@site/docs/entities/bitrefill.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/bitrefill",
+  "permalink": "/entities/bitrefill",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "payments",
+      "permalink": "/tags/payments"
+    },
+    {
+      "inline": true,
+      "label": "gift-cards",
+      "permalink": "/tags/gift-cards"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "circular-economy",
+      "permalink": "/tags/circular-economy"
+    },
+    {
+      "inline": true,
+      "label": "spending",
+      "permalink": "/tags/spending"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitrefill",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "payments",
+      "gift-cards",
+      "privacy",
+      "circular-economy",
+      "spending"
+    ],
+    "sources": [
+      "raw/mobile-privacy-meetup-5-2022-10-13.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Knots",
+    "permalink": "/entities/bitcoin-knots"
+  },
+  "next": {
+    "title": "Blockstream Green",
+    "permalink": "/entities/blockstream-green"
+  }
+}

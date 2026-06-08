@@ -1,0 +1,19 @@
+{
+  "id": "log",
+  "title": "Wiki Log",
+  "description": "Chronological record of all wiki actions. Append-only.",
+  "source": "@site/docs/log.md",
+  "sourceDirName": ".",
+  "slug": "/log",
+  "permalink": "/log",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Privacy as a Spectrum",
+    "permalink": "/summaries/privacy-as-a-spectrum"
+  }
+}

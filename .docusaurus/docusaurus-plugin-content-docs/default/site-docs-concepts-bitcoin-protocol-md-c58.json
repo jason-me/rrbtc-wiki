@@ -1,0 +1,78 @@
+{
+  "id": "concepts/bitcoin-protocol",
+  "title": "Bitcoin Protocol",
+  "description": "The Bitcoin protocol is a set of consensus rules governing peer-to-peer electronic cash. First released by Satoshi Nakamoto in 2009, it combines cryptography, game theory, and distributed systems to create a monetary network without central authority.",
+  "source": "@site/docs/concepts/bitcoin-protocol.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/bitcoin-protocol",
+  "permalink": "/concepts/bitcoin-protocol",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "protocol",
+      "permalink": "/tags/protocol"
+    },
+    {
+      "inline": true,
+      "label": "consensus",
+      "permalink": "/tags/consensus"
+    },
+    {
+      "inline": true,
+      "label": "proof-of-work",
+      "permalink": "/tags/proof-of-work"
+    },
+    {
+      "inline": true,
+      "label": "segwit",
+      "permalink": "/tags/segwit"
+    },
+    {
+      "inline": true,
+      "label": "taproot",
+      "permalink": "/tags/taproot"
+    },
+    {
+      "inline": true,
+      "label": "cryptography",
+      "permalink": "/tags/cryptography"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Protocol",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "bitcoin",
+      "protocol",
+      "consensus",
+      "proof-of-work",
+      "segwit",
+      "taproot",
+      "cryptography"
+    ],
+    "sources": [
+      "raw/bitcoin-protocol-meetup-2-2022-07-14.md",
+      "raw/understand-how-bitcoin-works-2026-01-08.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Node Types",
+    "permalink": "/concepts/bitcoin-node-types"
+  },
+  "next": {
+    "title": "Chaumian eCash",
+    "permalink": "/concepts/chaumian-ecash"
+  }
+}

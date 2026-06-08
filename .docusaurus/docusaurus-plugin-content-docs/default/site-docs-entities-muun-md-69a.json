@@ -1,0 +1,66 @@
+{
+  "id": "entities/muun",
+  "title": "Muun",
+  "description": "Self-custodial Bitcoin wallet with a hybrid Lightning/on-chain model. Uses submarine swaps to enable Lightning payments without the user managing channels directly.",
+  "source": "@site/docs/entities/muun.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/muun",
+  "permalink": "/entities/muun",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "self-custodial",
+      "permalink": "/tags/self-custodial"
+    },
+    {
+      "inline": true,
+      "label": "submarine-swaps",
+      "permalink": "/tags/submarine-swaps"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Muun",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "wallet",
+      "mobile",
+      "self-custodial",
+      "submarine-swaps"
+    ],
+    "sources": [
+      "raw/running-robosats-2023-04-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "LNbits",
+    "permalink": "/entities/lnbits"
+  },
+  "next": {
+    "title": "MyNode",
+    "permalink": "/entities/mynode"
+  }
+}

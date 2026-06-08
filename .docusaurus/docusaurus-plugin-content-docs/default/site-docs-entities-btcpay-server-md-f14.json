@@ -1,0 +1,67 @@
+{
+  "id": "entities/btcpay-server",
+  "title": "BTCPayServer",
+  "description": "Self-hosted, open-source payment processor for Bitcoin. Accept on-chain and Lightning payments without relying on third-party custodians.",
+  "source": "@site/docs/entities/btcpay-server.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/btcpay-server",
+  "permalink": "/entities/btcpay-server",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "payment-processor",
+      "permalink": "/tags/payment-processor"
+    },
+    {
+      "inline": true,
+      "label": "self-hosted",
+      "permalink": "/tags/self-hosted"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    },
+    {
+      "inline": true,
+      "label": "merchant-tools",
+      "permalink": "/tags/merchant-tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "BTCPayServer",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "payment-processor",
+      "self-hosted",
+      "lightning",
+      "open-source",
+      "merchant-tools"
+    ],
+    "sources": [
+      "raw/running-on-zero-fiat-for-business-2023-07-31.md",
+      "raw/bip-78-payjoin-protocol-pay-to-endpoint-p2ep-2023-07-31.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "BTCMap",
+    "permalink": "/entities/btcmap"
+  },
+  "next": {
+    "title": "C-Lightning (Core-Lightning)",
+    "permalink": "/entities/c-lightning"
+  }
+}

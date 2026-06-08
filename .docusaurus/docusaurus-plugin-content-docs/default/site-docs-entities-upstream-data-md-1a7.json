@@ -1,0 +1,67 @@
+{
+  "id": "entities/upstream-data",
+  "title": "Upstream Data",
+  "description": "Bitcoin mining infrastructure company founded by Steve Barbour. Best known for the Ohmm BlackBox: a sound-attenuated, weather-resistant enclosure for ASIC miners.",
+  "source": "@site/docs/entities/upstream-data.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/upstream-data",
+  "permalink": "/entities/upstream-data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "blackbox",
+      "permalink": "/tags/blackbox"
+    },
+    {
+      "inline": true,
+      "label": "natural-gas",
+      "permalink": "/tags/natural-gas"
+    },
+    {
+      "inline": true,
+      "label": "enclosure",
+      "permalink": "/tags/enclosure"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Upstream Data",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "infrastructure",
+      "blackbox",
+      "natural-gas",
+      "enclosure"
+    ],
+    "sources": [
+      "raw/home-mining-2023-07-31.md",
+      "raw/nakamoto-forum-debate-series-2023-04-05.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Unchained Capital",
+    "permalink": "/entities/unchained-capital"
+  },
+  "next": {
+    "title": "Wasabi Wallet",
+    "permalink": "/entities/wasabi-wallet"
+  }
+}

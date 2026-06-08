@@ -1,0 +1,66 @@
+{
+  "id": "entities/hwi",
+  "title": "HWI (Hardware Wallet Interface)",
+  "description": "Command-line tool and Python library for connecting hardware wallets to Bitcoin Core. Enables direct signing with devices like Trezor, Ledger, and Coldcard without trusting intermediary software.",
+  "source": "@site/docs/entities/hwi.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/hwi",
+  "permalink": "/entities/hwi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin-core",
+      "permalink": "/tags/bitcoin-core"
+    },
+    {
+      "inline": true,
+      "label": "signing",
+      "permalink": "/tags/signing"
+    },
+    {
+      "inline": true,
+      "label": "cli",
+      "permalink": "/tags/cli"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "HWI (Hardware Wallet Interface)",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "development",
+      "hardware-wallet",
+      "bitcoin-core",
+      "signing",
+      "cli"
+    ],
+    "sources": [
+      "raw/popular-bitcoin-node-projects-2023-02-23.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "HodlHodl",
+    "permalink": "/entities/hodlhodl"
+  },
+  "next": {
+    "title": "IBEXPay",
+    "permalink": "/entities/ibexpay"
+  }
+}

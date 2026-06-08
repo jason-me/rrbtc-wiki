@@ -1,0 +1,54 @@
+{
+  "id": "entities/ronindojo",
+  "title": "RoninDojo",
+  "description": "Privacy-focused Bitcoin node operating system. On-chain only, with integrations for Whirlpool (CoinJoin) and Bisq.",
+  "source": "@site/docs/entities/ronindojo.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/ronindojo",
+  "permalink": "/entities/ronindojo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "nodes",
+      "permalink": "/tags/nodes"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RoninDojo",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "privacy",
+      "nodes",
+      "tools"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "RoboSats",
+    "permalink": "/entities/robosats"
+  },
+  "next": {
+    "title": "Sahil Chaturvedi",
+    "permalink": "/entities/sahil-chaturvedi"
+  }
+}

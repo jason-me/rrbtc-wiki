@@ -1,0 +1,59 @@
+{
+  "id": "entities/lnbits",
+  "title": "LNbits",
+  "description": "An open-source Lightning accounting system that sits on top of a Lightning node. Provides a web interface, wallet system, and extensions for building Lightning-powered applications.",
+  "source": "@site/docs/entities/lnbits.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/lnbits",
+  "permalink": "/entities/lnbits",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "accounting",
+      "permalink": "/tags/accounting"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "LNbits",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "node",
+      "accounting",
+      "tools"
+    ],
+    "sources": [
+      "raw/round-rock-bitcoiners-26-larp-2024-07-29.md"
+    ],
+    "confidence": "medium"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Ledger",
+    "permalink": "/entities/ledger"
+  },
+  "next": {
+    "title": "Muun",
+    "permalink": "/entities/muun"
+  }
+}

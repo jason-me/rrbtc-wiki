@@ -1,0 +1,88 @@
+{
+  "id": "summaries/mining-decentralization",
+  "title": "Mining Decentralization",
+  "description": "Proof-of-Work is what makes Bitcoin immutable. At Meetup #2 and again in January 2026 we covered the mechanics: miners hash block data, race for a valid nonce, and broadcast solutions that the network accepts. The difficulty adjustment targets ten minutes per block. The supply cap is twenty-one million. None of this works without distributed hash rate competing to find the next block.",
+  "source": "@site/docs/summaries/mining-decentralization.md",
+  "sourceDirName": "summaries",
+  "slug": "/summaries/mining-decentralization",
+  "permalink": "/summaries/mining-decentralization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "decentralization",
+      "permalink": "/tags/decentralization"
+    },
+    {
+      "inline": true,
+      "label": "home-mining",
+      "permalink": "/tags/home-mining"
+    },
+    {
+      "inline": true,
+      "label": "stratum-v2",
+      "permalink": "/tags/stratum-v-2"
+    },
+    {
+      "inline": true,
+      "label": "datum",
+      "permalink": "/tags/datum"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin-core",
+      "permalink": "/tags/bitcoin-core"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin-knots",
+      "permalink": "/tags/bitcoin-knots"
+    },
+    {
+      "inline": true,
+      "label": "sovereignty",
+      "permalink": "/tags/sovereignty"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mining Decentralization",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "summary",
+    "tags": [
+      "mining",
+      "decentralization",
+      "home-mining",
+      "stratum-v2",
+      "datum",
+      "bitcoin-core",
+      "bitcoin-knots",
+      "sovereignty"
+    ],
+    "sources": [
+      "raw/understand-how-bitcoin-works-2026-01-08.md",
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/decentralized-home-mining-bitaxe-2025-04.md",
+      "raw/decentralized-mining-workshop-meetup-30.md",
+      "raw/node-builder-workshop-2025-11-13.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "GetOnZero: Living on the Bitcoin Standard",
+    "permalink": "/summaries/getonzero-synthesis"
+  },
+  "next": {
+    "title": "Privacy as a Spectrum",
+    "permalink": "/summaries/privacy-as-a-spectrum"
+  }
+}

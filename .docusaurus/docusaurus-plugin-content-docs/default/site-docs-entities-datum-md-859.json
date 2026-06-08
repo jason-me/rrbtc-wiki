@@ -1,0 +1,66 @@
+{
+  "id": "entities/datum",
+  "title": "DATUM",
+  "description": "DATUM (Decentralized Template Auction Machine / UTXO Manager) is a protocol that lets miners build custom block templates directly on their own node and submit them to a mining pool—without the pool dictating what transactions go into the block.",
+  "source": "@site/docs/entities/datum.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/datum",
+  "permalink": "/entities/datum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "stratum",
+      "permalink": "/tags/stratum"
+    },
+    {
+      "inline": true,
+      "label": "ocean",
+      "permalink": "/tags/ocean"
+    },
+    {
+      "inline": true,
+      "label": "solo-mining",
+      "permalink": "/tags/solo-mining"
+    },
+    {
+      "inline": true,
+      "label": "protocol",
+      "permalink": "/tags/protocol"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "DATUM",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "stratum",
+      "ocean",
+      "solo-mining",
+      "protocol"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "ComparePower",
+    "permalink": "/entities/comparepower"
+  },
+  "next": {
+    "title": "Electrum",
+    "permalink": "/entities/electrum"
+  }
+}

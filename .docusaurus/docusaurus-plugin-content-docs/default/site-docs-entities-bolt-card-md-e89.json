@@ -1,0 +1,72 @@
+{
+  "id": "entities/bolt-card",
+  "title": "Bolt Card",
+  "description": "Lightning-enabled NFC card for tap-to-pay Bitcoin transactions. Originally from CoinCorner; compatible with third-party Bolt Card Hub services.",
+  "source": "@site/docs/entities/bolt-card.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/bolt-card",
+  "permalink": "/entities/bolt-card",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "nfc",
+      "permalink": "/tags/nfc"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "payments",
+      "permalink": "/tags/payments"
+    },
+    {
+      "inline": true,
+      "label": "coincorner",
+      "permalink": "/tags/coincorner"
+    },
+    {
+      "inline": true,
+      "label": "pos",
+      "permalink": "/tags/pos"
+    },
+    {
+      "inline": true,
+      "label": "physical-card",
+      "permalink": "/tags/physical-card"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bolt Card",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "nfc",
+      "lightning",
+      "payments",
+      "coincorner",
+      "pos",
+      "physical-card"
+    ],
+    "sources": [
+      "raw/nfc-cards-wallets-for-bitcoin-2023-05-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "BlueWallet",
+    "permalink": "/entities/bluewallet"
+  },
+  "next": {
+    "title": "Braiins Hashpower",
+    "permalink": "/entities/braiins-hashpower"
+  }
+}

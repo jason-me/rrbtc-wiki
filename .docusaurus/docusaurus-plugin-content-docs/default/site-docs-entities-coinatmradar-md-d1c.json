@@ -1,0 +1,66 @@
+{
+  "id": "entities/coinatmradar",
+  "title": "CoinATMRadar",
+  "description": "Directory and map of Bitcoin ATMs worldwide. Use to locate nearby machines for cash-to-bitcoin purchases.",
+  "source": "@site/docs/entities/coinatmradar.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/coinatmradar",
+  "permalink": "/entities/coinatmradar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "atm",
+      "permalink": "/tags/atm"
+    },
+    {
+      "inline": true,
+      "label": "no-kyc",
+      "permalink": "/tags/no-kyc"
+    },
+    {
+      "inline": true,
+      "label": "acquisition",
+      "permalink": "/tags/acquisition"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "map",
+      "permalink": "/tags/map"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "CoinATMRadar",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "atm",
+      "no-kyc",
+      "acquisition",
+      "privacy",
+      "map"
+    ],
+    "sources": [
+      "raw/how-can-we-obtain-no-kyc-bitcoin-2023-02-23.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Cashu",
+    "permalink": "/entities/cashu"
+  },
+  "next": {
+    "title": "ColdCard",
+    "permalink": "/entities/coldcard"
+  }
+}

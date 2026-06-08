@@ -1,0 +1,66 @@
+{
+  "id": "entities/c-lightning",
+  "title": "C-Lightning (Core-Lightning)",
+  "description": "Core-Lightning (CLN, often called c-lightning) is a lightweight, modular Lightning Network implementation. It is notable for early support of Bolt 12, which enables static Lightning offers for automated recurring payments.",
+  "source": "@site/docs/entities/c-lightning.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/c-lightning",
+  "permalink": "/entities/c-lightning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "bolt12",
+      "permalink": "/tags/bolt-12"
+    },
+    {
+      "inline": true,
+      "label": "payouts",
+      "permalink": "/tags/payouts"
+    },
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "C-Lightning (Core-Lightning)",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "node",
+      "bolt12",
+      "payouts",
+      "mining"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "BTCPayServer",
+    "permalink": "/entities/btcpay-server"
+  },
+  "next": {
+    "title": "Caravan",
+    "permalink": "/entities/caravan"
+  }
+}

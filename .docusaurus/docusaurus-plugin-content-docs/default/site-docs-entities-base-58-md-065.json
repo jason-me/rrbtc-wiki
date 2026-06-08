@@ -1,0 +1,59 @@
+{
+  "id": "entities/base58",
+  "title": "Base58",
+  "description": "A Bitcoin protocol education organization offering intensive, in-person bootcamps focused on Bitcoin Core, transactions, and protocol fundamentals. Named after the Base58Check encoding scheme used in Bitcoin addresses.",
+  "source": "@site/docs/entities/base58.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/base58",
+  "permalink": "/entities/base58",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    },
+    {
+      "inline": true,
+      "label": "protocol",
+      "permalink": "/tags/protocol"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "bootcamp",
+      "permalink": "/tags/bootcamp"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Base58",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "education",
+      "protocol",
+      "development",
+      "bootcamp"
+    ],
+    "sources": [
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Azteco",
+    "permalink": "/entities/azteco"
+  },
+  "next": {
+    "title": "Bisq",
+    "permalink": "/entities/bisq"
+  }
+}

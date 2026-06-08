@@ -1,0 +1,60 @@
+{
+  "id": "entities/casdcr",
+  "title": "CASCDR",
+  "description": "A decentralized AI service platform built on the Bitcoin Lightning Network. CASCDR provides private, pay-as-you-go AI tools for content creators, using Lightning payments to preserve user privacy and enable permissionless access.",
+  "source": "@site/docs/entities/casdcr.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/casdcr",
+  "permalink": "/entities/casdcr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "nostr",
+      "permalink": "/tags/nostr"
+    },
+    {
+      "inline": true,
+      "label": "services",
+      "permalink": "/tags/services"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "CASCDR",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "ai",
+      "nostr",
+      "services"
+    ],
+    "sources": [
+      "raw/why-lightning-plus-ai-2024-08-13.md",
+      "raw/cascdr-project-meetup-27-2024-08-08.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Casa",
+    "permalink": "/entities/casa"
+  },
+  "next": {
+    "title": "Cashu",
+    "permalink": "/entities/cashu"
+  }
+}

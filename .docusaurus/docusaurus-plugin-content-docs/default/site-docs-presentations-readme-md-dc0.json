@@ -1,0 +1,23 @@
+{
+  "id": "presentations/README",
+  "title": "Presentations",
+  "description": "Canva outlines and deck structures for meetup talks.",
+  "source": "@site/docs/presentations/README.md",
+  "sourceDirName": "presentations",
+  "slug": "/presentations/",
+  "permalink": "/presentations/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Zeus",
+    "permalink": "/entities/zeus"
+  },
+  "next": {
+    "title": "Mining with Rented Hashrate: Braiins Hashpower + DATUM",
+    "permalink": "/presentations/mining-hashpower-datum-outline"
+  }
+}

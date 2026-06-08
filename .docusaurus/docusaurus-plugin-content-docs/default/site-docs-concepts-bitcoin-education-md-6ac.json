@@ -1,0 +1,65 @@
+{
+  "id": "concepts/bitcoin-education",
+  "title": "Bitcoin Education",
+  "description": "The Bitcoin education ecosystem spans self-directed learning, structured bootcamps, and community-driven workshops. Effective education meets learners where they are — from first bitcoin purchase to protocol development.",
+  "source": "@site/docs/concepts/bitcoin-education.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/bitcoin-education",
+  "permalink": "/concepts/bitcoin-education",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    },
+    {
+      "inline": true,
+      "label": "onboarding",
+      "permalink": "/tags/onboarding"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/tags/development"
+    },
+    {
+      "inline": true,
+      "label": "curriculum",
+      "permalink": "/tags/curriculum"
+    },
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/tags/community"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Education",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "education",
+      "onboarding",
+      "development",
+      "curriculum",
+      "community"
+    ],
+    "sources": [
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Address Types",
+    "permalink": "/concepts/bitcoin-address-types"
+  },
+  "next": {
+    "title": "Bitcoin Data Carving (Ordinals, Inscriptions, BRC-20, Runes)",
+    "permalink": "/concepts/bitcoin-nfts"
+  }
+}

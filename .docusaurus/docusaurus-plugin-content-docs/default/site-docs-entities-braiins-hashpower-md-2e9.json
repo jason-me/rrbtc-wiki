@@ -1,0 +1,55 @@
+{
+  "id": "entities/braiins-hashpower",
+  "title": "Braiins Hashpower",
+  "description": "On-demand SHA-256 hashrate marketplace launched by Braiins in January 2026 (public beta). Miners buy and sell hashrate through a live order book without long-term contracts or hardware ownership.",
+  "source": "@site/docs/entities/braiins-hashpower.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/braiins-hashpower",
+  "permalink": "/entities/braiins-hashpower",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "marketplace",
+      "permalink": "/tags/marketplace"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Braiins Hashpower",
+    "created": "2026-06-01T00:00:00.000Z",
+    "updated": "2026-06-01T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "marketplace",
+      "tools"
+    ],
+    "sources": [
+      "raw/meetup-demo-cheatsheet.md",
+      "presentations/mining-hashpower-datum-outline-2026-05.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bolt Card",
+    "permalink": "/entities/bolt-card"
+  },
+  "next": {
+    "title": "Breez",
+    "permalink": "/entities/breez"
+  }
+}

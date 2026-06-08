@@ -1,0 +1,61 @@
+{
+  "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22",
+  "title": "Zero Dollar Manifesto",
+  "description": "Presenter: Sahil Chaturvedi",
+  "source": "@site/docs/presentations/zero-dollar-manifesto-sahil-2024-06-22.md",
+  "sourceDirName": "presentations",
+  "slug": "/presentations/zero-dollar-manifesto-sahil-2024-06-22",
+  "permalink": "/presentations/zero-dollar-manifesto-sahil-2024-06-22",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "getonzero",
+      "permalink": "/tags/getonzero"
+    },
+    {
+      "inline": true,
+      "label": "bitcoin-only",
+      "permalink": "/tags/bitcoin-only"
+    },
+    {
+      "inline": true,
+      "label": "personal-finance",
+      "permalink": "/tags/personal-finance"
+    },
+    {
+      "inline": true,
+      "label": "sound-money",
+      "permalink": "/tags/sound-money"
+    },
+    {
+      "inline": true,
+      "label": "sovereignty",
+      "permalink": "/tags/sovereignty"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Zero Dollar Manifesto",
+    "date": "2024-06-22T00:00:00.000Z",
+    "type": "presentation",
+    "source_url": "https://speakerdeck.com/rrbtc/zero-dollar-manifesto-sahil-chaturvedi",
+    "tags": [
+      "getonzero",
+      "bitcoin-only",
+      "personal-finance",
+      "sound-money",
+      "sovereignty"
+    ]
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Mining Like The Big Players",
+    "permalink": "/presentations/mining-like-the-big-players-2026-05-14"
+  },
+  "next": {
+    "title": "Queries",
+    "permalink": "/queries/"
+  }
+}

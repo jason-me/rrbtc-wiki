@@ -1,0 +1,62 @@
+{
+  "id": "entities/ledger",
+  "title": "Ledger",
+  "description": "Ledger is a hardware wallet manufacturer using secure element (SE) chips to protect private keys. One of the most widely sold hardware wallets globally.",
+  "source": "@site/docs/entities/ledger.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/ledger",
+  "permalink": "/entities/ledger",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    },
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "cold-storage",
+      "permalink": "/tags/cold-storage"
+    },
+    {
+      "inline": true,
+      "label": "security-element",
+      "permalink": "/tags/security-element"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ledger",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "hardware-wallet",
+      "custody",
+      "cold-storage",
+      "security-element"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "raw/bitcoin-protocol-meetup-2-2022-07-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "KaboomRacks",
+    "permalink": "/entities/kaboom-racks"
+  },
+  "next": {
+    "title": "LNbits",
+    "permalink": "/entities/lnbits"
+  }
+}

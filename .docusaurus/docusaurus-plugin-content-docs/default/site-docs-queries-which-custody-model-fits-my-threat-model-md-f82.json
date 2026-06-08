@@ -1,0 +1,69 @@
+{
+  "id": "queries/which-custody-model-fits-my-threat-model",
+  "title": "Which Custody Model Fits My Threat Model?",
+  "description": "There is no universal \"best\" way to hold bitcoin. The right custody model depends on your technical ability, value at stake, threat model, and need for recovery or inheritance. This page walks through the decision process.",
+  "source": "@site/docs/queries/which-custody-model-fits-my-threat-model.md",
+  "sourceDirName": "queries",
+  "slug": "/queries/which-custody-model-fits-my-threat-model",
+  "permalink": "/queries/which-custody-model-fits-my-threat-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    },
+    {
+      "inline": true,
+      "label": "inheritance",
+      "permalink": "/tags/inheritance"
+    },
+    {
+      "inline": true,
+      "label": "security",
+      "permalink": "/tags/security"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Which Custody Model Fits My Threat Model?",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "query",
+    "tags": [
+      "custody",
+      "multisig",
+      "hardware-wallet",
+      "inheritance",
+      "security"
+    ],
+    "sources": [
+      "raw/what-is-multisig-meetup-7-2022-12-08.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md",
+      "concepts/custody-models.md",
+      "concepts/multisig.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "What Privacy Stack Should I Use for Mobile?",
+    "permalink": "/queries/what-privacy-stack-should-i-use-for-mobile"
+  },
+  "next": {
+    "title": "GetOnZero: Living on the Bitcoin Standard",
+    "permalink": "/summaries/getonzero-synthesis"
+  }
+}

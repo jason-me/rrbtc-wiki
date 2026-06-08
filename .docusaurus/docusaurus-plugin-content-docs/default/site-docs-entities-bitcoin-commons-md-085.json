@@ -1,0 +1,66 @@
+{
+  "id": "entities/bitcoin-commons",
+  "title": "Bitcoin Commons",
+  "description": "Community space and event venue in Austin, Texas, focused on Bitcoin education, networking, and public discourse.",
+  "source": "@site/docs/entities/bitcoin-commons.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/bitcoin-commons",
+  "permalink": "/entities/bitcoin-commons",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/tags/community"
+    },
+    {
+      "inline": true,
+      "label": "austin",
+      "permalink": "/tags/austin"
+    },
+    {
+      "inline": true,
+      "label": "venue",
+      "permalink": "/tags/venue"
+    },
+    {
+      "inline": true,
+      "label": "events",
+      "permalink": "/tags/events"
+    },
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Commons",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "community",
+      "austin",
+      "venue",
+      "events",
+      "education"
+    ],
+    "sources": [
+      "raw/nakamoto-forum-debate-series-2023-04-05.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "BitAxe",
+    "permalink": "/entities/bitaxe"
+  },
+  "next": {
+    "title": "Bitcoin Core",
+    "permalink": "/entities/bitcoin-core"
+  }
+}

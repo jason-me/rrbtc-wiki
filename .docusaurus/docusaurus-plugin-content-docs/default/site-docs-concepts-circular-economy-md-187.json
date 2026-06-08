@@ -1,0 +1,71 @@
+{
+  "id": "concepts/circular-economy",
+  "title": "Circular Economy",
+  "description": "A Bitcoin circular economy is a local or digital ecosystem where participants earn, spend, and save bitcoin without converting back to fiat. The goal is to close the loop: merchants accept bitcoin, employees and suppliers are paid in bitcoin, and the community reinvests in bitcoin-native goods and services.",
+  "source": "@site/docs/concepts/circular-economy.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/circular-economy",
+  "permalink": "/concepts/circular-economy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "adoption",
+      "permalink": "/tags/adoption"
+    },
+    {
+      "inline": true,
+      "label": "business",
+      "permalink": "/tags/business"
+    },
+    {
+      "inline": true,
+      "label": "merchant",
+      "permalink": "/tags/merchant"
+    },
+    {
+      "inline": true,
+      "label": "circular-economy",
+      "permalink": "/tags/circular-economy"
+    },
+    {
+      "inline": true,
+      "label": "local",
+      "permalink": "/tags/local"
+    },
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/tags/community"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Circular Economy",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "adoption",
+      "business",
+      "merchant",
+      "circular-economy",
+      "local",
+      "community"
+    ],
+    "sources": [
+      "raw/cashu-mints-meetup-10-2023-03-09.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Chaumian eCash",
+    "permalink": "/concepts/chaumian-ecash"
+  },
+  "next": {
+    "title": "Custody Models",
+    "permalink": "/concepts/custody-models"
+  }
+}

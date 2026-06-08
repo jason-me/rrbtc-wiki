@@ -1,0 +1,66 @@
+{
+  "id": "entities/simple-proof",
+  "title": "Simple Proof",
+  "description": "Bitcoin-based document timestamping service that anchors cryptographic hashes of digital records to the Bitcoin blockchain, creating tamper-proof proof of existence and authenticity.",
+  "source": "@site/docs/entities/simple-proof.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/simple-proof",
+  "permalink": "/entities/simple-proof",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "timestamping",
+      "permalink": "/tags/timestamping"
+    },
+    {
+      "inline": true,
+      "label": "opentimestamps",
+      "permalink": "/tags/opentimestamps"
+    },
+    {
+      "inline": true,
+      "label": "elections",
+      "permalink": "/tags/elections"
+    },
+    {
+      "inline": true,
+      "label": "immutability",
+      "permalink": "/tags/immutability"
+    },
+    {
+      "inline": true,
+      "label": "enterprise",
+      "permalink": "/tags/enterprise"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simple Proof",
+    "created": "2026-06-05T00:00:00.000Z",
+    "updated": "2026-06-05T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "timestamping",
+      "opentimestamps",
+      "elections",
+      "immutability",
+      "enterprise"
+    ],
+    "sources": [
+      "raw/simpleproof-com-meetup-25-2024-06-25.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "ShushMiner",
+    "permalink": "/entities/shushminer"
+  },
+  "next": {
+    "title": "Sparrow Wallet",
+    "permalink": "/entities/sparrow-wallet"
+  }
+}

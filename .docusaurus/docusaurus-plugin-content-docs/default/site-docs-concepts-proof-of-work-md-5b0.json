@@ -1,0 +1,72 @@
+{
+  "id": "concepts/proof-of-work",
+  "title": "Proof of Work & Bitcoin Supply",
+  "description": "Bitcoin uses Proof of Work (PoW) as its consensus mechanism. Miners compete to find a hash below a network-adjusted target, expending real-world energy to secure the ledger and issue new bitcoin.",
+  "source": "@site/docs/concepts/proof-of-work.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/proof-of-work",
+  "permalink": "/concepts/proof-of-work",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "consensus",
+      "permalink": "/tags/consensus"
+    },
+    {
+      "inline": true,
+      "label": "proof-of-work",
+      "permalink": "/tags/proof-of-work"
+    },
+    {
+      "inline": true,
+      "label": "halving",
+      "permalink": "/tags/halving"
+    },
+    {
+      "inline": true,
+      "label": "supply-cap",
+      "permalink": "/tags/supply-cap"
+    },
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Proof of Work & Bitcoin Supply",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "bitcoin",
+      "consensus",
+      "proof-of-work",
+      "halving",
+      "supply-cap",
+      "mining"
+    ],
+    "sources": [
+      "raw/understand-how-bitcoin-works-2026-01-08.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Privacy Stacks",
+    "permalink": "/concepts/privacy-stacks"
+  },
+  "next": {
+    "title": "UTXO Model",
+    "permalink": "/concepts/utxo-model"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "comparisons/mining-payout-schemas",
+  "title": "Mining Payout Schemas",
+  "description": "Mining pools and solo setups distribute block rewards through different payout schemas. Each schema trades off variance (how predictable your income is), fees (what the operator charges), transparency (how rewards are calculated), and sovereignty (how much control you retain over block templates).",
+  "source": "@site/docs/comparisons/mining-payout-schemas.md",
+  "sourceDirName": "comparisons",
+  "slug": "/comparisons/mining-payout-schemas",
+  "permalink": "/comparisons/mining-payout-schemas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "pool",
+      "permalink": "/tags/pool"
+    },
+    {
+      "inline": true,
+      "label": "economics",
+      "permalink": "/tags/economics"
+    },
+    {
+      "inline": true,
+      "label": "risk",
+      "permalink": "/tags/risk"
+    },
+    {
+      "inline": true,
+      "label": "reward",
+      "permalink": "/tags/reward"
+    },
+    {
+      "inline": true,
+      "label": "datum",
+      "permalink": "/tags/datum"
+    },
+    {
+      "inline": true,
+      "label": "tides",
+      "permalink": "/tags/tides"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mining Payout Schemas",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "comparison",
+    "tags": [
+      "mining",
+      "pool",
+      "economics",
+      "risk",
+      "reward",
+      "datum",
+      "tides"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md",
+      "entities/ocean-xyz.md",
+      "entities/public-pool.md",
+      "entities/braiins-hashpower.md",
+      "concepts/mining-payout-schemas.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Collaborative Custody Providers",
+    "permalink": "/comparisons/collaborative-custody-providers"
+  },
+  "next": {
+    "title": "Bitcoin Node Operating Systems",
+    "permalink": "/comparisons/node-operating-systems"
+  }
+}

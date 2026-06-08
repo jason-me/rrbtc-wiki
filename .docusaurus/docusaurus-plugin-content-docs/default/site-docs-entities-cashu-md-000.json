@@ -1,0 +1,79 @@
+{
+  "id": "entities/cashu",
+  "title": "Cashu",
+  "description": "Cashu is a free and open-source Chaumian ecash system built for Bitcoin. It lets users hold and transfer ecash tokens offline, settling against the Lightning Network when needed. Nobody needs to know who you are, how much you hold, or with whom you transact.",
+  "source": "@site/docs/entities/cashu.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/cashu",
+  "permalink": "/entities/cashu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "ecash",
+      "permalink": "/tags/ecash"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "chaum",
+      "permalink": "/tags/chaum"
+    },
+    {
+      "inline": true,
+      "label": "mint",
+      "permalink": "/tags/mint"
+    },
+    {
+      "inline": true,
+      "label": "nostr",
+      "permalink": "/tags/nostr"
+    },
+    {
+      "inline": true,
+      "label": "cashu",
+      "permalink": "/tags/cashu"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cashu",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "privacy",
+      "ecash",
+      "lightning",
+      "chaum",
+      "mint",
+      "nostr",
+      "cashu"
+    ],
+    "sources": [
+      "raw/cashu-mints-meetup-10-2023-03-09.md",
+      "raw/bitchat-and-chill-2025-08-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "CASCDR",
+    "permalink": "/entities/casdcr"
+  },
+  "next": {
+    "title": "CoinATMRadar",
+    "permalink": "/entities/coinatmradar"
+  }
+}

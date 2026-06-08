@@ -1,0 +1,60 @@
+{
+  "id": "entities/hodl-up",
+  "title": "Hodl Up",
+  "description": "Bitcoin mining-themed board game. Teaches proof-of-work concepts, mining economics, and hodling strategy through physical gameplay.",
+  "source": "@site/docs/entities/hodl-up.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/hodl-up",
+  "permalink": "/entities/hodl-up",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "education",
+      "permalink": "/tags/education"
+    },
+    {
+      "inline": true,
+      "label": "board-game",
+      "permalink": "/tags/board-game"
+    },
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "family-friendly",
+      "permalink": "/tags/family-friendly"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hodl Up",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "education",
+      "board-game",
+      "mining",
+      "family-friendly"
+    ],
+    "sources": [
+      "raw/hodl-up-a-bitcoin-mining-game-2023-09-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Braiins Hashrate Autopilot",
+    "permalink": "/entities/hashrate-autopilot"
+  },
+  "next": {
+    "title": "HodlHodl",
+    "permalink": "/entities/hodlhodl"
+  }
+}

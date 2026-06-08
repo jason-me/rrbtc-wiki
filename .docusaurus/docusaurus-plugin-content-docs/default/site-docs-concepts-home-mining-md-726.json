@@ -1,0 +1,67 @@
+{
+  "id": "concepts/home-mining",
+  "title": "Home Mining",
+  "description": "The practice of mining Bitcoin from a residence or small office using low-to-medium power hardware. Contrasts with industrial-scale mining in dedicated facilities. Home mining has seen a resurgence with the rise of efficient, quiet, open-source ASICs and hashrate marketplaces that let participants rent industrial-scale hash without owning hardware.",
+  "source": "@site/docs/concepts/home-mining.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/home-mining",
+  "permalink": "/concepts/home-mining",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "hardware",
+      "permalink": "/tags/hardware"
+    },
+    {
+      "inline": true,
+      "label": "decentralization",
+      "permalink": "/tags/decentralization"
+    },
+    {
+      "inline": true,
+      "label": "sovereignty",
+      "permalink": "/tags/sovereignty"
+    },
+    {
+      "inline": true,
+      "label": "asic",
+      "permalink": "/tags/asic"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Home Mining",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "mining",
+      "hardware",
+      "decentralization",
+      "sovereignty",
+      "asic"
+    ],
+    "sources": [
+      "raw/decentralized-home-mining-bitaxe-2025-04.md",
+      "raw/decentralized-mining-workshop-meetup-30.md",
+      "presentations/mining-hashpower-datum-outline-2026-05.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Custody Models",
+    "permalink": "/concepts/custody-models"
+  },
+  "next": {
+    "title": "Lightning Network",
+    "permalink": "/concepts/lightning-network"
+  }
+}

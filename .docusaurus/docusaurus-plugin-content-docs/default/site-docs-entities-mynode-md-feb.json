@@ -1,0 +1,66 @@
+{
+  "id": "entities/mynode",
+  "title": "MyNode",
+  "description": "MyNode is a plug-and-play Bitcoin node OS similar to Umbrel, bundling Bitcoin Core, LND, Electrum, BTCPay, JoinMarket, Whirlpool, and more.",
+  "source": "@site/docs/entities/mynode.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/mynode",
+  "permalink": "/entities/mynode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "plug-and-play",
+      "permalink": "/tags/plug-and-play"
+    },
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "raspberry-pi",
+      "permalink": "/tags/raspberry-pi"
+    },
+    {
+      "inline": true,
+      "label": "self-hosted",
+      "permalink": "/tags/self-hosted"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "MyNode",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "node",
+      "plug-and-play",
+      "lightning",
+      "raspberry-pi",
+      "self-hosted"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Muun",
+    "permalink": "/entities/muun"
+  },
+  "next": {
+    "title": "Nunchuk",
+    "permalink": "/entities/nunchuk"
+  }
+}

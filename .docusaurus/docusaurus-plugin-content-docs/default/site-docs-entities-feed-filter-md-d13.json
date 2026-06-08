@@ -1,0 +1,71 @@
+{
+  "id": "entities/feed-filter",
+  "title": "Feed Filter",
+  "description": "A user-controlled AI filter for social media feeds. Developed by Ted Thayer at Pleb Lab, Feed Filter restores \"mental sovereignty\" by letting users algorithmically control which posts they see, countering engagement-optimized algorithms that prioritize rage and conflict.",
+  "source": "@site/docs/entities/feed-filter.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/feed-filter",
+  "permalink": "/entities/feed-filter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "social media",
+      "permalink": "/tags/social-media"
+    },
+    {
+      "inline": true,
+      "label": "nostr",
+      "permalink": "/tags/nostr"
+    },
+    {
+      "inline": true,
+      "label": "sovereignty",
+      "permalink": "/tags/sovereignty"
+    },
+    {
+      "inline": true,
+      "label": "browser-extension",
+      "permalink": "/tags/browser-extension"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Feed Filter",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "AI",
+      "privacy",
+      "social media",
+      "nostr",
+      "sovereignty",
+      "browser-extension"
+    ],
+    "sources": [
+      "raw/feed-filter-demo-2025-12-11.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Electrum",
+    "permalink": "/entities/electrum"
+  },
+  "next": {
+    "title": "Fold",
+    "permalink": "/entities/fold"
+  }
+}

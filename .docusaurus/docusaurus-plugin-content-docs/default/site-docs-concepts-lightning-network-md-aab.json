@@ -1,0 +1,69 @@
+{
+  "id": "concepts/lightning-network",
+  "title": "Lightning Network",
+  "description": "A layer-2 payment protocol built on Bitcoin that enables near-instant, low-cost transactions by moving them off the main blockchain into payment channels.",
+  "source": "@site/docs/concepts/lightning-network.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/lightning-network",
+  "permalink": "/concepts/lightning-network",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "layer-2",
+      "permalink": "/tags/layer-2"
+    },
+    {
+      "inline": true,
+      "label": "payments",
+      "permalink": "/tags/payments"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "scalability",
+      "permalink": "/tags/scalability"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lightning Network",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "lightning",
+      "layer-2",
+      "payments",
+      "privacy",
+      "scalability"
+    ],
+    "sources": [
+      "raw/why-lightning-plus-ai-2024-08-13.md",
+      "raw/round-rock-bitcoiners-26-larp-2024-07-29.md",
+      "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md",
+      "raw/node-builder-workshop-2025-11-13.md",
+      "raw/cashu-mints-meetup-10-2023-03-09.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Home Mining",
+    "permalink": "/concepts/home-mining"
+  },
+  "next": {
+    "title": "Mesh Networks",
+    "permalink": "/concepts/mesh-networks"
+  }
+}

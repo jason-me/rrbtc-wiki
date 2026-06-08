@@ -1,0 +1,23 @@
+{
+  "id": "concepts/README",
+  "title": "Concepts",
+  "description": "Explanations of Bitcoin concepts, mechanisms, and protocols.",
+  "source": "@site/docs/concepts/README.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/",
+  "permalink": "/concepts/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Accessibility in Bitcoin",
+    "permalink": "/concepts/accessibility-in-bitcoin"
+  }
+}

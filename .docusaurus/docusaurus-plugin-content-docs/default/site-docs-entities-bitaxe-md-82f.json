@@ -1,0 +1,66 @@
+{
+  "id": "entities/bitaxe",
+  "title": "BitAxe",
+  "description": "BitAxe is an open-source, low-power Bitcoin ASIC miner designed for home mining. It bridges the gap between industrial-scale equipment and hobbyist participation in network security.",
+  "source": "@site/docs/entities/bitaxe.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/bitaxe",
+  "permalink": "/entities/bitaxe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "hardware",
+      "permalink": "/tags/hardware"
+    },
+    {
+      "inline": true,
+      "label": "asic",
+      "permalink": "/tags/asic"
+    },
+    {
+      "inline": true,
+      "label": "home-mining",
+      "permalink": "/tags/home-mining"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "BitAxe",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "hardware",
+      "asic",
+      "home-mining",
+      "open-source"
+    ],
+    "sources": [
+      "raw/decentralized-home-mining-bitaxe-2025-04.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bisq",
+    "permalink": "/entities/bisq"
+  },
+  "next": {
+    "title": "Bitcoin Commons",
+    "permalink": "/entities/bitcoin-commons"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "entities/btcmap",
+  "title": "BTCMap",
+  "description": "Open-source project mapping Bitcoin-accepting merchants and locations worldwide. Community-driven data using OpenStreetMap as the base layer.",
+  "source": "@site/docs/entities/btcmap.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/btcmap",
+  "permalink": "/entities/btcmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "business",
+      "permalink": "/tags/business"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    },
+    {
+      "inline": true,
+      "label": "adoption",
+      "permalink": "/tags/adoption"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "BTCMap",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "business",
+      "tools",
+      "adoption"
+    ],
+    "sources": [
+      "raw/cashu-mints-meetup-10-2023-03-09.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Breez",
+    "permalink": "/entities/breez"
+  },
+  "next": {
+    "title": "BTCPayServer",
+    "permalink": "/entities/btcpay-server"
+  }
+}

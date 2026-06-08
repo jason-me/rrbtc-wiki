@@ -1,0 +1,66 @@
+{
+  "id": "entities/blockstream-green",
+  "title": "Blockstream Green",
+  "description": "Blockstream Green is a mobile and desktop Bitcoin wallet with optional 2FA multisig and hardware wallet integration.",
+  "source": "@site/docs/entities/blockstream-green.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/blockstream-green",
+  "permalink": "/entities/blockstream-green",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "hardware-integration",
+      "permalink": "/tags/hardware-integration"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Blockstream Green",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "wallet",
+      "mobile",
+      "custody",
+      "multisig",
+      "hardware-integration"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitrefill",
+    "permalink": "/entities/bitrefill"
+  },
+  "next": {
+    "title": "BlueWallet",
+    "permalink": "/entities/bluewallet"
+  }
+}

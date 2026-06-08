@@ -1,0 +1,73 @@
+{
+  "id": "entities/breez",
+  "title": "Breez",
+  "description": "Mobile Lightning wallet for iOS and Android. Built on Flutter. Non-custodial, Lightning-native, and includes a built-in marketplace plus point-of-sale (POS) support.",
+  "source": "@site/docs/entities/breez.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/breez",
+  "permalink": "/entities/breez",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "pos",
+      "permalink": "/tags/pos"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "non-custodial",
+      "permalink": "/tags/non-custodial"
+    },
+    {
+      "inline": true,
+      "label": "nfc",
+      "permalink": "/tags/nfc"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Breez",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "wallet",
+      "pos",
+      "mobile",
+      "non-custodial",
+      "nfc"
+    ],
+    "sources": [
+      "raw/running-robosats-2023-04-14.md",
+      "raw/nfc-cards-wallets-for-bitcoin-2023-05-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Braiins Hashpower",
+    "permalink": "/entities/braiins-hashpower"
+  },
+  "next": {
+    "title": "BTCMap",
+    "permalink": "/entities/btcmap"
+  }
+}

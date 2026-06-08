@@ -1,0 +1,82 @@
+{
+  "id": "queries/what-privacy-stack-should-i-use-for-mobile",
+  "title": "What Privacy Stack Should I Use for Mobile?",
+  "description": "Mobile devices are the weakest link in most bitcoiners' privacy stacks. They broadcast location, run closed-source basebands, and constantly phone home to Apple or Google. This page maps a practical mobile privacy stack from OS to wallet.",
+  "source": "@site/docs/queries/what-privacy-stack-should-i-use-for-mobile.md",
+  "sourceDirName": "queries",
+  "slug": "/queries/what-privacy-stack-should-i-use-for-mobile",
+  "permalink": "/queries/what-privacy-stack-should-i-use-for-mobile",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "android",
+      "permalink": "/tags/android"
+    },
+    {
+      "inline": true,
+      "label": "coinjoin",
+      "permalink": "/tags/coinjoin"
+    },
+    {
+      "inline": true,
+      "label": "kyc",
+      "permalink": "/tags/kyc"
+    },
+    {
+      "inline": true,
+      "label": "opsec",
+      "permalink": "/tags/opsec"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "What Privacy Stack Should I Use for Mobile?",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "query",
+    "tags": [
+      "privacy",
+      "mobile",
+      "android",
+      "coinjoin",
+      "kyc",
+      "opsec",
+      "tools"
+    ],
+    "sources": [
+      "raw/mobile-privacy-meetup-5-2022-10-13.md",
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "concepts/privacy-stacks.md",
+      "entities/samourai-wallet.md",
+      "entities/azteco.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "How Do I Start Mining at Home?",
+    "permalink": "/queries/how-do-i-start-mining-at-home"
+  },
+  "next": {
+    "title": "Which Custody Model Fits My Threat Model?",
+    "permalink": "/queries/which-custody-model-fits-my-threat-model"
+  }
+}

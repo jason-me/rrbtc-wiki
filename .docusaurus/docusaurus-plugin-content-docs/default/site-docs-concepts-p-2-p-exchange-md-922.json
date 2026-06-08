@@ -1,0 +1,72 @@
+{
+  "id": "concepts/p2p-exchange",
+  "title": "Peer-to-Peer Exchange",
+  "description": "Peer-to-peer (P2P) exchanges allow individuals to buy and sell bitcoin directly with one another, without centralized intermediaries holding funds or requiring identity verification. This aligns with Bitcoin's cypherpunk roots: minimize trust, preserve privacy, and maintain self-custody.",
+  "source": "@site/docs/concepts/p2p-exchange.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/p2p-exchange",
+  "permalink": "/concepts/p2p-exchange",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "exchange",
+      "permalink": "/tags/exchange"
+    },
+    {
+      "inline": true,
+      "label": "p2p",
+      "permalink": "/tags/p-2-p"
+    },
+    {
+      "inline": true,
+      "label": "no-kyc",
+      "permalink": "/tags/no-kyc"
+    },
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "trading",
+      "permalink": "/tags/trading"
+    },
+    {
+      "inline": true,
+      "label": "circular-economy",
+      "permalink": "/tags/circular-economy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Peer-to-Peer Exchange",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "exchange",
+      "p2p",
+      "no-kyc",
+      "privacy",
+      "trading",
+      "circular-economy"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Nostr",
+    "permalink": "/concepts/nostr"
+  },
+  "next": {
+    "title": "PayJoin",
+    "permalink": "/concepts/payjoin"
+  }
+}

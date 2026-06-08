@@ -1,0 +1,64 @@
+{
+  "id": "comparisons/collaborative-custody-providers",
+  "title": "Collaborative Custody Providers",
+  "description": "Comparison of three collaborative custody approaches. All use multisig so you retain sovereign control; none can unilaterally spend your funds.",
+  "source": "@site/docs/comparisons/collaborative-custody-providers.md",
+  "sourceDirName": "comparisons",
+  "slug": "/comparisons/collaborative-custody-providers",
+  "permalink": "/comparisons/collaborative-custody-providers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "collaborative",
+      "permalink": "/tags/collaborative"
+    },
+    {
+      "inline": true,
+      "label": "inheritance",
+      "permalink": "/tags/inheritance"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Collaborative Custody Providers",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "comparison",
+    "tags": [
+      "custody",
+      "multisig",
+      "collaborative",
+      "inheritance"
+    ],
+    "sources": [
+      "entities/casa.md",
+      "entities/unchained-capital.md",
+      "entities/nunchuk.md",
+      "raw/what-is-multisig-meetup-7-2022-12-08.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Core vs Bitcoin Knots",
+    "permalink": "/comparisons/bitcoin-core-vs-knots"
+  },
+  "next": {
+    "title": "Mining Payout Schemas",
+    "permalink": "/comparisons/mining-payout-schemas"
+  }
+}

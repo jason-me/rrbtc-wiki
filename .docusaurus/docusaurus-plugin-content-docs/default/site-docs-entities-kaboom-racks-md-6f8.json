@@ -1,0 +1,66 @@
+{
+  "id": "entities/kaboom-racks",
+  "title": "KaboomRacks",
+  "description": "ASIC mining hardware marketplace. Sells refurbished and used miners, often at prices accessible to home miners.",
+  "source": "@site/docs/entities/kaboom-racks.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/kaboom-racks",
+  "permalink": "/entities/kaboom-racks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "asic",
+      "permalink": "/tags/asic"
+    },
+    {
+      "inline": true,
+      "label": "marketplace",
+      "permalink": "/tags/marketplace"
+    },
+    {
+      "inline": true,
+      "label": "resale",
+      "permalink": "/tags/resale"
+    },
+    {
+      "inline": true,
+      "label": "home-mining",
+      "permalink": "/tags/home-mining"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "KaboomRacks",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "asic",
+      "marketplace",
+      "resale",
+      "home-mining"
+    ],
+    "sources": [
+      "raw/home-mining-2023-07-31.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "JoinMarket",
+    "permalink": "/entities/joinmarket"
+  },
+  "next": {
+    "title": "Ledger",
+    "permalink": "/entities/ledger"
+  }
+}

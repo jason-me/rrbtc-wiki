@@ -1,0 +1,66 @@
+{
+  "id": "concepts/mining-payout-schemas",
+  "title": "Mining Payout Schemas",
+  "description": "Mining pools distribute block rewards and fees to participants according to a chosen payout schema. The schema determines how risk (variance) and reward (fees / stability) are allocated between miners and the pool operator.",
+  "source": "@site/docs/concepts/mining-payout-schemas.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/mining-payout-schemas",
+  "permalink": "/concepts/mining-payout-schemas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "economics",
+      "permalink": "/tags/economics"
+    },
+    {
+      "inline": true,
+      "label": "pool",
+      "permalink": "/tags/pool"
+    },
+    {
+      "inline": true,
+      "label": "risk",
+      "permalink": "/tags/risk"
+    },
+    {
+      "inline": true,
+      "label": "reward",
+      "permalink": "/tags/reward"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mining Payout Schemas",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "mining",
+      "economics",
+      "pool",
+      "risk",
+      "reward"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Mesh Networks",
+    "permalink": "/concepts/mesh-networks"
+  },
+  "next": {
+    "title": "Multisig",
+    "permalink": "/concepts/multisig"
+  }
+}

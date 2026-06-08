@@ -1,0 +1,47 @@
+{
+  "id": "concepts/payjoin",
+  "title": "PayJoin",
+  "description": "A privacy technique (BIP-78, also known as P2EP — Pay-to-Endpoint) where a payment transaction is collaboratively constructed between sender and receiver. Both parties contribute inputs, breaking the common-input-ownership heuristic used by chain analysts.",
+  "source": "@site/docs/concepts/payjoin.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/payjoin",
+  "permalink": "/concepts/payjoin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "PayJoin",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "privacy",
+      "tools"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Peer-to-Peer Exchange",
+    "permalink": "/concepts/p2p-exchange"
+  },
+  "next": {
+    "title": "Privacy Stacks",
+    "permalink": "/concepts/privacy-stacks"
+  }
+}

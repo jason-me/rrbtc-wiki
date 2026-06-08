@@ -1,0 +1,53 @@
+{
+  "id": "entities/wasabi-wallet",
+  "title": "Wasabi Wallet",
+  "description": "Privacy-focused Bitcoin desktop wallet with built-in CoinJoin coordination by default. Uses the WabiSabi credential protocol for CoinJoin transactions.",
+  "source": "@site/docs/entities/wasabi-wallet.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/wasabi-wallet",
+  "permalink": "/entities/wasabi-wallet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "privacy",
+      "permalink": "/tags/privacy"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/tags/tools"
+    },
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Wasabi Wallet",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "privacy",
+      "tools",
+      "custody"
+    ],
+    "sources": [
+      "raw/why-privacy-matters-meetup-3-2022-08-11.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Upstream Data",
+    "permalink": "/entities/upstream-data"
+  },
+  "next": {
+    "title": "Whirlpool",
+    "permalink": "/entities/whirlpool"
+  }
+}

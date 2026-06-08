@@ -1,0 +1,67 @@
+{
+  "id": "entities/bluewallet",
+  "title": "BlueWallet",
+  "description": "Mobile Bitcoin wallet for iOS and Android. Supports both on-chain and Lightning. Originally included a custodial Lightning option; shifting toward non-custodial with Lightning Dev Kit (LDK) integration.",
+  "source": "@site/docs/entities/bluewallet.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/bluewallet",
+  "permalink": "/entities/bluewallet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "lightning",
+      "permalink": "/tags/lightning"
+    },
+    {
+      "inline": true,
+      "label": "wallet",
+      "permalink": "/tags/wallet"
+    },
+    {
+      "inline": true,
+      "label": "mobile",
+      "permalink": "/tags/mobile"
+    },
+    {
+      "inline": true,
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    },
+    {
+      "inline": true,
+      "label": "ldk",
+      "permalink": "/tags/ldk"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "BlueWallet",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "lightning",
+      "wallet",
+      "mobile",
+      "open-source",
+      "ldk"
+    ],
+    "sources": [
+      "raw/running-robosats-2023-04-14.md",
+      "raw/nfc-cards-wallets-for-bitcoin-2023-05-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Blockstream Green",
+    "permalink": "/entities/blockstream-green"
+  },
+  "next": {
+    "title": "Bolt Card",
+    "permalink": "/entities/bolt-card"
+  }
+}

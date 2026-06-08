@@ -1,0 +1,72 @@
+{
+  "id": "entities/sats-card",
+  "title": "SatsCard",
+  "description": "NFC-enabled physical card from Coinkite functioning like a re-usable OpenDime. Load bitcoin onto it and transfer via NFC tap.",
+  "source": "@site/docs/entities/sats-card.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/sats-card",
+  "permalink": "/entities/sats-card",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "nfc",
+      "permalink": "/tags/nfc"
+    },
+    {
+      "inline": true,
+      "label": "hardware",
+      "permalink": "/tags/hardware"
+    },
+    {
+      "inline": true,
+      "label": "cold-storage",
+      "permalink": "/tags/cold-storage"
+    },
+    {
+      "inline": true,
+      "label": "opendime",
+      "permalink": "/tags/opendime"
+    },
+    {
+      "inline": true,
+      "label": "gifting",
+      "permalink": "/tags/gifting"
+    },
+    {
+      "inline": true,
+      "label": "on-chain",
+      "permalink": "/tags/on-chain"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SatsCard",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "nfc",
+      "hardware",
+      "cold-storage",
+      "opendime",
+      "gifting",
+      "on-chain"
+    ],
+    "sources": [
+      "raw/nfc-cards-wallets-for-bitcoin-2023-05-12.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Samourai Wallet",
+    "permalink": "/entities/samourai-wallet"
+  },
+  "next": {
+    "title": "SeedSigner",
+    "permalink": "/entities/seedsigner"
+  }
+}

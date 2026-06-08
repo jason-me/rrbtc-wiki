@@ -1,0 +1,67 @@
+{
+  "id": "entities/bitcoin-core",
+  "title": "Bitcoin Core",
+  "description": "Bitcoin Core is the reference implementation of the Bitcoin protocol. Originally released by Satoshi Nakamoto in 2009 as \"Bitcoin,\" it remains the most widely used, reviewed, and trusted node software.",
+  "source": "@site/docs/entities/bitcoin-core.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/bitcoin-core",
+  "permalink": "/entities/bitcoin-core",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "full-node",
+      "permalink": "/tags/full-node"
+    },
+    {
+      "inline": true,
+      "label": "reference-implementation",
+      "permalink": "/tags/reference-implementation"
+    },
+    {
+      "inline": true,
+      "label": "software",
+      "permalink": "/tags/software"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Core",
+    "created": "2026-06-02T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "bitcoin",
+      "node",
+      "full-node",
+      "reference-implementation",
+      "software"
+    ],
+    "sources": [
+      "raw/why-run-a-node-meetup-4-2022-09-08.md",
+      "raw/bitcoin-protocol-meetup-2-2022-07-14.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Commons",
+    "permalink": "/entities/bitcoin-commons"
+  },
+  "next": {
+    "title": "Bitcoin Knots",
+    "permalink": "/entities/bitcoin-knots"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "entities/shushminer",
+  "title": "ShushMiner",
+  "description": "Manufacturer of sound-dampening enclosures for Bitcoin ASIC miners. Targets residential miners who need to reduce noise without custom fabrication.",
+  "source": "@site/docs/entities/shushminer.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/shushminer",
+  "permalink": "/entities/shushminer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "enclosure",
+      "permalink": "/tags/enclosure"
+    },
+    {
+      "inline": true,
+      "label": "noise-reduction",
+      "permalink": "/tags/noise-reduction"
+    },
+    {
+      "inline": true,
+      "label": "home-mining",
+      "permalink": "/tags/home-mining"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ShushMiner",
+    "created": "2026-06-04T00:00:00.000Z",
+    "updated": "2026-06-04T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "enclosure",
+      "noise-reduction",
+      "home-mining"
+    ],
+    "sources": [
+      "raw/home-mining-2023-07-31.md"
+    ],
+    "confidence": "high",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "SeedSigner",
+    "permalink": "/entities/seedsigner"
+  },
+  "next": {
+    "title": "Simple Proof",
+    "permalink": "/entities/simple-proof"
+  }
+}

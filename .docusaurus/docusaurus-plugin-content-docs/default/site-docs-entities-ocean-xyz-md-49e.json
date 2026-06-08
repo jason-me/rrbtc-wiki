@@ -1,0 +1,72 @@
+{
+  "id": "entities/ocean-xyz",
+  "title": "Ocean.xyz",
+  "description": "Ocean.xyz is a Bitcoin mining pool that emphasizes transparency, non-custodial payouts, and miner sovereignty through the DATUM protocol.",
+  "source": "@site/docs/entities/ocean-xyz.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/ocean-xyz",
+  "permalink": "/entities/ocean-xyz",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "mining",
+      "permalink": "/tags/mining"
+    },
+    {
+      "inline": true,
+      "label": "pool",
+      "permalink": "/tags/pool"
+    },
+    {
+      "inline": true,
+      "label": "datum",
+      "permalink": "/tags/datum"
+    },
+    {
+      "inline": true,
+      "label": "stratum",
+      "permalink": "/tags/stratum"
+    },
+    {
+      "inline": true,
+      "label": "solo-mining",
+      "permalink": "/tags/solo-mining"
+    },
+    {
+      "inline": true,
+      "label": "non-kyc",
+      "permalink": "/tags/non-kyc"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ocean.xyz",
+    "created": "2026-05-10T00:00:00.000Z",
+    "updated": "2026-06-02T00:00:00.000Z",
+    "type": "entity",
+    "tags": [
+      "mining",
+      "pool",
+      "datum",
+      "stratum",
+      "solo-mining",
+      "non-kyc"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
+    ],
+    "confidence": "medium",
+    "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Nutstash",
+    "permalink": "/entities/nutstash"
+  },
+  "next": {
+    "title": "OpenNode",
+    "permalink": "/entities/opennode"
+  }
+}

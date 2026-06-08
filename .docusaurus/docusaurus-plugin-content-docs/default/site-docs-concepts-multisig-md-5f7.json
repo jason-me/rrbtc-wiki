@@ -1,0 +1,54 @@
+{
+  "id": "concepts/multisig",
+  "title": "Multisig",
+  "description": "Multisignature (multisig) scripts set a condition where N public keys are recorded and at least M must provide signatures to unlock funds. This is expressed as an M-of-N threshold (e.g., 2-of-3).",
+  "source": "@site/docs/concepts/multisig.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/multisig",
+  "permalink": "/concepts/multisig",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Multisig",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "custody",
+      "multisig",
+      "hardware-wallet"
+    ],
+    "sources": [
+      "raw/what-is-multisig-meetup-7-2022-12-08.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Mining Payout Schemas",
+    "permalink": "/concepts/mining-payout-schemas"
+  },
+  "next": {
+    "title": "No-KYC Acquisition Methods",
+    "permalink": "/concepts/no-kyc-acquisition"
+  }
+}

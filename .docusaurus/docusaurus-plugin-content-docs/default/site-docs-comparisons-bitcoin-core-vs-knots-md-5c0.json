@@ -1,0 +1,75 @@
+{
+  "id": "comparisons/bitcoin-core-vs-knots",
+  "title": "Bitcoin Core vs Bitcoin Knots",
+  "description": "Both are full-node implementations of the Bitcoin protocol. They follow identical consensus rules — neither can create or accept invalid blocks — but they differ in mempool policy: the set of rules each node uses to decide which unconfirmed transactions to accept, relay, and mine.",
+  "source": "@site/docs/comparisons/bitcoin-core-vs-knots.md",
+  "sourceDirName": "comparisons",
+  "slug": "/comparisons/bitcoin-core-vs-knots",
+  "permalink": "/comparisons/bitcoin-core-vs-knots",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "bitcoin",
+      "permalink": "/tags/bitcoin"
+    },
+    {
+      "inline": true,
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "inline": true,
+      "label": "consensus",
+      "permalink": "/tags/consensus"
+    },
+    {
+      "inline": true,
+      "label": "mempool",
+      "permalink": "/tags/mempool"
+    },
+    {
+      "inline": true,
+      "label": "policy",
+      "permalink": "/tags/policy"
+    },
+    {
+      "inline": true,
+      "label": "controversy",
+      "permalink": "/tags/controversy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bitcoin Core vs Bitcoin Knots",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "comparison",
+    "tags": [
+      "bitcoin",
+      "node",
+      "consensus",
+      "mempool",
+      "policy",
+      "controversy"
+    ],
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md",
+      "presentations/mining-hashpower-datum-outline-2026-05.md",
+      "entities/bitcoin-core.md",
+      "entities/bitcoin-knots.md"
+    ],
+    "confidence": "high",
+    "contested": true
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Comparisons",
+    "permalink": "/comparisons/"
+  },
+  "next": {
+    "title": "Collaborative Custody Providers",
+    "permalink": "/comparisons/collaborative-custody-providers"
+  }
+}

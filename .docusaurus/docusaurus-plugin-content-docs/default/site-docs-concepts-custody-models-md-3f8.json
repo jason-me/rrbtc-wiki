@@ -1,0 +1,60 @@
+{
+  "id": "concepts/custody-models",
+  "title": "Custody Models",
+  "description": "The spectrum of bitcoin custody ranges from full self-custody to fully custodial exchange wallets. The right model depends on technical ability, threat model, and need for inheritance or recovery.",
+  "source": "@site/docs/concepts/custody-models.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/custody-models",
+  "permalink": "/concepts/custody-models",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "custody",
+      "permalink": "/tags/custody"
+    },
+    {
+      "inline": true,
+      "label": "multisig",
+      "permalink": "/tags/multisig"
+    },
+    {
+      "inline": true,
+      "label": "hardware-wallet",
+      "permalink": "/tags/hardware-wallet"
+    },
+    {
+      "inline": true,
+      "label": "inheritance",
+      "permalink": "/tags/inheritance"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Custody Models",
+    "created": "2026-06-03T00:00:00.000Z",
+    "updated": "2026-06-03T00:00:00.000Z",
+    "type": "concept",
+    "tags": [
+      "custody",
+      "multisig",
+      "hardware-wallet",
+      "inheritance"
+    ],
+    "sources": [
+      "raw/what-is-multisig-meetup-7-2022-12-08.md",
+      "raw/bisq-to-bitcoin-retirement-2025-10-10.md"
+    ],
+    "confidence": "high"
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Circular Economy",
+    "permalink": "/concepts/circular-economy"
+  },
+  "next": {
+    "title": "Home Mining",
+    "permalink": "/concepts/home-mining"
+  }
+}
