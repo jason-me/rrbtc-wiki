@@ -1,0 +1,138 @@
+/**
+ * Any CSS included here will be global.
+ */
+
+/* Bitcoin Orange theming & accessibility overrides */
+:root {
+  --ifm-color-primary: #A8640D;
+  --ifm-color-primary-dark: #A8640D;
+  --ifm-color-primary-darker: #8A520A;
+  --ifm-color-primary-darkest: #6B3F06;
+  --ifm-color-primary-light: #E08B12;
+  --ifm-color-primary-lighter: #F7931A;
+  --ifm-color-primary-lightest: #FFB84D;
+  
+  --ifm-link-color: #6B3F06;
+  --ifm-link-hover-color: #4A2C03;
+  --ifm-font-color-base: #1a1a1a;
+  --ifm-color-content-secondary: #4a4a4a;
+  --ifm-footer-background-color: #1a1a1a;
+}
+
+[data-theme='light'] ::placeholder {
+  color: #555555 !important;
+  opacity: 1 !important;
+}
+
+/* Darker contrast for light mode text and links */
+[data-theme='light'] .menu__link {
+  color: #333333 !important;
+}
+
+/* Active/current link text must be highly visible in light mode */
+[data-theme='light'] .menu__link--active {
+  color: #6B3F06 !important;
+  font-weight: 600 !important;
+}
+
+[data-theme='light'] .DocSearch-Button-Placeholder,
+[data-theme='light'] .DocSearch-Button-Keys,
+[data-theme='light'] .search-bar input::placeholder {
+  color: #4a4a4a !important;
+  opacity: 1 !important;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #FFB84D;
+  --ifm-link-color: #FFC773;
+  --ifm-link-hover-color: #FFD699;
+  --ifm-font-color-base: #ffffff;
+  --ifm-color-content-secondary: #b0b0b0;
+  --ifm-footer-background-color: #000000;
+}
+
+/* === Focus indicators === */
+a:focus-visible,
+button:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid #F7931A !important;
+  outline-offset: 2px !important;
+  border-radius: 2px;
+}
+
+[data-theme='dark'] a:focus-visible,
+[data-theme='dark'] button:focus-visible,
+[data-theme='dark'] [tabindex]:focus-visible,
+[data-theme='dark'] .navbar *:focus-visible,
+[data-theme='dark'] .menu__link:focus-visible,
+[data-theme='dark'] .menu__caret:focus-visible {
+  outline: 3px solid #FFB84D !important;
+  outline-offset: 2px !important;
+  border-radius: 2px;
+}
+
+/* === Logo sizing and alignment === */
+.navbar__logo img {
+  height: 2.6rem !important; /* Scaled down to prevent touching the orange circle edge */
+  width: auto !important;
+  max-height: 2.6rem !important;
+  display: block !important;
+}
+
+/* === Sidebar Navigation Accessibility === */
+.menu__link--sublist:focus-visible,
+.menu__caret:focus-visible {
+  outline: 3px solid #F7931A !important;
+  outline-offset: -2px !important;
+  border-radius: 4px;
+  background-color: rgba(247, 147, 26, 0.1) !important;
+}
+
+[data-theme='dark'] .menu__link--sublist:focus-visible,
+[data-theme='dark'] .menu__caret:focus-visible {
+  outline: 3px solid #FFB84D !important;
+  background-color: rgba(255, 184, 77, 0.15) !important;
+}
+
+.menu__link:focus-visible {
+  scroll-margin-top: 40px;
+  scroll-margin-bottom: 40px;
+}
+
+/* Better blockquote styling */
+blockquote {
+  border-left: 4px solid #F7931A;
+}
+
+/* Code inline contrast */
+code {
+  background-color: rgba(247, 147, 26, 0.12);
+  color: #1a1a1a;
+  padding: 0.15em 0.3em;
+  border-radius: 3px;
+}
+
+[data-theme='dark'] code {
+  background-color: rgba(247, 147, 26, 0.15);
+  color: #ffffff;
+}
+
+/* Larger tap targets on mobile */
+.menu__link {
+  min-height: 44px !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+/* Visually hidden class for screen-reader-only text */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
