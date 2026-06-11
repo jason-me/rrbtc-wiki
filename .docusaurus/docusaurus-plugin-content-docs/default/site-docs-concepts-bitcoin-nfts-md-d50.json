@@ -1,7 +1,7 @@
 {
   "id": "concepts/bitcoin-nfts",
   "title": "Bitcoin Data Carving (Ordinals, Inscriptions, BRC-20, Runes)",
-  "description": "Analysis of ordinal inscriptions, rare sats, and NFT protocols on Bitcoin, with examination of their impact on block space, fees, and network philosophy.",
+  "description": "Since the Taproot soft fork in 2021, several protocols have emerged that use Bitcoin's script and witness fields to inscribe or associate arbitrary data with individual satoshis. These are collectively known as inscriptions or data carving protocols. The most prominent are Ordinals, BRC-20 tokens, and Runes.",
   "source": "@site/docs/concepts/bitcoin-nfts.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/bitcoin-nfts",
@@ -53,7 +53,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Bitcoin Data Carving (Ordinals, Inscriptions, BRC-20, Runes)",
-    "description": "Analysis of ordinal inscriptions, rare sats, and NFT protocols on Bitcoin, with examination of their impact on block space, fees, and network philosophy.",
     "created": "2026-06-04T00:00:00.000Z",
     "updated": "2026-06-04T00:00:00.000Z",
     "type": "concept",
@@ -72,5 +71,14 @@
     ],
     "confidence": "high",
     "contested": true
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Bitcoin Education",
+    "permalink": "/concepts/bitcoin-education"
+  },
+  "next": {
+    "title": "Bitcoin Node Types",
+    "permalink": "/concepts/bitcoin-node-types"
   }
 }

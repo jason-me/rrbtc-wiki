@@ -1,7 +1,7 @@
 {
   "id": "entities/README",
-  "title": "Entities Overview",
-  "description": "Profiles of the projects, organizations, and software in the Bitcoin ecosystem. Each entry covers what the entity does, how it fits into the broader landscape, and where to learn more.",
+  "title": "Entities",
+  "description": "Wiki pages on key Bitcoin ecosystem projects: BitAxe, DATUM, Ocean, StratumV2, Knots, etc.",
   "source": "@site/docs/entities/README.md",
   "sourceDirName": "entities",
   "slug": "/entities/",
@@ -10,13 +10,10 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Entities Overview",
-    "pagination_next": "entities/alby"
-  },
+  "frontMatter": {},
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Privacy Stacks",
+    "title": "Privacy Stacks — CoinJoin and No-KYC Acquisition",
     "permalink": "/comparisons/privacy-stacks"
   },
   "next": {

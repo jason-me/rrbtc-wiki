@@ -53,5 +53,14 @@
     ],
     "confidence": "high",
     "contested": true
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "StartOS",
+    "permalink": "/entities/start-os"
+  },
+  "next": {
+    "title": "Stowaway",
+    "permalink": "/entities/stowaway"
   }
 }

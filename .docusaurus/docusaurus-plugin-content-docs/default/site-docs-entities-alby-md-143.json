@@ -46,11 +46,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Entities Overview",
+    "title": "Entities",
     "permalink": "/entities/"
   },
   "next": {
-    "title": "Azteco",
-    "permalink": "/entities/azteco"
+    "title": "AxeOS",
+    "permalink": "/entities/axe-os"
   }
 }

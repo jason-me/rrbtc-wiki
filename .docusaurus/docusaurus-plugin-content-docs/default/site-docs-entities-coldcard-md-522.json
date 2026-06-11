@@ -58,11 +58,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "c-lightning",
-    "permalink": "/entities/c-lightning"
+    "title": "CoinATMRadar",
+    "permalink": "/entities/coinatmradar"
   },
   "next": {
-    "title": "DATUM",
-    "permalink": "/entities/datum"
+    "title": "ComparePower",
+    "permalink": "/entities/comparepower"
   }
 }

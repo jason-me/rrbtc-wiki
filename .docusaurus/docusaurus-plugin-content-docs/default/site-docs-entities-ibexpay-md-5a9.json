@@ -53,5 +53,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "HWI (Hardware Wallet Interface)",
+    "permalink": "/entities/hwi"
+  },
+  "next": {
+    "title": "JoinMarket",
+    "permalink": "/entities/joinmarket"
   }
 }

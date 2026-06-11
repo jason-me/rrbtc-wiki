@@ -1,7 +1,7 @@
 {
   "id": "concepts/README",
-  "title": "Concepts Overview",
-  "description": "Core explanations of Bitcoin mechanisms, protocols, and foundational ideas, broken down so you can make informed decisions about your stack, from running a node to understanding privacy models.",
+  "title": "Concepts",
+  "description": "Explanations of Bitcoin concepts, mechanisms, and protocols.",
   "source": "@site/docs/concepts/README.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/",
@@ -10,10 +10,7 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Concepts Overview",
-    "pagination_next": "concepts/accessibility-in-bitcoin"
-  },
+  "frontMatter": {},
   "sidebar": "wikiSidebar",
   "previous": {
     "title": "Welcome",

@@ -43,11 +43,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Breez",
-    "permalink": "/entities/breez"
+    "title": "C-Lightning (Core-Lightning)",
+    "permalink": "/entities/c-lightning"
   },
   "next": {
-    "title": "CASA",
+    "title": "Casa",
     "permalink": "/entities/casa"
   }
 }

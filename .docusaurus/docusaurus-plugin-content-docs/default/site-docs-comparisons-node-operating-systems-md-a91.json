@@ -1,7 +1,7 @@
 {
   "id": "comparisons/node-operating-systems",
   "title": "Bitcoin Node Operating Systems",
-  "description": "Comparison of Umbrel, StartOS, RaspiBlitz, myNode, RoninDojo, and bare-metal setups for running a Bitcoin + Lightning node at home.",
+  "description": "Comparison of popular Bitcoin node OS options. Claims are scoped to what primary project sources and meetup materials verify.",
   "source": "@site/docs/comparisons/node-operating-systems.md",
   "sourceDirName": "comparisons",
   "slug": "/comparisons/node-operating-systems",
@@ -43,7 +43,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Bitcoin Node Operating Systems",
-    "description": "Comparison of Umbrel, StartOS, RaspiBlitz, myNode, RoninDojo, and bare-metal setups for running a Bitcoin + Lightning node at home.",
     "created": "2026-06-04T00:00:00.000Z",
     "updated": "2026-06-04T00:00:00.000Z",
     "type": "comparison",
@@ -69,7 +68,7 @@
     "permalink": "/comparisons/mining-payout-schemas"
   },
   "next": {
-    "title": "Privacy Stacks",
+    "title": "Privacy Stacks — CoinJoin and No-KYC Acquisition",
     "permalink": "/comparisons/privacy-stacks"
   }
 }

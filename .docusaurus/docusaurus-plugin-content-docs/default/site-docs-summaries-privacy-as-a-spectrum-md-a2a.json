@@ -1,7 +1,7 @@
 {
   "id": "summaries/privacy-as-a-spectrum",
   "title": "Privacy as a Spectrum",
-  "description": "Continuum of Bitcoin privacy from basic hygiene (address reuse avoidance, Tor) to advanced techniques (CoinJoin, Silent Payments, lightning, Nostr) — matched to user capability and threat model.",
+  "description": "Privacy is not a feature you add to Bitcoin after the fact. It is a prerequisite for fungibility: the property that makes one satoshi interchangeable with any other. Without privacy, transactions become targets for censorship, surveillance, and discrimination. The blockchain is permanent; any link you create between your identity and your UTXOs cannot be undone.",
   "source": "@site/docs/summaries/privacy-as-a-spectrum.md",
   "sourceDirName": "summaries",
   "slug": "/summaries/privacy-as-a-spectrum",
@@ -53,7 +53,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Privacy as a Spectrum",
-    "description": "Continuum of Bitcoin privacy from basic hygiene (address reuse avoidance, Tor) to advanced techniques (CoinJoin, Silent Payments, lightning, Nostr) — matched to user capability and threat model.",
     "created": "2026-06-04T00:00:00.000Z",
     "updated": "2026-06-04T00:00:00.000Z",
     "type": "summary",

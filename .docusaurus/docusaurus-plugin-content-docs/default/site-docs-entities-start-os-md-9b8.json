@@ -48,9 +48,8 @@
       "bitcoin",
       "privacy"
     ],
-    "source_refs": [
-      "presentations:decentralized-mining-workshop-meetup-30.md",
-      "presentations:node-builder-workshop-2025-11-13.md"
+    "sources": [
+      "raw/decentralized-mining-workshop-meetup-30.md"
     ],
     "confidence": "medium",
     "contested": false
@@ -61,7 +60,7 @@
     "permalink": "/entities/specter-desktop"
   },
   "next": {
-    "title": "Stratum V2",
-    "permalink": "/entities/stratum-v2"
+    "title": "Stonewall",
+    "permalink": "/entities/stonewall"
   }
 }

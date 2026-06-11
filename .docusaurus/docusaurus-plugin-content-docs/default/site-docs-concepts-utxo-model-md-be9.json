@@ -1,7 +1,7 @@
 {
   "id": "concepts/utxo-model",
   "title": "UTXO Model",
-  "description": "Explanation of the UTXO accounting model, coin selection, consolidation, dust limits, and how UTXO management affects privacy, fees, and wallet performance.",
+  "description": "Bitcoin does not use an \"account balance\" system like a bank. Instead, it tracks Unspent Transaction Outputs (UTXOs) — discrete chunks of bitcoin that have been received but not yet spent.",
   "source": "@site/docs/concepts/utxo-model.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/utxo-model",
@@ -38,7 +38,6 @@
   "version": "current",
   "frontMatter": {
     "title": "UTXO Model",
-    "description": "Explanation of the UTXO accounting model, coin selection, consolidation, dust limits, and how UTXO management affects privacy, fees, and wallet performance.",
     "created": "2026-06-02T00:00:00.000Z",
     "updated": "2026-06-02T00:00:00.000Z",
     "type": "concept",
@@ -58,11 +57,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Proof of Work",
+    "title": "Proof of Work & Bitcoin Supply",
     "permalink": "/concepts/proof-of-work"
   },
   "next": {
-    "title": "Comparisons Overview",
+    "title": "Comparisons",
     "permalink": "/comparisons/"
   }
 }

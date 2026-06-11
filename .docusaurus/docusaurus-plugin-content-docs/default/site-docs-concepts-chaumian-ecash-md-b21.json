@@ -1,7 +1,7 @@
 {
   "id": "concepts/chaumian-ecash",
   "title": "Chaumian eCash",
-  "description": "Explanation of Chaumian eCash principles, blind signatures, and modern implementations like Cashu and Fedimint for private, custodial or federated ecash on Bitcoin.",
+  "description": "Chaumian eCash is a privacy-preserving digital cash system built on top of Bitcoin. It uses blind signatures to allow a mint to authenticate tokens without knowing who holds them or how they are spent. Cashu is the most widely adopted open-source implementation, settling against the Lightning Network.",
   "source": "@site/docs/concepts/chaumian-ecash.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/chaumian-ecash",
@@ -48,7 +48,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Chaumian eCash",
-    "description": "Explanation of Chaumian eCash principles, blind signatures, and modern implementations like Cashu and Fedimint for private, custodial or federated ecash on Bitcoin.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",

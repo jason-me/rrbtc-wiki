@@ -53,11 +53,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Samourai Wallet",
-    "permalink": "/entities/samourai-wallet"
+    "title": "SatsCard",
+    "permalink": "/entities/sats-card"
   },
   "next": {
-    "title": "Simple Proof",
-    "permalink": "/entities/simple-proof"
+    "title": "ShushMiner",
+    "permalink": "/entities/shushminer"
   }
 }

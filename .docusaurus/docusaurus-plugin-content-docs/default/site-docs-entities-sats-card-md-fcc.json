@@ -59,5 +59,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Samourai Wallet",
+    "permalink": "/entities/samourai-wallet"
+  },
+  "next": {
+    "title": "SeedSigner",
+    "permalink": "/entities/seedsigner"
   }
 }

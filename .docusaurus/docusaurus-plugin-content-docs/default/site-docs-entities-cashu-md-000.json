@@ -69,11 +69,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "CASA",
-    "permalink": "/entities/casa"
+    "title": "CASCDR",
+    "permalink": "/entities/casdcr"
   },
   "next": {
-    "title": "c-lightning",
-    "permalink": "/entities/c-lightning"
+    "title": "CoinATMRadar",
+    "permalink": "/entities/coinatmradar"
   }
 }

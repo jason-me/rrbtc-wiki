@@ -53,5 +53,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Cashu",
+    "permalink": "/entities/cashu"
+  },
+  "next": {
+    "title": "ColdCard",
+    "permalink": "/entities/coldcard"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "concepts/mining-payout-schemas",
   "title": "Mining Payout Schemas",
-  "description": "Comparison of PPLNS, FPPS, PPS+, TIDES, and solo mining payout models with variance, latency, and pool fee implications.",
+  "description": "Mining pools distribute block rewards and fees to participants according to a chosen payout schema. The schema determines how risk (variance) and reward (fees / stability) are allocated between miners and the pool operator.",
   "source": "@site/docs/concepts/mining-payout-schemas.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/mining-payout-schemas",
@@ -38,7 +38,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Mining Payout Schemas",
-    "description": "Comparison of PPLNS, FPPS, PPS+, TIDES, and solo mining payout models with variance, latency, and pool fee implications.",
     "created": "2026-05-10T00:00:00.000Z",
     "updated": "2026-06-02T00:00:00.000Z",
     "type": "concept",

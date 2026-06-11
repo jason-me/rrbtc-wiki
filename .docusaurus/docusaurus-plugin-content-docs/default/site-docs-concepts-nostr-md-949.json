@@ -1,7 +1,7 @@
 {
   "id": "concepts/nostr",
   "title": "Nostr",
-  "description": "Introduction to the Nostr protocol for censorship-resistant social networking, including clients, relays, NIPs, and integration with Lightning via Zaps.",
+  "description": "Notes and Other Stuff Transmitted by Relays — a decentralized protocol for creating censorship-resistant social networks and messaging systems based on cryptographic keypairs.",
   "source": "@site/docs/concepts/nostr.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/nostr",
@@ -28,7 +28,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Nostr",
-    "description": "Introduction to the Nostr protocol for censorship-resistant social networking, including clients, relays, NIPs, and integration with Lightning via Zaps.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",
@@ -46,11 +45,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "No-KYC Acquisition",
+    "title": "No-KYC Acquisition Methods",
     "permalink": "/concepts/no-kyc-acquisition"
   },
   "next": {
-    "title": "P2P Exchange",
+    "title": "Peer-to-Peer Exchange",
     "permalink": "/concepts/p2p-exchange"
   }
 }

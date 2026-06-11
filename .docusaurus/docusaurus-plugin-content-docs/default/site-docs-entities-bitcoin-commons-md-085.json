@@ -53,5 +53,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "BitAxe",
+    "permalink": "/entities/bitaxe"
+  },
+  "next": {
+    "title": "Bitcoin Core",
+    "permalink": "/entities/bitcoin-core"
   }
 }

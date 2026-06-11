@@ -47,5 +47,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Braiins Hashrate Autopilot",
+    "permalink": "/entities/hashrate-autopilot"
+  },
+  "next": {
+    "title": "HodlHodl",
+    "permalink": "/entities/hodlhodl"
   }
 }

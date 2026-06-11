@@ -54,5 +54,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Unchained Capital",
+    "permalink": "/entities/unchained-capital"
+  },
+  "next": {
+    "title": "Wasabi Wallet",
+    "permalink": "/entities/wasabi-wallet"
   }
 }

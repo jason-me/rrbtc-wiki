@@ -53,5 +53,14 @@
     ],
     "confidence": "medium",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Polar",
+    "permalink": "/entities/polar"
+  },
+  "next": {
+    "title": "RaspiBlitz",
+    "permalink": "/entities/raspiblitz"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "comparisons/collaborative-custody-providers",
   "title": "Collaborative Custody Providers",
-  "description": "Side-by-side evaluation of Casa, Unchained, Nunchuk, and other collaborative custody providers covering multisig quorums, key management, recovery flows, and fees.",
+  "description": "Comparison of three collaborative custody approaches. All use multisig so you retain sovereign control; none can unilaterally spend your funds.",
   "source": "@site/docs/comparisons/collaborative-custody-providers.md",
   "sourceDirName": "comparisons",
   "slug": "/comparisons/collaborative-custody-providers",
@@ -33,7 +33,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Collaborative Custody Providers",
-    "description": "Side-by-side evaluation of Casa, Unchained, Nunchuk, and other collaborative custody providers covering multisig quorums, key management, recovery flows, and fees.",
     "created": "2026-06-04T00:00:00.000Z",
     "updated": "2026-06-04T00:00:00.000Z",
     "type": "comparison",
@@ -55,7 +54,7 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Bitcoin Core vs Knots",
+    "title": "Bitcoin Core vs Bitcoin Knots",
     "permalink": "/comparisons/bitcoin-core-vs-knots"
   },
   "next": {

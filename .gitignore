@@ -8,3 +8,6 @@ yarn-error.log*
 *.swp
 *.swo
 *~
+.docusaurus/
+build/
+node_modules/

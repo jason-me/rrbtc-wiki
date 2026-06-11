@@ -1,7 +1,7 @@
 {
   "id": "presentations/README",
-  "title": "Presentations Overview",
-  "description": "A chronological archive of our meetup talks and workshops. Each deck includes slide-by-slide pages, with key takeaways and SpeakerDeck links where available.",
+  "title": "Presentations",
+  "description": "Canva outlines and deck structures for meetup talks.",
   "source": "@site/docs/presentations/README.md",
   "sourceDirName": "presentations",
   "slug": "/presentations/",
@@ -10,12 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Presentations Overview",
-    "pagination_next": "presentations/why-lightning-plus-ai-2024-08-13/index"
+  "frontMatter": {},
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Zeus",
+    "permalink": "/entities/zeus"
   },
   "next": {
-    "title": "Why Lightning + AI (Meetup #27)",
-    "permalink": "/presentations/why-lightning-plus-ai-2024-08-13/"
+    "title": "Mining with Rented Hashrate: Braiins Hashpower + DATUM",
+    "permalink": "/presentations/mining-hashpower-datum-outline"
   }
 }

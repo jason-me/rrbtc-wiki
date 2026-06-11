@@ -5,13 +5,13 @@
       "plugin": "138e0e15"
     }
   },
-  "/-3cd": {
+  "/-a23": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-531": {
+  "/-fcd": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
@@ -827,7 +827,7 @@
     "__comp": "df203c0f",
     "__props": "5de64e91"
   },
-  "/-759": {
+  "/-5cd": {
     "__comp": "a94703ab"
   },
   "/comparisons/-3c9": {
@@ -874,7 +874,7 @@
     "__comp": "17896441",
     "content": "6acf78e2"
   },
-  "/concepts/bitcoin-nfts-b78": {
+  "/concepts/bitcoin-nfts-a0c": {
     "__comp": "17896441",
     "content": "d50eab81"
   },
@@ -954,7 +954,7 @@
     "__comp": "17896441",
     "content": "14342aee"
   },
-  "/entities/axe-os-5e7": {
+  "/entities/axe-os-be5": {
     "__comp": "17896441",
     "content": "636dfff5"
   },
@@ -974,7 +974,7 @@
     "__comp": "17896441",
     "content": "82fd9905"
   },
-  "/entities/bitcoin-commons-ef4": {
+  "/entities/bitcoin-commons-873": {
     "__comp": "17896441",
     "content": "085d4f68"
   },
@@ -986,7 +986,7 @@
     "__comp": "17896441",
     "content": "8221fcf9"
   },
-  "/entities/bitrefill-c7c": {
+  "/entities/bitrefill-122": {
     "__comp": "17896441",
     "content": "da8023cd"
   },
@@ -994,11 +994,11 @@
     "__comp": "17896441",
     "content": "4ba3b1c5"
   },
-  "/entities/bluewallet-898": {
+  "/entities/bluewallet-1d5": {
     "__comp": "17896441",
     "content": "14130994"
   },
-  "/entities/bolt-card-b98": {
+  "/entities/bolt-card-242": {
     "__comp": "17896441",
     "content": "e899860e"
   },
@@ -1010,11 +1010,11 @@
     "__comp": "17896441",
     "content": "359436b0"
   },
-  "/entities/btcmap-b5e": {
+  "/entities/btcmap-ccc": {
     "__comp": "17896441",
     "content": "2062d4bb"
   },
-  "/entities/btcpay-server-93e": {
+  "/entities/btcpay-server-593": {
     "__comp": "17896441",
     "content": "f14acb72"
   },
@@ -1030,7 +1030,7 @@
     "__comp": "17896441",
     "content": "ba4d8c05"
   },
-  "/entities/casdcr-385": {
+  "/entities/casdcr-2d1": {
     "__comp": "17896441",
     "content": "026094d9"
   },
@@ -1038,7 +1038,7 @@
     "__comp": "17896441",
     "content": "0005a3a9"
   },
-  "/entities/coinatmradar-09d": {
+  "/entities/coinatmradar-7d2": {
     "__comp": "17896441",
     "content": "d1cabef5"
   },
@@ -1046,7 +1046,7 @@
     "__comp": "17896441",
     "content": "52267e22"
   },
-  "/entities/comparepower-54a": {
+  "/entities/comparepower-e34": {
     "__comp": "17896441",
     "content": "b784d8a8"
   },
@@ -1058,7 +1058,7 @@
     "__comp": "17896441",
     "content": "dcc6c215"
   },
-  "/entities/feed-filter-f04": {
+  "/entities/feed-filter-dc8": {
     "__comp": "17896441",
     "content": "d1326106"
   },
@@ -1066,7 +1066,7 @@
     "__comp": "17896441",
     "content": "bacdaf4f"
   },
-  "/entities/hash-rate-index-f5b": {
+  "/entities/hash-rate-index-075": {
     "__comp": "17896441",
     "content": "9b101697"
   },
@@ -1078,7 +1078,7 @@
     "__comp": "17896441",
     "content": "f59babca"
   },
-  "/entities/hodl-up-e8e": {
+  "/entities/hodl-up-a06": {
     "__comp": "17896441",
     "content": "cbee0eda"
   },
@@ -1090,7 +1090,7 @@
     "__comp": "17896441",
     "content": "094ba675"
   },
-  "/entities/ibexpay-2c0": {
+  "/entities/ibexpay-822": {
     "__comp": "17896441",
     "content": "5a93e1a5"
   },
@@ -1122,7 +1122,7 @@
     "__comp": "17896441",
     "content": "5dc40016"
   },
-  "/entities/nutstash-0b3": {
+  "/entities/nutstash-e92": {
     "__comp": "17896441",
     "content": "574a7fa3"
   },
@@ -1154,11 +1154,11 @@
     "__comp": "17896441",
     "content": "4867320b"
   },
-  "/entities/polar-fa3": {
+  "/entities/polar-1bd": {
     "__comp": "17896441",
     "content": "bd90276f"
   },
-  "/entities/public-pool-16f": {
+  "/entities/public-pool-dbc": {
     "__comp": "17896441",
     "content": "4b1ea2d0"
   },
@@ -1174,7 +1174,7 @@
     "__comp": "17896441",
     "content": "708c07f9"
   },
-  "/entities/sahil-chaturvedi-309": {
+  "/entities/sahil-chaturvedi-dda": {
     "__comp": "17896441",
     "content": "c1b64ae1"
   },
@@ -1182,7 +1182,7 @@
     "__comp": "17896441",
     "content": "d3949024"
   },
-  "/entities/sats-card-1a9": {
+  "/entities/sats-card-24d": {
     "__comp": "17896441",
     "content": "fcc41c45"
   },
@@ -1190,7 +1190,7 @@
     "__comp": "17896441",
     "content": "565926ca"
   },
-  "/entities/shushminer-43a": {
+  "/entities/shushminer-189": {
     "__comp": "17896441",
     "content": "b34e8ec4"
   },
@@ -1210,11 +1210,11 @@
     "__comp": "17896441",
     "content": "9b8032a9"
   },
-  "/entities/stonewall-59d": {
+  "/entities/stonewall-655": {
     "__comp": "17896441",
     "content": "de269e78"
   },
-  "/entities/stowaway-2df": {
+  "/entities/stowaway-85b": {
     "__comp": "17896441",
     "content": "d7cfe135"
   },
@@ -1242,7 +1242,7 @@
     "__comp": "17896441",
     "content": "d344dd60"
   },
-  "/entities/upstream-data-757": {
+  "/entities/upstream-data-bf0": {
     "__comp": "17896441",
     "content": "1a79d96c"
   },
@@ -1258,1973 +1258,25 @@
     "__comp": "17896441",
     "content": "bab88f9e"
   },
-  "/license-bee": {
-    "__comp": "17896441",
-    "content": "ac5280f2"
-  },
   "/log-5ea": {
     "__comp": "17896441",
     "content": "938d2211"
   },
-  "/presentations/-cf3": {
+  "/presentations/-3cb": {
     "__comp": "17896441",
     "content": "dc0e2893"
   },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/-e68": {
-    "__comp": "17896441",
-    "content": "243bc57c"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001-710": {
-    "__comp": "17896441",
-    "content": "107c750d"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002-5fb": {
-    "__comp": "17896441",
-    "content": "d91f3e4e"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003-8e3": {
-    "__comp": "17896441",
-    "content": "32e215e6"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004-374": {
-    "__comp": "17896441",
-    "content": "fa24e122"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005-907": {
-    "__comp": "17896441",
-    "content": "6216ad50"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006-9e0": {
-    "__comp": "17896441",
-    "content": "20897267"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007-a7b": {
-    "__comp": "17896441",
-    "content": "5176e292"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008-8c5": {
-    "__comp": "17896441",
-    "content": "e5b1a013"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009-29c": {
-    "__comp": "17896441",
-    "content": "c65b9dde"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010-bbf": {
-    "__comp": "17896441",
-    "content": "8c32cf8e"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011-04c": {
-    "__comp": "17896441",
-    "content": "9fd052cc"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012-c44": {
-    "__comp": "17896441",
-    "content": "3050e8fb"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013-847": {
-    "__comp": "17896441",
-    "content": "aa9309d5"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014-70d": {
-    "__comp": "17896441",
-    "content": "056a51ec"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015-94b": {
-    "__comp": "17896441",
-    "content": "42e59ca8"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016-1ba": {
-    "__comp": "17896441",
-    "content": "f06005b5"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017-099": {
-    "__comp": "17896441",
-    "content": "2a1e3cbe"
-  },
-  "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018-b43": {
-    "__comp": "17896441",
-    "content": "b659fb35"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/-0e1": {
-    "__comp": "17896441",
-    "content": "87c61e4d"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-001-90d": {
-    "__comp": "17896441",
-    "content": "112684ef"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-002-030": {
-    "__comp": "17896441",
-    "content": "98ca6852"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-003-635": {
-    "__comp": "17896441",
-    "content": "d9a3facb"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-004-8b1": {
-    "__comp": "17896441",
-    "content": "5714982c"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-005-ef0": {
-    "__comp": "17896441",
-    "content": "901f03e5"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-006-22f": {
-    "__comp": "17896441",
-    "content": "b19753dc"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-007-d5d": {
-    "__comp": "17896441",
-    "content": "2a751e76"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-008-bf5": {
-    "__comp": "17896441",
-    "content": "e54b1e8d"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-009-509": {
-    "__comp": "17896441",
-    "content": "20f81f29"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-010-db2": {
-    "__comp": "17896441",
-    "content": "a6eadf7c"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-011-53c": {
-    "__comp": "17896441",
-    "content": "74dde347"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-012-7e7": {
-    "__comp": "17896441",
-    "content": "68d1bbd6"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-013-256": {
-    "__comp": "17896441",
-    "content": "7e6993e0"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-014-34c": {
-    "__comp": "17896441",
-    "content": "cb7ed55f"
-  },
-  "/presentations/bitchat-and-chill-2025-08-14/slide-015-b19": {
-    "__comp": "17896441",
-    "content": "110607b2"
-  },
-  "/presentations/bitcoin-protocol-meetup-2-2022-07-14/-2aa": {
-    "__comp": "17896441",
-    "content": "af3a2153"
-  },
-  "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001-5ad": {
-    "__comp": "17896441",
-    "content": "67d0b22d"
-  },
-  "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002-ccf": {
-    "__comp": "17896441",
-    "content": "3496b488"
-  },
-  "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003-5b1": {
-    "__comp": "17896441",
-    "content": "aed5e2f2"
-  },
-  "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004-44a": {
-    "__comp": "17896441",
-    "content": "0c7a1926"
-  },
-  "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005-0cd": {
-    "__comp": "17896441",
-    "content": "3edcd24b"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/-601": {
-    "__comp": "17896441",
-    "content": "234c4dbb"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001-ed0": {
-    "__comp": "17896441",
-    "content": "de8f0006"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002-dfb": {
-    "__comp": "17896441",
-    "content": "13edb902"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003-c0a": {
-    "__comp": "17896441",
-    "content": "788a814f"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004-1f1": {
-    "__comp": "17896441",
-    "content": "895530c2"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005-d8f": {
-    "__comp": "17896441",
-    "content": "ff250608"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006-827": {
-    "__comp": "17896441",
-    "content": "3685b0db"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007-f98": {
-    "__comp": "17896441",
-    "content": "a46de7ca"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008-401": {
-    "__comp": "17896441",
-    "content": "b88f840c"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009-a05": {
-    "__comp": "17896441",
-    "content": "57ffdcc1"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010-317": {
-    "__comp": "17896441",
-    "content": "09395064"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011-abf": {
-    "__comp": "17896441",
-    "content": "601fa6fd"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012-fcc": {
-    "__comp": "17896441",
-    "content": "0557f1ac"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013-4c7": {
-    "__comp": "17896441",
-    "content": "a1d92b2e"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014-552": {
-    "__comp": "17896441",
-    "content": "fe33c188"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015-197": {
-    "__comp": "17896441",
-    "content": "30657081"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016-482": {
-    "__comp": "17896441",
-    "content": "7e00188b"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017-319": {
-    "__comp": "17896441",
-    "content": "205f944e"
-  },
-  "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018-a67": {
-    "__comp": "17896441",
-    "content": "bf8555e8"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/-43f": {
-    "__comp": "17896441",
-    "content": "14573981"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001-e52": {
-    "__comp": "17896441",
-    "content": "adc08c53"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002-f60": {
-    "__comp": "17896441",
-    "content": "0d45a33e"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003-920": {
-    "__comp": "17896441",
-    "content": "56bb57e5"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004-def": {
-    "__comp": "17896441",
-    "content": "742d6f04"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005-790": {
-    "__comp": "17896441",
-    "content": "9476ab0e"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006-edb": {
-    "__comp": "17896441",
-    "content": "603c6bd5"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007-b3d": {
-    "__comp": "17896441",
-    "content": "ca889f08"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008-aef": {
-    "__comp": "17896441",
-    "content": "8cf7cae2"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009-9f2": {
-    "__comp": "17896441",
-    "content": "b5d0fdd5"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010-9d2": {
-    "__comp": "17896441",
-    "content": "3a046ff1"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011-46b": {
-    "__comp": "17896441",
-    "content": "93fbb937"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012-6b7": {
-    "__comp": "17896441",
-    "content": "b6c3c24a"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013-c42": {
-    "__comp": "17896441",
-    "content": "72a8a17f"
-  },
-  "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014-64a": {
-    "__comp": "17896441",
-    "content": "f4452252"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/-e65": {
-    "__comp": "17896441",
-    "content": "2c63c8a2"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-001-433": {
-    "__comp": "17896441",
-    "content": "5befcd2d"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-002-d52": {
-    "__comp": "17896441",
-    "content": "5ab04756"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-003-c07": {
-    "__comp": "17896441",
-    "content": "cd69e52b"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-004-ab4": {
-    "__comp": "17896441",
-    "content": "4c0f2e01"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-005-568": {
-    "__comp": "17896441",
-    "content": "f64449b2"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-006-833": {
-    "__comp": "17896441",
-    "content": "666cb84b"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-007-d83": {
-    "__comp": "17896441",
-    "content": "e29cd7c0"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-008-f27": {
-    "__comp": "17896441",
-    "content": "c773fce4"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-009-1a0": {
-    "__comp": "17896441",
-    "content": "700d788b"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-010-11b": {
-    "__comp": "17896441",
-    "content": "003ef2fd"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-011-58d": {
-    "__comp": "17896441",
-    "content": "abe35428"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-012-e28": {
-    "__comp": "17896441",
-    "content": "42451d61"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-013-00f": {
-    "__comp": "17896441",
-    "content": "ca2d0541"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-014-e27": {
-    "__comp": "17896441",
-    "content": "2803e2ec"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-015-d84": {
-    "__comp": "17896441",
-    "content": "335ce31e"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-016-c1d": {
-    "__comp": "17896441",
-    "content": "701396a3"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-017-f23": {
-    "__comp": "17896441",
-    "content": "eb7771b5"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-018-6b6": {
-    "__comp": "17896441",
-    "content": "0a09a876"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-019-558": {
-    "__comp": "17896441",
-    "content": "8919970d"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-020-149": {
-    "__comp": "17896441",
-    "content": "146ab1a7"
-  },
-  "/presentations/cashu-mints-meetup-10-2023-03-09/slide-021-821": {
-    "__comp": "17896441",
-    "content": "a180a133"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/-683": {
-    "__comp": "17896441",
-    "content": "1d46a59a"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-001-79b": {
-    "__comp": "17896441",
-    "content": "c254beeb"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-002-dcf": {
-    "__comp": "17896441",
-    "content": "fb50c8cf"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-003-91f": {
-    "__comp": "17896441",
-    "content": "8c2ed347"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-004-27d": {
-    "__comp": "17896441",
-    "content": "fe2cde05"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-005-858": {
-    "__comp": "17896441",
-    "content": "29b9b432"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-006-98a": {
-    "__comp": "17896441",
-    "content": "8410bfdb"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-007-ac0": {
-    "__comp": "17896441",
-    "content": "4eb7d464"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-008-ed6": {
-    "__comp": "17896441",
-    "content": "1ea14e15"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-009-c54": {
-    "__comp": "17896441",
-    "content": "cafd8528"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-010-7d5": {
-    "__comp": "17896441",
-    "content": "054abcfa"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-011-1e2": {
-    "__comp": "17896441",
-    "content": "06a3a74f"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-012-3b8": {
-    "__comp": "17896441",
-    "content": "13b45023"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-013-cf7": {
-    "__comp": "17896441",
-    "content": "7242ca3e"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-014-e2a": {
-    "__comp": "17896441",
-    "content": "452612c6"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-015-d0f": {
-    "__comp": "17896441",
-    "content": "6d3f10a5"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-016-16f": {
-    "__comp": "17896441",
-    "content": "c0d4ae6c"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-017-226": {
-    "__comp": "17896441",
-    "content": "bdd498ec"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-018-af4": {
-    "__comp": "17896441",
-    "content": "f7c1e872"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-019-e8a": {
-    "__comp": "17896441",
-    "content": "95c2b296"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-020-3a9": {
-    "__comp": "17896441",
-    "content": "61692ed8"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-021-108": {
-    "__comp": "17896441",
-    "content": "52f28234"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-022-8cb": {
-    "__comp": "17896441",
-    "content": "b5f7b8a3"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-023-a1f": {
-    "__comp": "17896441",
-    "content": "50e79b27"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-024-55b": {
-    "__comp": "17896441",
-    "content": "8b5df48b"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-025-3d1": {
-    "__comp": "17896441",
-    "content": "cd35e283"
-  },
-  "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-026-4bf": {
-    "__comp": "17896441",
-    "content": "d1c99346"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/-429": {
-    "__comp": "17896441",
-    "content": "cce0ec35"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-001-316": {
-    "__comp": "17896441",
-    "content": "a95e81d8"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-002-823": {
-    "__comp": "17896441",
-    "content": "4057e095"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-003-6d3": {
-    "__comp": "17896441",
-    "content": "be5dcf70"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-004-098": {
-    "__comp": "17896441",
-    "content": "88255452"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-005-8ac": {
-    "__comp": "17896441",
-    "content": "38a6d173"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-006-a65": {
-    "__comp": "17896441",
-    "content": "cd47ded6"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-007-446": {
-    "__comp": "17896441",
-    "content": "5c8cf21c"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-008-17d": {
-    "__comp": "17896441",
-    "content": "fb8145b8"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-009-e5b": {
-    "__comp": "17896441",
-    "content": "2b862252"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-010-83b": {
-    "__comp": "17896441",
-    "content": "1287e8c1"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-011-d01": {
-    "__comp": "17896441",
-    "content": "4a2290da"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-012-1be": {
-    "__comp": "17896441",
-    "content": "872f6fc8"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-013-1ee": {
-    "__comp": "17896441",
-    "content": "6611a9e7"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-014-0ef": {
-    "__comp": "17896441",
-    "content": "b27e401f"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-015-0e4": {
-    "__comp": "17896441",
-    "content": "4dd1800a"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-016-9ef": {
-    "__comp": "17896441",
-    "content": "2ede2dbc"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-017-bee": {
-    "__comp": "17896441",
-    "content": "1db3ca1d"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-018-9b2": {
-    "__comp": "17896441",
-    "content": "558a44ab"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-019-0ea": {
-    "__comp": "17896441",
-    "content": "519d3a86"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-020-304": {
-    "__comp": "17896441",
-    "content": "5fb32ba4"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-021-c5d": {
-    "__comp": "17896441",
-    "content": "eef6aa31"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-022-863": {
-    "__comp": "17896441",
-    "content": "e03e1820"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-023-0b9": {
-    "__comp": "17896441",
-    "content": "2d99213d"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-024-bcf": {
-    "__comp": "17896441",
-    "content": "d71121ed"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-025-729": {
-    "__comp": "17896441",
-    "content": "0e750229"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-026-3af": {
-    "__comp": "17896441",
-    "content": "d9ecf87f"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-027-b6e": {
-    "__comp": "17896441",
-    "content": "1ed3ad68"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-028-a72": {
-    "__comp": "17896441",
-    "content": "f0dbe9a6"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-029-bf3": {
-    "__comp": "17896441",
-    "content": "efd70f1b"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-030-9ff": {
-    "__comp": "17896441",
-    "content": "2ef4c442"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-031-52d": {
-    "__comp": "17896441",
-    "content": "ca02ff89"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-032-292": {
-    "__comp": "17896441",
-    "content": "41067a28"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-033-ce8": {
-    "__comp": "17896441",
-    "content": "3b1a5c0b"
-  },
-  "/presentations/decentralized-mining-workshop-meetup-30/slide-034-cc3": {
-    "__comp": "17896441",
-    "content": "bfab7525"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/-9c7": {
-    "__comp": "17896441",
-    "content": "ea9d5f0a"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-001-619": {
-    "__comp": "17896441",
-    "content": "b5422b78"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-002-492": {
-    "__comp": "17896441",
-    "content": "37118eda"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-003-8c8": {
-    "__comp": "17896441",
-    "content": "37c12e90"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-004-4d0": {
-    "__comp": "17896441",
-    "content": "f640830e"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-005-145": {
-    "__comp": "17896441",
-    "content": "b47d9240"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-006-a5e": {
-    "__comp": "17896441",
-    "content": "be420da6"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-007-78d": {
-    "__comp": "17896441",
-    "content": "564369aa"
-  },
-  "/presentations/feed-filter-demo-2025-12-11/slide-008-6ca": {
-    "__comp": "17896441",
-    "content": "eb4556cf"
-  },
-  "/presentations/mining-hashpower-datum-outline-acb": {
+  "/presentations/mining-hashpower-datum-outline-7e1": {
     "__comp": "17896441",
     "content": "2c06b543"
   },
-  "/presentations/mining-like-the-big-players-2026-05-14/-c3c": {
-    "__comp": "17896441",
-    "content": "4ddfa48d"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-001-dd2": {
-    "__comp": "17896441",
-    "content": "6f9855a0"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-002-0b7": {
-    "__comp": "17896441",
-    "content": "7646c3ca"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-003-d79": {
-    "__comp": "17896441",
-    "content": "cec5c24a"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-004-fac": {
-    "__comp": "17896441",
-    "content": "9c77c2c7"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-005-62d": {
-    "__comp": "17896441",
-    "content": "436f9992"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-006-af4": {
-    "__comp": "17896441",
-    "content": "8ff3c6b5"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-007-3bb": {
-    "__comp": "17896441",
-    "content": "d952acc4"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-008-58f": {
-    "__comp": "17896441",
-    "content": "0c00e860"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-009-c53": {
-    "__comp": "17896441",
-    "content": "4294a492"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-010-698": {
-    "__comp": "17896441",
-    "content": "a3804734"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-011-e44": {
-    "__comp": "17896441",
-    "content": "7bdaf0b9"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-012-ade": {
-    "__comp": "17896441",
-    "content": "ddf6a29f"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-013-df8": {
-    "__comp": "17896441",
-    "content": "4baeb875"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-014-282": {
-    "__comp": "17896441",
-    "content": "99fa0708"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-015-e2c": {
-    "__comp": "17896441",
-    "content": "4f7e8a80"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-016-3f2": {
-    "__comp": "17896441",
-    "content": "4708c032"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-017-258": {
-    "__comp": "17896441",
-    "content": "30a6a7b1"
-  },
-  "/presentations/mining-like-the-big-players-2026-05-14/slide-018-6d9": {
-    "__comp": "17896441",
-    "content": "40c8ee30"
-  },
-  "/presentations/mining-like-the-big-players-outline-28e": {
+  "/presentations/mining-like-the-big-players-2026-05-14-ec2": {
     "__comp": "17896441",
     "content": "18f03244"
   },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/-55f": {
-    "__comp": "17896441",
-    "content": "bc081ce9"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-001-3c8": {
-    "__comp": "17896441",
-    "content": "6e169305"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-002-d90": {
-    "__comp": "17896441",
-    "content": "d12088e1"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-003-b8d": {
-    "__comp": "17896441",
-    "content": "aa491e78"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-004-404": {
-    "__comp": "17896441",
-    "content": "db90b75b"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-005-df8": {
-    "__comp": "17896441",
-    "content": "e342fbcb"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-006-ba5": {
-    "__comp": "17896441",
-    "content": "4876c1b6"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-007-e67": {
-    "__comp": "17896441",
-    "content": "b3890589"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-008-7d7": {
-    "__comp": "17896441",
-    "content": "d7fccb4a"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-009-007": {
-    "__comp": "17896441",
-    "content": "89ce1fac"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-010-7eb": {
-    "__comp": "17896441",
-    "content": "52a8e971"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-011-c0c": {
-    "__comp": "17896441",
-    "content": "ff068ebd"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-012-1ff": {
-    "__comp": "17896441",
-    "content": "cfd1183d"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-013-f50": {
-    "__comp": "17896441",
-    "content": "b379b90e"
-  },
-  "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-014-87f": {
-    "__comp": "17896441",
-    "content": "94cd23d4"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/-03b": {
-    "__comp": "17896441",
-    "content": "4121c8ca"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-001-5d4": {
-    "__comp": "17896441",
-    "content": "57a65c79"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-002-ddc": {
-    "__comp": "17896441",
-    "content": "66f19ff5"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-003-cdd": {
-    "__comp": "17896441",
-    "content": "1353c88a"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-004-de4": {
-    "__comp": "17896441",
-    "content": "b2c26bc7"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-005-09c": {
-    "__comp": "17896441",
-    "content": "1cf564ec"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-006-d64": {
-    "__comp": "17896441",
-    "content": "8c5a7de1"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-007-f12": {
-    "__comp": "17896441",
-    "content": "b81e0b77"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-008-706": {
-    "__comp": "17896441",
-    "content": "765e9d82"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-009-bf3": {
-    "__comp": "17896441",
-    "content": "b506ac66"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-010-7f5": {
-    "__comp": "17896441",
-    "content": "f9225031"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-011-8fd": {
-    "__comp": "17896441",
-    "content": "2964118d"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-012-db9": {
-    "__comp": "17896441",
-    "content": "c10de7a5"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-013-4b2": {
-    "__comp": "17896441",
-    "content": "121d4aca"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-014-3d1": {
-    "__comp": "17896441",
-    "content": "43ccb5d6"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-015-04e": {
-    "__comp": "17896441",
-    "content": "64a4ddc7"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-016-01b": {
-    "__comp": "17896441",
-    "content": "5c3679e7"
-  },
-  "/presentations/node-builder-workshop-2025-11-13/slide-017-9f5": {
-    "__comp": "17896441",
-    "content": "c07d4df3"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/-15c": {
-    "__comp": "17896441",
-    "content": "4fe628b0"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001-c11": {
-    "__comp": "17896441",
-    "content": "afc08fff"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002-01f": {
-    "__comp": "17896441",
-    "content": "68f04a08"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003-eee": {
-    "__comp": "17896441",
-    "content": "3603b487"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004-3f2": {
-    "__comp": "17896441",
-    "content": "d8926754"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005-8b0": {
-    "__comp": "17896441",
-    "content": "57bf64d3"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006-1b5": {
-    "__comp": "17896441",
-    "content": "8eead01d"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007-6c0": {
-    "__comp": "17896441",
-    "content": "312aa252"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008-1ad": {
-    "__comp": "17896441",
-    "content": "6f879392"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009-2f3": {
-    "__comp": "17896441",
-    "content": "8ba00763"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010-912": {
-    "__comp": "17896441",
-    "content": "52326736"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011-4b8": {
-    "__comp": "17896441",
-    "content": "f4c9da6c"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012-300": {
-    "__comp": "17896441",
-    "content": "8f68b24b"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013-3b5": {
-    "__comp": "17896441",
-    "content": "c4dbeaa9"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014-b1f": {
-    "__comp": "17896441",
-    "content": "da15eb42"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015-333": {
-    "__comp": "17896441",
-    "content": "1da644c8"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016-189": {
-    "__comp": "17896441",
-    "content": "fb668a95"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017-c5a": {
-    "__comp": "17896441",
-    "content": "f964fa98"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018-629": {
-    "__comp": "17896441",
-    "content": "3f3441ec"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019-2ae": {
-    "__comp": "17896441",
-    "content": "cf0086f7"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020-457": {
-    "__comp": "17896441",
-    "content": "fe6b0feb"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021-a2a": {
-    "__comp": "17896441",
-    "content": "da48988a"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022-526": {
-    "__comp": "17896441",
-    "content": "33f3989a"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023-9e5": {
-    "__comp": "17896441",
-    "content": "49896a79"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024-89e": {
-    "__comp": "17896441",
-    "content": "d185bdba"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025-ac5": {
-    "__comp": "17896441",
-    "content": "3c33edf1"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026-1b3": {
-    "__comp": "17896441",
-    "content": "c42a9bde"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027-2f2": {
-    "__comp": "17896441",
-    "content": "4caef508"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028-f16": {
-    "__comp": "17896441",
-    "content": "550869f9"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029-470": {
-    "__comp": "17896441",
-    "content": "c055604e"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030-894": {
-    "__comp": "17896441",
-    "content": "591e65d0"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031-b72": {
-    "__comp": "17896441",
-    "content": "574c0a35"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032-78a": {
-    "__comp": "17896441",
-    "content": "14d44866"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033-904": {
-    "__comp": "17896441",
-    "content": "493321fd"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034-a9e": {
-    "__comp": "17896441",
-    "content": "5b84a30e"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035-afc": {
-    "__comp": "17896441",
-    "content": "ad37ae91"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036-2fa": {
-    "__comp": "17896441",
-    "content": "098207a5"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037-4a2": {
-    "__comp": "17896441",
-    "content": "f8720f92"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038-7eb": {
-    "__comp": "17896441",
-    "content": "b555e260"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039-31a": {
-    "__comp": "17896441",
-    "content": "dfed520d"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040-96b": {
-    "__comp": "17896441",
-    "content": "1d965415"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041-513": {
-    "__comp": "17896441",
-    "content": "e8e22c45"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042-a79": {
-    "__comp": "17896441",
-    "content": "2582f0a7"
-  },
-  "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043-2dc": {
-    "__comp": "17896441",
-    "content": "babc0053"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/-f4d": {
-    "__comp": "17896441",
-    "content": "0971cc47"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001-1a6": {
-    "__comp": "17896441",
-    "content": "3be66305"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002-277": {
-    "__comp": "17896441",
-    "content": "fd1a40b6"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003-bd0": {
-    "__comp": "17896441",
-    "content": "ad96706c"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004-36a": {
-    "__comp": "17896441",
-    "content": "5debb4f5"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005-d9c": {
-    "__comp": "17896441",
-    "content": "ead9a6ef"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006-302": {
-    "__comp": "17896441",
-    "content": "e4716457"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007-5c6": {
-    "__comp": "17896441",
-    "content": "c33aba03"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008-bad": {
-    "__comp": "17896441",
-    "content": "bd53c2f8"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009-64e": {
-    "__comp": "17896441",
-    "content": "3750c78b"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010-fbe": {
-    "__comp": "17896441",
-    "content": "98ab959c"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011-337": {
-    "__comp": "17896441",
-    "content": "4bdb2a2a"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012-8ac": {
-    "__comp": "17896441",
-    "content": "88a5bbd1"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013-4f2": {
-    "__comp": "17896441",
-    "content": "205e2c2d"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014-a66": {
-    "__comp": "17896441",
-    "content": "c6308691"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015-a7a": {
-    "__comp": "17896441",
-    "content": "2080ddab"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016-6da": {
-    "__comp": "17896441",
-    "content": "76b25ead"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017-8b0": {
-    "__comp": "17896441",
-    "content": "af06ffde"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018-32c": {
-    "__comp": "17896441",
-    "content": "d12b2d4e"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019-add": {
-    "__comp": "17896441",
-    "content": "6d159ab4"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020-eec": {
-    "__comp": "17896441",
-    "content": "bae1c835"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021-232": {
-    "__comp": "17896441",
-    "content": "e702b8ef"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022-e96": {
-    "__comp": "17896441",
-    "content": "39aa18c0"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023-f0a": {
-    "__comp": "17896441",
-    "content": "0da1ec58"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024-5f9": {
-    "__comp": "17896441",
-    "content": "7dd0ba33"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025-bdc": {
-    "__comp": "17896441",
-    "content": "a0382cad"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026-9aa": {
-    "__comp": "17896441",
-    "content": "69e6b333"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027-a71": {
-    "__comp": "17896441",
-    "content": "b4982938"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028-99c": {
-    "__comp": "17896441",
-    "content": "1c8c4ded"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029-310": {
-    "__comp": "17896441",
-    "content": "a48b6447"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030-658": {
-    "__comp": "17896441",
-    "content": "e82f63db"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031-2b8": {
-    "__comp": "17896441",
-    "content": "faba4762"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032-a14": {
-    "__comp": "17896441",
-    "content": "e21933da"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033-078": {
-    "__comp": "17896441",
-    "content": "538df571"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034-ed2": {
-    "__comp": "17896441",
-    "content": "e3e7b480"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035-008": {
-    "__comp": "17896441",
-    "content": "0a869ac1"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036-21f": {
-    "__comp": "17896441",
-    "content": "babb8fa2"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037-ca9": {
-    "__comp": "17896441",
-    "content": "c02439e6"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038-bb1": {
-    "__comp": "17896441",
-    "content": "58be053a"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039-135": {
-    "__comp": "17896441",
-    "content": "c7282dd8"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040-65b": {
-    "__comp": "17896441",
-    "content": "607e3c44"
-  },
-  "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041-0e5": {
-    "__comp": "17896441",
-    "content": "274bebc0"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/-0a1": {
-    "__comp": "17896441",
-    "content": "8adfdbaa"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-001-138": {
-    "__comp": "17896441",
-    "content": "6f90c38c"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-002-f46": {
-    "__comp": "17896441",
-    "content": "acb404a9"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-003-415": {
-    "__comp": "17896441",
-    "content": "6bbdee7a"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-004-89a": {
-    "__comp": "17896441",
-    "content": "ff21527f"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-005-e19": {
-    "__comp": "17896441",
-    "content": "5a691d52"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-006-b9f": {
-    "__comp": "17896441",
-    "content": "1636c723"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-007-059": {
-    "__comp": "17896441",
-    "content": "78e67b38"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-008-1ee": {
-    "__comp": "17896441",
-    "content": "999b4185"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-009-80e": {
-    "__comp": "17896441",
-    "content": "ecdeef9d"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-010-011": {
-    "__comp": "17896441",
-    "content": "3c057301"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-011-632": {
-    "__comp": "17896441",
-    "content": "f2f5df29"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-012-b75": {
-    "__comp": "17896441",
-    "content": "8a793868"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-013-2cb": {
-    "__comp": "17896441",
-    "content": "d77e73ea"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-014-f36": {
-    "__comp": "17896441",
-    "content": "618505bf"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-015-e2e": {
-    "__comp": "17896441",
-    "content": "581667cb"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-016-694": {
-    "__comp": "17896441",
-    "content": "0b01d7e5"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-017-5fb": {
-    "__comp": "17896441",
-    "content": "40bd90de"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-018-52a": {
-    "__comp": "17896441",
-    "content": "77ba19ef"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-019-c23": {
-    "__comp": "17896441",
-    "content": "7c0dbd81"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-020-cbf": {
-    "__comp": "17896441",
-    "content": "61642bb9"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-021-5e0": {
-    "__comp": "17896441",
-    "content": "11f6f9fa"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-022-e9e": {
-    "__comp": "17896441",
-    "content": "71f1cc86"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-023-965": {
-    "__comp": "17896441",
-    "content": "394d9422"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-024-4da": {
-    "__comp": "17896441",
-    "content": "bf60cd87"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-025-74b": {
-    "__comp": "17896441",
-    "content": "a2cac795"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-026-dbe": {
-    "__comp": "17896441",
-    "content": "b39e8822"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-027-731": {
-    "__comp": "17896441",
-    "content": "6d0eecad"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-028-da5": {
-    "__comp": "17896441",
-    "content": "8d3d99f5"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-029-5f0": {
-    "__comp": "17896441",
-    "content": "3970150e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-030-f3c": {
-    "__comp": "17896441",
-    "content": "4ff45378"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-031-666": {
-    "__comp": "17896441",
-    "content": "96dbda8a"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-032-fb6": {
-    "__comp": "17896441",
-    "content": "7bb82fc0"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-033-a0d": {
-    "__comp": "17896441",
-    "content": "8ce221a8"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-034-212": {
-    "__comp": "17896441",
-    "content": "53e7bc9c"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-035-3aa": {
-    "__comp": "17896441",
-    "content": "d5d0c01a"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-036-872": {
-    "__comp": "17896441",
-    "content": "3a4cdc6c"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-037-db3": {
-    "__comp": "17896441",
-    "content": "09246d78"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-038-25e": {
-    "__comp": "17896441",
-    "content": "bf30757e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-039-b13": {
-    "__comp": "17896441",
-    "content": "f8a208f1"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-040-c45": {
-    "__comp": "17896441",
-    "content": "26e655ce"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-041-f62": {
-    "__comp": "17896441",
-    "content": "1c445a4e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-042-263": {
-    "__comp": "17896441",
-    "content": "1eb02e98"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-043-543": {
-    "__comp": "17896441",
-    "content": "c3d4e83e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-044-518": {
-    "__comp": "17896441",
-    "content": "4ba9efdd"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-045-244": {
-    "__comp": "17896441",
-    "content": "181e3d90"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-046-5d9": {
-    "__comp": "17896441",
-    "content": "01faca6e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-047-256": {
-    "__comp": "17896441",
-    "content": "db961080"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-048-3e3": {
-    "__comp": "17896441",
-    "content": "d026a305"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-049-ab6": {
-    "__comp": "17896441",
-    "content": "f9b7eda4"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-050-6f3": {
-    "__comp": "17896441",
-    "content": "9ad4f590"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-051-287": {
-    "__comp": "17896441",
-    "content": "a818c8dc"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-052-62b": {
-    "__comp": "17896441",
-    "content": "9c1218e3"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-053-39c": {
-    "__comp": "17896441",
-    "content": "db509ff5"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-054-72d": {
-    "__comp": "17896441",
-    "content": "29df22a1"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-055-e73": {
-    "__comp": "17896441",
-    "content": "f1dfecde"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-056-507": {
-    "__comp": "17896441",
-    "content": "77942904"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-057-3d2": {
-    "__comp": "17896441",
-    "content": "e834efbf"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-058-ae5": {
-    "__comp": "17896441",
-    "content": "2ad720f6"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-059-6f5": {
-    "__comp": "17896441",
-    "content": "32508559"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-060-8b3": {
-    "__comp": "17896441",
-    "content": "6badea9e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-061-1e5": {
-    "__comp": "17896441",
-    "content": "8f9ff54f"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-062-312": {
-    "__comp": "17896441",
-    "content": "796033c9"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-063-4fd": {
-    "__comp": "17896441",
-    "content": "d05d85e4"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-064-eb5": {
-    "__comp": "17896441",
-    "content": "1f4c57ce"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-065-849": {
-    "__comp": "17896441",
-    "content": "491de8b7"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-066-80b": {
-    "__comp": "17896441",
-    "content": "cc1d159e"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-067-53c": {
-    "__comp": "17896441",
-    "content": "3a76d44f"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-068-776": {
-    "__comp": "17896441",
-    "content": "9cf556eb"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-069-9dc": {
-    "__comp": "17896441",
-    "content": "f1a6db2b"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-070-7a4": {
-    "__comp": "17896441",
-    "content": "bf563cc5"
-  },
-  "/presentations/understand-how-bitcoin-works-2026-01-08/slide-071-dc2": {
-    "__comp": "17896441",
-    "content": "adbdbf36"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/-095": {
-    "__comp": "17896441",
-    "content": "2172a0cd"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-001-555": {
-    "__comp": "17896441",
-    "content": "7fb11e79"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-002-dea": {
-    "__comp": "17896441",
-    "content": "840f9789"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-003-3b3": {
-    "__comp": "17896441",
-    "content": "03cd5454"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-004-b7a": {
-    "__comp": "17896441",
-    "content": "01c4ab77"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-005-0df": {
-    "__comp": "17896441",
-    "content": "c82b51cd"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-006-740": {
-    "__comp": "17896441",
-    "content": "8ebf7967"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-007-cb7": {
-    "__comp": "17896441",
-    "content": "c921dd40"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-008-b36": {
-    "__comp": "17896441",
-    "content": "3fd779d8"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-009-cea": {
-    "__comp": "17896441",
-    "content": "bdb42e0b"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-010-e10": {
-    "__comp": "17896441",
-    "content": "cff18264"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-011-246": {
-    "__comp": "17896441",
-    "content": "1c63284b"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-012-1a9": {
-    "__comp": "17896441",
-    "content": "0ca821e0"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-013-26c": {
-    "__comp": "17896441",
-    "content": "7c3c6d1b"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-014-c4e": {
-    "__comp": "17896441",
-    "content": "e1d27aed"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-015-b92": {
-    "__comp": "17896441",
-    "content": "a4f8359f"
-  },
-  "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-016-92f": {
-    "__comp": "17896441",
-    "content": "62b91016"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/-b73": {
-    "__comp": "17896441",
-    "content": "7a6e85d9"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-001-4dd": {
-    "__comp": "17896441",
-    "content": "7376ffa1"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-002-a1b": {
-    "__comp": "17896441",
-    "content": "dbc3d6ee"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-003-a7f": {
-    "__comp": "17896441",
-    "content": "97eba72f"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-004-ebc": {
-    "__comp": "17896441",
-    "content": "7df7967a"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-005-4cc": {
-    "__comp": "17896441",
-    "content": "3c010f66"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-006-bb9": {
-    "__comp": "17896441",
-    "content": "55296208"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-007-39a": {
-    "__comp": "17896441",
-    "content": "bcb43f53"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-008-3d1": {
-    "__comp": "17896441",
-    "content": "b24291cd"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-009-22f": {
-    "__comp": "17896441",
-    "content": "02bccb62"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-010-201": {
-    "__comp": "17896441",
-    "content": "0025b890"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-011-6a5": {
-    "__comp": "17896441",
-    "content": "006c5045"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-012-495": {
-    "__comp": "17896441",
-    "content": "e5aa2172"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-013-69a": {
-    "__comp": "17896441",
-    "content": "3f3a856c"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-014-fec": {
-    "__comp": "17896441",
-    "content": "d1b949db"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-015-dcf": {
-    "__comp": "17896441",
-    "content": "46f38a30"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-016-317": {
-    "__comp": "17896441",
-    "content": "c2c93729"
-  },
-  "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-017-ab0": {
-    "__comp": "17896441",
-    "content": "64378cfb"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/-e60": {
-    "__comp": "17896441",
-    "content": "b7d5a0d0"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-001-cf6": {
-    "__comp": "17896441",
-    "content": "f8ed1c2c"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-002-c45": {
-    "__comp": "17896441",
-    "content": "7b438939"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-003-f71": {
-    "__comp": "17896441",
-    "content": "9a638e3c"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-004-00e": {
-    "__comp": "17896441",
-    "content": "18a588bb"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-005-4af": {
-    "__comp": "17896441",
-    "content": "f78f3b75"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-006-be3": {
-    "__comp": "17896441",
-    "content": "e0e991cf"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-007-420": {
-    "__comp": "17896441",
-    "content": "904878e6"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-008-9cf": {
-    "__comp": "17896441",
-    "content": "5bdd4f50"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-009-096": {
-    "__comp": "17896441",
-    "content": "3a8c49bc"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-010-593": {
-    "__comp": "17896441",
-    "content": "64ad1a00"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-011-59f": {
-    "__comp": "17896441",
-    "content": "ec178bc7"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-012-88d": {
-    "__comp": "17896441",
-    "content": "1bb83a38"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-013-517": {
-    "__comp": "17896441",
-    "content": "48b3df3b"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-014-439": {
-    "__comp": "17896441",
-    "content": "55a30a90"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-015-875": {
-    "__comp": "17896441",
-    "content": "bde8cb2f"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-016-639": {
-    "__comp": "17896441",
-    "content": "99a927c0"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-017-e91": {
-    "__comp": "17896441",
-    "content": "4a789591"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-018-d28": {
-    "__comp": "17896441",
-    "content": "987d9c4b"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-019-ef4": {
-    "__comp": "17896441",
-    "content": "6838918d"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-020-c8d": {
-    "__comp": "17896441",
-    "content": "01b89d71"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-021-dcb": {
-    "__comp": "17896441",
-    "content": "4aa13e21"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-022-663": {
-    "__comp": "17896441",
-    "content": "9d51e253"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-023-b41": {
-    "__comp": "17896441",
-    "content": "8b7e53d4"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-024-dbb": {
-    "__comp": "17896441",
-    "content": "4553a536"
-  },
-  "/presentations/why-lightning-plus-ai-2024-08-13/slide-025-0f5": {
-    "__comp": "17896441",
-    "content": "61bb55db"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/-df8": {
-    "__comp": "17896441",
-    "content": "79d6361d"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001-dd0": {
-    "__comp": "17896441",
-    "content": "897e8cda"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002-22f": {
-    "__comp": "17896441",
-    "content": "efc85490"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003-d43": {
-    "__comp": "17896441",
-    "content": "ae2ab129"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004-ab0": {
-    "__comp": "17896441",
-    "content": "309f7e6f"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005-352": {
-    "__comp": "17896441",
-    "content": "745fda56"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006-6a3": {
-    "__comp": "17896441",
-    "content": "7b96ba29"
-  },
-  "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007-293": {
-    "__comp": "17896441",
-    "content": "f723ef1a"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/-0a2": {
-    "__comp": "17896441",
-    "content": "b9f0dae8"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-001-42f": {
-    "__comp": "17896441",
-    "content": "5bb51279"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-002-b6a": {
-    "__comp": "17896441",
-    "content": "98ee8952"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-003-3e6": {
-    "__comp": "17896441",
-    "content": "3c45633b"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-004-ebc": {
-    "__comp": "17896441",
-    "content": "c0c17846"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-005-1e7": {
-    "__comp": "17896441",
-    "content": "2cddeba7"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-006-ad0": {
-    "__comp": "17896441",
-    "content": "637596db"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-007-4cc": {
-    "__comp": "17896441",
-    "content": "745cf316"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-008-2a0": {
-    "__comp": "17896441",
-    "content": "3290bc45"
-  },
-  "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-009-c41": {
-    "__comp": "17896441",
-    "content": "da17644f"
-  },
-  "/presentations/zero-dollar-manifesto-outline-4a5": {
+  "/presentations/zero-dollar-manifesto-sahil-2024-06-22-b40": {
     "__comp": "17896441",
     "content": "e35f1c6b"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/-8e9": {
-    "__comp": "17896441",
-    "content": "3dc67b1d"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-001-5b7": {
-    "__comp": "17896441",
-    "content": "6278a1d6"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-002-4b1": {
-    "__comp": "17896441",
-    "content": "de455f27"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-003-1ba": {
-    "__comp": "17896441",
-    "content": "69bda3e1"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-004-33a": {
-    "__comp": "17896441",
-    "content": "82b5b150"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-005-63d": {
-    "__comp": "17896441",
-    "content": "85260189"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-006-0be": {
-    "__comp": "17896441",
-    "content": "293de541"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-007-cad": {
-    "__comp": "17896441",
-    "content": "f25d4d17"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-008-088": {
-    "__comp": "17896441",
-    "content": "a7c78ef1"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-009-aaa": {
-    "__comp": "17896441",
-    "content": "06cf7ea8"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-010-3a3": {
-    "__comp": "17896441",
-    "content": "41945a03"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-011-127": {
-    "__comp": "17896441",
-    "content": "a444558d"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-012-1bf": {
-    "__comp": "17896441",
-    "content": "9dbe74a0"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-013-b53": {
-    "__comp": "17896441",
-    "content": "4533e9e9"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-014-ea1": {
-    "__comp": "17896441",
-    "content": "4a91c768"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-015-35b": {
-    "__comp": "17896441",
-    "content": "c9511479"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-016-24b": {
-    "__comp": "17896441",
-    "content": "50254f66"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-017-fff": {
-    "__comp": "17896441",
-    "content": "1f6e8810"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-018-904": {
-    "__comp": "17896441",
-    "content": "6dd5deee"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-019-85e": {
-    "__comp": "17896441",
-    "content": "f030b0e2"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-020-ff1": {
-    "__comp": "17896441",
-    "content": "bf09e599"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-021-97b": {
-    "__comp": "17896441",
-    "content": "445f0faa"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-022-495": {
-    "__comp": "17896441",
-    "content": "287ffca1"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-023-3c6": {
-    "__comp": "17896441",
-    "content": "ce7b3f83"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-024-d5a": {
-    "__comp": "17896441",
-    "content": "0557a75e"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-025-e10": {
-    "__comp": "17896441",
-    "content": "2e424ad2"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-026-cd5": {
-    "__comp": "17896441",
-    "content": "65d024b0"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-027-839": {
-    "__comp": "17896441",
-    "content": "0e4f485e"
-  },
-  "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-028-e1c": {
-    "__comp": "17896441",
-    "content": "8474d458"
   },
   "/queries/-d6e": {
     "__comp": "17896441",
@@ -3241,10 +1293,6 @@
   "/queries/which-custody-model-fits-my-threat-model-601": {
     "__comp": "17896441",
     "content": "f825ee8f"
-  },
-  "/summaries/-103": {
-    "__comp": "17896441",
-    "content": "ae99aedf"
   },
   "/summaries/getonzero-synthesis-32c": {
     "__comp": "17896441",

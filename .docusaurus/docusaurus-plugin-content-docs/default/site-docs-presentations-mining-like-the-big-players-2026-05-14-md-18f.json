@@ -1,11 +1,11 @@
 {
   "id": "presentations/mining-like-the-big-players-2026-05-14",
   "title": "Mining Like The Big Players",
-  "description": "Date: May 14, 2026  )",
+  "description": "Date: May 14, 2026",
   "source": "@site/docs/presentations/mining-like-the-big-players-2026-05-14.md",
   "sourceDirName": "presentations",
-  "slug": "/presentations/mining-like-the-big-players-outline",
-  "permalink": "/presentations/mining-like-the-big-players-outline",
+  "slug": "/presentations/mining-like-the-big-players-2026-05-14",
+  "permalink": "/presentations/mining-like-the-big-players-2026-05-14",
   "draft": false,
   "unlisted": false,
   "tags": [
@@ -44,7 +44,8 @@
   "frontMatter": {
     "title": "Mining Like The Big Players",
     "date": "2026-05-14T00:00:00.000Z",
-    "presenter": "RRBTC",
+    "type": "presentation",
+    "source_url": "https://speakerdeck.com/rrbtc/mining-like-the-big-players-14-may-2026",
     "tags": [
       "mining",
       "hashrate-marketplace",
@@ -52,7 +53,15 @@
       "datum",
       "stratum-v2",
       "automation"
-    ],
-    "slug": "/presentations/mining-like-the-big-players-outline"
+    ]
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Mining with Rented Hashrate: Braiins Hashpower + DATUM",
+    "permalink": "/presentations/mining-hashpower-datum-outline"
+  },
+  "next": {
+    "title": "Zero Dollar Manifesto",
+    "permalink": "/presentations/zero-dollar-manifesto-sahil-2024-06-22"
   }
 }

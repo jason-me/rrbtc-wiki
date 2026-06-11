@@ -44,11 +44,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "HWI",
-    "permalink": "/entities/hwi"
+    "title": "IBEXPay",
+    "permalink": "/entities/ibexpay"
   },
   "next": {
-    "title": "Kaboom Racks",
+    "title": "KaboomRacks",
     "permalink": "/entities/kaboom-racks"
   }
 }

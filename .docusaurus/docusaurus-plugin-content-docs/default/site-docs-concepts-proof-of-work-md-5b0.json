@@ -1,7 +1,7 @@
 {
   "id": "concepts/proof-of-work",
   "title": "Proof of Work & Bitcoin Supply",
-  "description": "Fundamentals of Nakamoto consensus, difficulty adjustment, hash rate measurement, energy economics, and the security model underlying Bitcoin's immutability.",
+  "description": "Bitcoin uses Proof of Work (PoW) as its consensus mechanism. Miners compete to find a hash below a network-adjusted target, expending real-world energy to secure the ledger and issue new bitcoin.",
   "source": "@site/docs/concepts/proof-of-work.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/proof-of-work",
@@ -43,7 +43,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Proof of Work & Bitcoin Supply",
-    "description": "Fundamentals of Nakamoto consensus, difficulty adjustment, hash rate measurement, energy economics, and the security model underlying Bitcoin's immutability.",
     "created": "2026-06-02T00:00:00.000Z",
     "updated": "2026-06-02T00:00:00.000Z",
     "type": "concept",

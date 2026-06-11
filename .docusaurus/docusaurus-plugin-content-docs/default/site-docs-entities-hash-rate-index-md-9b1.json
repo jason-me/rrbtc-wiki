@@ -53,5 +53,14 @@
     ],
     "confidence": "high",
     "contested": false
+  },
+  "sidebar": "wikiSidebar",
+  "previous": {
+    "title": "Fold",
+    "permalink": "/entities/fold"
+  },
+  "next": {
+    "title": "HashGuard",
+    "permalink": "/entities/hashguard"
   }
 }

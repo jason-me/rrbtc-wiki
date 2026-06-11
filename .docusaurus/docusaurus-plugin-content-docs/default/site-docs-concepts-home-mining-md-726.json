@@ -1,7 +1,7 @@
 {
   "id": "concepts/home-mining",
   "title": "Home Mining",
-  "description": "Practical guide to solo and pooled mining at home using consumer hardware, hash marketplaces, and Stratum V2 / DATUM template control.",
+  "description": "The practice of mining Bitcoin from a residence or small office using low-to-medium power hardware. Contrasts with industrial-scale mining in dedicated facilities. Home mining has seen a resurgence with the rise of efficient, quiet, open-source ASICs and hashrate marketplaces that let participants rent industrial-scale hash without owning hardware.",
   "source": "@site/docs/concepts/home-mining.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/home-mining",
@@ -38,7 +38,6 @@
   "version": "current",
   "frontMatter": {
     "title": "Home Mining",
-    "description": "Practical guide to solo and pooled mining at home using consumer hardware, hash marketplaces, and Stratum V2 / DATUM template control.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",
