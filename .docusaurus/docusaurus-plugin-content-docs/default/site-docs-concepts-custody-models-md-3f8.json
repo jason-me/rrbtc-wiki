@@ -1,7 +1,7 @@
 {
   "id": "concepts/custody-models",
   "title": "Custody Models",
-  "description": "The spectrum of bitcoin custody ranges from full self-custody to fully custodial exchange wallets. The right model depends on technical ability, threat model, and need for inheritance or recovery.",
+  "description": "Comparison of self-custody, multisig, collaborative custody, and custodial solutions with threat-model guidance for choosing the right approach.",
   "source": "@site/docs/concepts/custody-models.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/custody-models",
@@ -33,6 +33,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Custody Models",
+    "description": "Comparison of self-custody, multisig, collaborative custody, and custodial solutions with threat-model guidance for choosing the right approach.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",

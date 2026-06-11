@@ -54,14 +54,5 @@
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "Blockstream Green",
-    "permalink": "/entities/blockstream-green"
-  },
-  "next": {
-    "title": "Bolt Card",
-    "permalink": "/entities/bolt-card"
   }
 }

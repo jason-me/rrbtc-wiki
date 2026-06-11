@@ -50,11 +50,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Feed Filter",
-    "permalink": "/entities/feed-filter"
+    "title": "Electrum",
+    "permalink": "/entities/electrum"
   },
   "next": {
-    "title": "HashRate Index",
-    "permalink": "/entities/hash-rate-index"
+    "title": "HashGuard",
+    "permalink": "/entities/hashguard"
   }
 }

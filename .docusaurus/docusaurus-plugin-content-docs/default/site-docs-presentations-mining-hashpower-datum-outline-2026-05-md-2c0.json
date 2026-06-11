@@ -1,7 +1,7 @@
 {
   "id": "presentations/mining-hashpower-datum-outline",
-  "title": "Mining with Rented Hashrate: Braiins Hashpower + DATUM",
-  "description": "Pared-down outline for ~45 min: 20 min content + 25 min demos & Q&A.",
+  "title": "mining-hashpower-datum-outline",
+  "description": "Note: This presentation also has interactive slide-by-slide pages with key takeaways and SpeakerDeck links where available.",
   "source": "@site/docs/presentations/mining-hashpower-datum-outline-2026-05.md",
   "sourceDirName": "presentations",
   "slug": "/presentations/mining-hashpower-datum-outline",
@@ -56,14 +56,5 @@
     "date": "2026-05-XX",
     "status": "draft",
     "last_updated": "2026-05-10T00:00:00.000Z"
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "Presentations",
-    "permalink": "/presentations/"
-  },
-  "next": {
-    "title": "Mining Like The Big Players",
-    "permalink": "/presentations/mining-like-the-big-players-2026-05-14"
   }
 }

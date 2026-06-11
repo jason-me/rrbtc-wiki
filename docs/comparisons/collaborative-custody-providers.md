@@ -1,5 +1,6 @@
 ---
 title: Collaborative Custody Providers
+description: "Side-by-side evaluation of Casa, Unchained, Nunchuk, and other collaborative custody providers covering multisig quorums, key management, recovery flows, and fees."
 created: 2026-06-04
 updated: 2026-06-04
 type: comparison

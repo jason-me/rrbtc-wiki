@@ -47,14 +47,5 @@
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "SeedSigner",
-    "permalink": "/entities/seedsigner"
-  },
-  "next": {
-    "title": "Simple Proof",
-    "permalink": "/entities/simple-proof"
   }
 }

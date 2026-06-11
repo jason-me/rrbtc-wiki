@@ -1,7 +1,7 @@
 {
   "id": "queries/how-do-i-start-mining-at-home",
   "title": "How Do I Start Mining at Home?",
-  "description": "Home mining has three entry points: low-power hardware (Bitaxe), professional ASICs at home (S19, S21), or rented industrial hashrate you control via template protocols (DATUM/Stratum V2). This page maps all three paths from first purchase to first accepted share.",
+  "description": "Step-by-step guide to solo and pooled home mining: hardware selection, Stratum V2/DATUM template control, hash marketplace on-ramps, and operational security.",
   "source": "@site/docs/queries/how-do-i-start-mining-at-home.md",
   "sourceDirName": "queries",
   "slug": "/queries/how-do-i-start-mining-at-home",
@@ -48,6 +48,7 @@
   "version": "current",
   "frontMatter": {
     "title": "How Do I Start Mining at Home?",
+    "description": "Step-by-step guide to solo and pooled home mining: hardware selection, Stratum V2/DATUM template control, hash marketplace on-ramps, and operational security.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-04T00:00:00.000Z",
     "type": "query",
@@ -77,11 +78,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Queries",
+    "title": "Queries Overview",
     "permalink": "/queries/"
   },
   "next": {
-    "title": "What Privacy Stack Should I Use for Mobile?",
+    "title": "What privacy stack should I use for mobile?",
     "permalink": "/queries/what-privacy-stack-should-i-use-for-mobile"
   }
 }

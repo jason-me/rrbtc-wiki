@@ -46,14 +46,5 @@
       "raw/rr-bitcoiners-18-plebdevs-2024-07-29.md"
     ],
     "confidence": "high"
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "PlebLab",
-    "permalink": "/entities/pleblab"
-  },
-  "next": {
-    "title": "public-pool.io",
-    "permalink": "/entities/public-pool"
   }
 }

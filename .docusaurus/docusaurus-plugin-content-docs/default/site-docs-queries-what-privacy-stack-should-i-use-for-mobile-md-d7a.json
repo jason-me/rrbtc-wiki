@@ -1,7 +1,7 @@
 {
   "id": "queries/what-privacy-stack-should-i-use-for-mobile",
   "title": "What Privacy Stack Should I Use for Mobile?",
-  "description": "Mobile devices are the weakest link in most bitcoiners' privacy stacks. They broadcast location, run closed-source basebands, and constantly phone home to Apple or Google. This page maps a practical mobile privacy stack from OS to wallet.",
+  "description": "Matched privacy stack recommendations for iOS and Android based on threat model — from casual user to high-risk scenarios, covering wallets, networking, and communication.",
   "source": "@site/docs/queries/what-privacy-stack-should-i-use-for-mobile.md",
   "sourceDirName": "queries",
   "slug": "/queries/what-privacy-stack-should-i-use-for-mobile",
@@ -48,6 +48,7 @@
   "version": "current",
   "frontMatter": {
     "title": "What Privacy Stack Should I Use for Mobile?",
+    "description": "Matched privacy stack recommendations for iOS and Android based on threat model — from casual user to high-risk scenarios, covering wallets, networking, and communication.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "query",
@@ -72,11 +73,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "How Do I Start Mining at Home?",
+    "title": "How do I start mining at home?",
     "permalink": "/queries/how-do-i-start-mining-at-home"
   },
   "next": {
-    "title": "Which Custody Model Fits My Threat Model?",
+    "title": "Which custody model fits my threat model?",
     "permalink": "/queries/which-custody-model-fits-my-threat-model"
   }
 }

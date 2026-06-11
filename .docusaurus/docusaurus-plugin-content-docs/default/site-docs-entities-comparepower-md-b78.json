@@ -53,14 +53,5 @@
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "ColdCard",
-    "permalink": "/entities/coldcard"
-  },
-  "next": {
-    "title": "DATUM",
-    "permalink": "/entities/datum"
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Peer-to-Peer Exchange
+description: "Comparison of peer-to-peer Bitcoin exchanges: Bisq, RoboSats, HodlHodl, LocalBitcoins (deprecated), and emerging decentralized order books."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

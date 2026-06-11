@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Data Carving (Ordinals, Inscriptions, BRC-20, Runes)
+description: "Analysis of ordinal inscriptions, rare sats, and NFT protocols on Bitcoin, with examination of their impact on block space, fees, and network philosophy."
 created: 2026-06-04
 updated: 2026-06-04
 type: concept

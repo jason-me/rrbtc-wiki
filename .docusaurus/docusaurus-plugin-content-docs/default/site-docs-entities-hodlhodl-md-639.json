@@ -54,11 +54,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Hodl Up",
-    "permalink": "/entities/hodl-up"
+    "title": "Hashrate Autopilot",
+    "permalink": "/entities/hashrate-autopilot"
   },
   "next": {
-    "title": "HWI (Hardware Wallet Interface)",
+    "title": "HWI",
     "permalink": "/entities/hwi"
   }
 }

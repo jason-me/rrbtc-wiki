@@ -1,5 +1,6 @@
 ---
 title: Accessibility in Bitcoin
+description: "Guidance on designing and evaluating Bitcoin wallets, apps, and workflows for universal usability across visual, cognitive, auditory, motor, and temporary impairments."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

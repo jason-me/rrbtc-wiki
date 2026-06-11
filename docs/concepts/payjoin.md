@@ -1,5 +1,6 @@
 ---
 title: PayJoin
+description: "Explanation of PayJoin (BIP-78) interactive transactions for improved on-chain privacy, wallet support, and coordination with receiver collaboration."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

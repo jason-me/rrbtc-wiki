@@ -1,7 +1,7 @@
 {
   "id": "concepts/no-kyc-acquisition",
   "title": "No-KYC Acquisition Methods",
-  "description": "Acquiring bitcoin without identity verification preserves financial privacy, reduces third-party trust, and protects against data breaches. These methods range from low-effort (vouchers) to high-effort (mining), with varying privacy guarantees.",
+  "description": "Methods for acquiring Bitcoin without identity verification including Bisq, RoboSats, HodlHodl, Azteco vouchers, Bitcoin ATMs, and in-person trades.",
   "source": "@site/docs/concepts/no-kyc-acquisition.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/no-kyc-acquisition",
@@ -48,6 +48,7 @@
   "version": "current",
   "frontMatter": {
     "title": "No-KYC Acquisition Methods",
+    "description": "Methods for acquiring Bitcoin without identity verification including Bisq, RoboSats, HodlHodl, Azteco vouchers, Bitcoin ATMs, and in-person trades.",
     "created": "2026-06-02T00:00:00.000Z",
     "updated": "2026-06-02T00:00:00.000Z",
     "type": "concept",

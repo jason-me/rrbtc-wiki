@@ -1,5 +1,6 @@
 ---
 title: Privacy Stacks — CoinJoin and No-KYC Acquisition
+description: "Modular on-chain, Lightning, and metadata privacy stack compositions — compares CoinJoin, Silent Payments, Tor, Nostr, and SSH isolation approaches for different threat models."
 created: 2026-06-03
 updated: 2026-06-03
 type: comparison

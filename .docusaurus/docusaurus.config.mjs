@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "jason-me",
   "projectName": "rrbtc-wiki",
-  "onBrokenLinks": "ignore",
+  "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -62,7 +62,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2026 Round Rock Bitcoiners.",
+      "copyright": "Round Rock Bitcoiners. Content released under the <a href=\"/license\">MIT License</a>.<br /><a href=\"https://github.com/jason-me/rrbtc-wiki\">Contribute on GitHub</a>",
       "links": []
     },
     "prism": {
@@ -340,7 +340,7 @@ export default {
       "maintainCase": false
     },
     "hooks": {
-      "onBrokenMarkdownLinks": "ignore",
+      "onBrokenMarkdownLinks": "warn",
       "onBrokenMarkdownImages": "throw"
     }
   }

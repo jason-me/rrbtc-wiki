@@ -1,7 +1,7 @@
 {
   "id": "concepts/privacy-stacks",
   "title": "Privacy Stacks",
-  "description": "Privacy in Bitcoin is not a single tool — it is a layered practice combining network hygiene, transaction obfuscation, and operational security (OPSEC). The goal is to selectively reveal data instead of broadcasting it by default.",
+  "description": "Modular compositions of tools for on-chain, Lightning, and metadata privacy — including CoinJoin, Silent Payments, Tor, and Nostr/SSH isolation.",
   "source": "@site/docs/concepts/privacy-stacks.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/privacy-stacks",
@@ -48,6 +48,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Privacy Stacks",
+    "description": "Modular compositions of tools for on-chain, Lightning, and metadata privacy — including CoinJoin, Silent Payments, Tor, and Nostr/SSH isolation.",
     "created": "2026-06-02T00:00:00.000Z",
     "updated": "2026-06-02T00:00:00.000Z",
     "type": "concept",
@@ -69,11 +70,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "PayJoin",
+    "title": "Payjoin",
     "permalink": "/concepts/payjoin"
   },
   "next": {
-    "title": "Proof of Work & Bitcoin Supply",
+    "title": "Proof of Work",
     "permalink": "/concepts/proof-of-work"
   }
 }

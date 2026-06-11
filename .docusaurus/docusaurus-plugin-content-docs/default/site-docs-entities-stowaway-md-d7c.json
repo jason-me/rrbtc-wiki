@@ -53,14 +53,5 @@
     ],
     "confidence": "high",
     "contested": true
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "Stonewall",
-    "permalink": "/entities/stonewall"
-  },
-  "next": {
-    "title": "Stratum V2",
-    "permalink": "/entities/stratum-v2"
   }
 }

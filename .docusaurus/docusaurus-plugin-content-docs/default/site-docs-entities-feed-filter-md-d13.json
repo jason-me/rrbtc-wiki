@@ -58,14 +58,5 @@
       "raw/feed-filter-demo-2025-12-11.md"
     ],
     "confidence": "high"
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "Electrum",
-    "permalink": "/entities/electrum"
-  },
-  "next": {
-    "title": "Fold",
-    "permalink": "/entities/fold"
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Mining Payout Schemas
+description: "Comparison of PPLNS, FPPS, PPS+, TIDES, and solo mining payout models with variance, latency, and pool fee implications."
 created: 2026-05-10
 updated: 2026-06-02
 type: concept

@@ -1,7 +1,7 @@
 {
   "id": "comparisons/mining-payout-schemas",
   "title": "Mining Payout Schemas",
-  "description": "Mining pools and solo setups distribute block rewards through different payout schemas. Each schema trades off variance (how predictable your income is), fees (what the operator charges), transparency (how rewards are calculated), and sovereignty (how much control you retain over block templates).",
+  "description": "Comparison of PPLNS, FPPS, PPS+, TIDES, and solo mining payout models with variance analysis, latency, pool fees, and suitability for different hash-rate scales.",
   "source": "@site/docs/comparisons/mining-payout-schemas.md",
   "sourceDirName": "comparisons",
   "slug": "/comparisons/mining-payout-schemas",
@@ -48,6 +48,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Mining Payout Schemas",
+    "description": "Comparison of PPLNS, FPPS, PPS+, TIDES, and solo mining payout models with variance analysis, latency, pool fees, and suitability for different hash-rate scales.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "comparison",
@@ -76,7 +77,7 @@
     "permalink": "/comparisons/collaborative-custody-providers"
   },
   "next": {
-    "title": "Bitcoin Node Operating Systems",
+    "title": "Node Operating Systems",
     "permalink": "/comparisons/node-operating-systems"
   }
 }

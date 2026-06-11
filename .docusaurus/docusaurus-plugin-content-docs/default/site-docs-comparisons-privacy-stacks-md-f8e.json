@@ -1,7 +1,7 @@
 {
   "id": "comparisons/privacy-stacks",
   "title": "Privacy Stacks — CoinJoin and No-KYC Acquisition",
-  "description": "Privacy in Bitcoin is not a single tool — it is a layered practice. This comparison focuses on the two most critical layers: how you acquire bitcoin without KYC and how you break the transaction graph after acquisition.",
+  "description": "Modular on-chain, Lightning, and metadata privacy stack compositions — compares CoinJoin, Silent Payments, Tor, Nostr, and SSH isolation approaches for different threat models.",
   "source": "@site/docs/comparisons/privacy-stacks.md",
   "sourceDirName": "comparisons",
   "slug": "/comparisons/privacy-stacks",
@@ -43,6 +43,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Privacy Stacks — CoinJoin and No-KYC Acquisition",
+    "description": "Modular on-chain, Lightning, and metadata privacy stack compositions — compares CoinJoin, Silent Payments, Tor, Nostr, and SSH isolation approaches for different threat models.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "comparison",
@@ -69,11 +70,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Bitcoin Node Operating Systems",
+    "title": "Node Operating Systems",
     "permalink": "/comparisons/node-operating-systems"
   },
   "next": {
-    "title": "Entities",
+    "title": "Entities Overview",
     "permalink": "/entities/"
   }
 }

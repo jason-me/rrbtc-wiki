@@ -1,5 +1,6 @@
 ---
 title: Mining Decentralization
+description: "Analysis of mining centralization pressures and decentralization mechanisms: Stratum V2, DATUM, hash marketplaces, small-pool coordination, and the path toward sovereign hash-rate ownership."
 created: 2026-06-04
 updated: 2026-06-04
 type: summary

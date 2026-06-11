@@ -1,7 +1,7 @@
 {
   "id": "concepts/accessibility-in-bitcoin",
   "title": "Accessibility in Bitcoin",
-  "description": "Bitcoin UX is high-stakes and unforgiving. Accessibility ensures that people with disabilities — and those in temporary or environmental limiting conditions — can use bitcoin safely and independently.",
+  "description": "Guidance on designing and evaluating Bitcoin wallets, apps, and workflows for universal usability across visual, cognitive, auditory, motor, and temporary impairments.",
   "source": "@site/docs/concepts/accessibility-in-bitcoin.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/accessibility-in-bitcoin",
@@ -28,6 +28,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Accessibility in Bitcoin",
+    "description": "Guidance on designing and evaluating Bitcoin wallets, apps, and workflows for universal usability across visual, cognitive, auditory, motor, and temporary impairments.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",
@@ -44,7 +45,7 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Concepts",
+    "title": "Concepts Overview",
     "permalink": "/concepts/"
   },
   "next": {

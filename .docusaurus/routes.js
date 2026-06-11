@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a23'),
+    component: ComponentCreator('/', '3cd'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'fcd'),
+        component: ComponentCreator('/', '531'),
         routes: [
           {
             path: '/tags',
@@ -1032,7 +1032,7 @@ export default [
           },
           {
             path: '/',
-            component: ComponentCreator('/', '5cd'),
+            component: ComponentCreator('/', '759'),
             routes: [
               {
                 path: '/comparisons/',
@@ -1102,9 +1102,8 @@ export default [
               },
               {
                 path: '/concepts/bitcoin-nfts',
-                component: ComponentCreator('/concepts/bitcoin-nfts', 'a0c'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/concepts/bitcoin-nfts', 'b78'),
+                exact: true
               },
               {
                 path: '/concepts/bitcoin-node-types',
@@ -1222,9 +1221,8 @@ export default [
               },
               {
                 path: '/entities/axe-os',
-                component: ComponentCreator('/entities/axe-os', 'be5'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/axe-os', '5e7'),
+                exact: true
               },
               {
                 path: '/entities/azteco',
@@ -1252,9 +1250,8 @@ export default [
               },
               {
                 path: '/entities/bitcoin-commons',
-                component: ComponentCreator('/entities/bitcoin-commons', '873'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/bitcoin-commons', 'ef4'),
+                exact: true
               },
               {
                 path: '/entities/bitcoin-core',
@@ -1270,9 +1267,8 @@ export default [
               },
               {
                 path: '/entities/bitrefill',
-                component: ComponentCreator('/entities/bitrefill', '122'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/bitrefill', 'c7c'),
+                exact: true
               },
               {
                 path: '/entities/blockstream-green',
@@ -1282,15 +1278,13 @@ export default [
               },
               {
                 path: '/entities/bluewallet',
-                component: ComponentCreator('/entities/bluewallet', '1d5'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/bluewallet', '898'),
+                exact: true
               },
               {
                 path: '/entities/bolt-card',
-                component: ComponentCreator('/entities/bolt-card', '242'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/bolt-card', 'b98'),
+                exact: true
               },
               {
                 path: '/entities/braiins-hashpower',
@@ -1306,15 +1300,13 @@ export default [
               },
               {
                 path: '/entities/btcmap',
-                component: ComponentCreator('/entities/btcmap', 'ccc'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/btcmap', 'b5e'),
+                exact: true
               },
               {
                 path: '/entities/btcpay-server',
-                component: ComponentCreator('/entities/btcpay-server', '593'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/btcpay-server', '93e'),
+                exact: true
               },
               {
                 path: '/entities/c-lightning',
@@ -1336,9 +1328,8 @@ export default [
               },
               {
                 path: '/entities/casdcr',
-                component: ComponentCreator('/entities/casdcr', '2d1'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/casdcr', '385'),
+                exact: true
               },
               {
                 path: '/entities/cashu',
@@ -1348,9 +1339,8 @@ export default [
               },
               {
                 path: '/entities/coinatmradar',
-                component: ComponentCreator('/entities/coinatmradar', '7d2'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/coinatmradar', '09d'),
+                exact: true
               },
               {
                 path: '/entities/coldcard',
@@ -1360,9 +1350,8 @@ export default [
               },
               {
                 path: '/entities/comparepower',
-                component: ComponentCreator('/entities/comparepower', 'e34'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/comparepower', '54a'),
+                exact: true
               },
               {
                 path: '/entities/datum',
@@ -1378,9 +1367,8 @@ export default [
               },
               {
                 path: '/entities/feed-filter',
-                component: ComponentCreator('/entities/feed-filter', 'dc8'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/feed-filter', 'f04'),
+                exact: true
               },
               {
                 path: '/entities/fold',
@@ -1390,9 +1378,8 @@ export default [
               },
               {
                 path: '/entities/hash-rate-index',
-                component: ComponentCreator('/entities/hash-rate-index', '075'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/hash-rate-index', 'f5b'),
+                exact: true
               },
               {
                 path: '/entities/hashguard',
@@ -1408,9 +1395,8 @@ export default [
               },
               {
                 path: '/entities/hodl-up',
-                component: ComponentCreator('/entities/hodl-up', 'a06'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/hodl-up', 'e8e'),
+                exact: true
               },
               {
                 path: '/entities/hodlhodl',
@@ -1426,9 +1412,8 @@ export default [
               },
               {
                 path: '/entities/ibexpay',
-                component: ComponentCreator('/entities/ibexpay', '822'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/ibexpay', '2c0'),
+                exact: true
               },
               {
                 path: '/entities/joinmarket',
@@ -1474,9 +1459,8 @@ export default [
               },
               {
                 path: '/entities/nutstash',
-                component: ComponentCreator('/entities/nutstash', 'e92'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/nutstash', '0b3'),
+                exact: true
               },
               {
                 path: '/entities/ocean-xyz',
@@ -1522,15 +1506,13 @@ export default [
               },
               {
                 path: '/entities/polar',
-                component: ComponentCreator('/entities/polar', '1bd'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/polar', 'fa3'),
+                exact: true
               },
               {
                 path: '/entities/public-pool',
-                component: ComponentCreator('/entities/public-pool', 'dbc'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/public-pool', '16f'),
+                exact: true
               },
               {
                 path: '/entities/raspiblitz',
@@ -1552,9 +1534,8 @@ export default [
               },
               {
                 path: '/entities/sahil-chaturvedi',
-                component: ComponentCreator('/entities/sahil-chaturvedi', 'dda'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/sahil-chaturvedi', '309'),
+                exact: true
               },
               {
                 path: '/entities/samourai-wallet',
@@ -1564,9 +1545,8 @@ export default [
               },
               {
                 path: '/entities/sats-card',
-                component: ComponentCreator('/entities/sats-card', '24d'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/sats-card', '1a9'),
+                exact: true
               },
               {
                 path: '/entities/seedsigner',
@@ -1576,9 +1556,8 @@ export default [
               },
               {
                 path: '/entities/shushminer',
-                component: ComponentCreator('/entities/shushminer', '189'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/shushminer', '43a'),
+                exact: true
               },
               {
                 path: '/entities/simple-proof',
@@ -1606,15 +1585,13 @@ export default [
               },
               {
                 path: '/entities/stonewall',
-                component: ComponentCreator('/entities/stonewall', '655'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/stonewall', '59d'),
+                exact: true
               },
               {
                 path: '/entities/stowaway',
-                component: ComponentCreator('/entities/stowaway', '85b'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/stowaway', '2df'),
+                exact: true
               },
               {
                 path: '/entities/stratum-v2',
@@ -1654,9 +1631,8 @@ export default [
               },
               {
                 path: '/entities/upstream-data',
-                component: ComponentCreator('/entities/upstream-data', 'bf0'),
-                exact: true,
-                sidebar: "wikiSidebar"
+                component: ComponentCreator('/entities/upstream-data', '757'),
+                exact: true
               },
               {
                 path: '/entities/wasabi-wallet',
@@ -1677,6 +1653,11 @@ export default [
                 sidebar: "wikiSidebar"
               },
               {
+                path: '/license',
+                component: ComponentCreator('/license', 'bee'),
+                exact: true
+              },
+              {
                 path: '/log',
                 component: ComponentCreator('/log', '5ea'),
                 exact: true,
@@ -1684,25 +1665,2937 @@ export default [
               },
               {
                 path: '/presentations/',
-                component: ComponentCreator('/presentations/', '3cb'),
+                component: ComponentCreator('/presentations/', 'cf3'),
+                exact: true
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/', 'e68'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001', '710'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002', '5fb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003', '8e3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004', '374'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005', '907'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006', '9e0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007', 'a7b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008', '8c5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009', '29c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010', 'bbf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011', '04c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012', 'c44'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013', '847'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014', '70d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015', '94b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016', '1ba'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017', '099'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018',
+                component: ComponentCreator('/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018', 'b43'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/', '0e1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-001',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-001', '90d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-002',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-002', '030'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-003',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-003', '635'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-004',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-004', '8b1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-005',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-005', 'ef0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-006',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-006', '22f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-007',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-007', 'd5d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-008',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-008', 'bf5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-009',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-009', '509'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-010',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-010', 'db2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-011',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-011', '53c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-012',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-012', '7e7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-013',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-013', '256'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-014',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-014', '34c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitchat-and-chill-2025-08-14/slide-015',
+                component: ComponentCreator('/presentations/bitchat-and-chill-2025-08-14/slide-015', 'b19'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoin-protocol-meetup-2-2022-07-14/',
+                component: ComponentCreator('/presentations/bitcoin-protocol-meetup-2-2022-07-14/', '2aa'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001',
+                component: ComponentCreator('/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001', '5ad'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002',
+                component: ComponentCreator('/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002', 'ccf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003',
+                component: ComponentCreator('/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003', '5b1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004',
+                component: ComponentCreator('/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004', '44a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005',
+                component: ComponentCreator('/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005', '0cd'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/', '601'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001', 'ed0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002', 'dfb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003', 'c0a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004', '1f1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005', 'd8f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006', '827'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007', 'f98'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008', '401'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009', 'a05'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010', '317'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011', 'abf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012', 'fcc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013', '4c7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014', '552'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015', '197'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016', '482'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017', '319'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018', 'a67'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/', '43f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001', 'e52'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002', 'f60'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003', '920'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004', 'def'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005', '790'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006', 'edb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007', 'b3d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008', 'aef'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009', '9f2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010', '9d2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011', '46b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012', '6b7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013', 'c42'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014',
+                component: ComponentCreator('/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014', '64a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/', 'e65'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-001',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-001', '433'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-002',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-002', 'd52'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-003',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-003', 'c07'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-004',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-004', 'ab4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-005',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-005', '568'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-006',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-006', '833'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-007',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-007', 'd83'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-008',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-008', 'f27'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-009',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-009', '1a0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-010',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-010', '11b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-011',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-011', '58d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-012',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-012', 'e28'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-013',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-013', '00f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-014',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-014', 'e27'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-015',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-015', 'd84'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-016',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-016', 'c1d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-017',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-017', 'f23'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-018',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-018', '6b6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-019',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-019', '558'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-020',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-020', '149'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/cashu-mints-meetup-10-2023-03-09/slide-021',
+                component: ComponentCreator('/presentations/cashu-mints-meetup-10-2023-03-09/slide-021', '821'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/', '683'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-001',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-001', '79b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-002',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-002', 'dcf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-003',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-003', '91f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-004',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-004', '27d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-005',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-005', '858'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-006',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-006', '98a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-007',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-007', 'ac0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-008',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-008', 'ed6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-009',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-009', 'c54'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-010',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-010', '7d5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-011',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-011', '1e2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-012',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-012', '3b8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-013',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-013', 'cf7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-014',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-014', 'e2a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-015',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-015', 'd0f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-016',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-016', '16f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-017',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-017', '226'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-018',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-018', 'af4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-019',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-019', 'e8a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-020',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-020', '3a9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-021',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-021', '108'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-022',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-022', '8cb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-023',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-023', 'a1f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-024',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-024', '55b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-025',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-025', '3d1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-home-mining-bitaxe-2025-04/slide-026',
+                component: ComponentCreator('/presentations/decentralized-home-mining-bitaxe-2025-04/slide-026', '4bf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/', '429'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-001',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-001', '316'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-002',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-002', '823'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-003',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-003', '6d3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-004',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-004', '098'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-005',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-005', '8ac'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-006',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-006', 'a65'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-007',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-007', '446'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-008',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-008', '17d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-009',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-009', 'e5b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-010',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-010', '83b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-011',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-011', 'd01'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-012',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-012', '1be'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-013',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-013', '1ee'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-014',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-014', '0ef'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-015',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-015', '0e4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-016',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-016', '9ef'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-017',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-017', 'bee'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-018',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-018', '9b2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-019',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-019', '0ea'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-020',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-020', '304'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-021',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-021', 'c5d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-022',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-022', '863'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-023',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-023', '0b9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-024',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-024', 'bcf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-025',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-025', '729'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-026',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-026', '3af'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-027',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-027', 'b6e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-028',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-028', 'a72'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-029',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-029', 'bf3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-030',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-030', '9ff'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-031',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-031', '52d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-032',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-032', '292'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-033',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-033', 'ce8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/decentralized-mining-workshop-meetup-30/slide-034',
+                component: ComponentCreator('/presentations/decentralized-mining-workshop-meetup-30/slide-034', 'cc3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/', '9c7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-001',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-001', '619'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-002',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-002', '492'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-003',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-003', '8c8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-004',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-004', '4d0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-005',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-005', '145'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-006',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-006', 'a5e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-007',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-007', '78d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/feed-filter-demo-2025-12-11/slide-008',
+                component: ComponentCreator('/presentations/feed-filter-demo-2025-12-11/slide-008', '6ca'),
                 exact: true,
                 sidebar: "wikiSidebar"
               },
               {
                 path: '/presentations/mining-hashpower-datum-outline',
-                component: ComponentCreator('/presentations/mining-hashpower-datum-outline', '7e1'),
+                component: ComponentCreator('/presentations/mining-hashpower-datum-outline', 'acb'),
+                exact: true
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/', 'c3c'),
                 exact: true,
                 sidebar: "wikiSidebar"
               },
               {
-                path: '/presentations/mining-like-the-big-players-2026-05-14',
-                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14', 'ec2'),
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-001',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-001', 'dd2'),
                 exact: true,
                 sidebar: "wikiSidebar"
               },
               {
-                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22',
-                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22', 'b40'),
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-002',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-002', '0b7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-003',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-003', 'd79'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-004',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-004', 'fac'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-005',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-005', '62d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-006',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-006', 'af4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-007',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-007', '3bb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-008',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-008', '58f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-009',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-009', 'c53'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-010',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-010', '698'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-011',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-011', 'e44'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-012',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-012', 'ade'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-013',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-013', 'df8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-014',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-014', '282'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-015',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-015', 'e2c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-016',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-016', '3f2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-017',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-017', '258'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-2026-05-14/slide-018',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-2026-05-14/slide-018', '6d9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mining-like-the-big-players-outline',
+                component: ComponentCreator('/presentations/mining-like-the-big-players-outline', '28e'),
+                exact: true
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/', '55f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-001',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-001', '3c8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-002',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-002', 'd90'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-003',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-003', 'b8d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-004',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-004', '404'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-005',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-005', 'df8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-006',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-006', 'ba5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-007',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-007', 'e67'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-008',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-008', '7d7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-009',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-009', '007'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-010',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-010', '7eb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-011',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-011', 'c0c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-012',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-012', '1ff'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-013',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-013', 'f50'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/mobile-privacy-meetup-5-2022-10-13/slide-014',
+                component: ComponentCreator('/presentations/mobile-privacy-meetup-5-2022-10-13/slide-014', '87f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/', '03b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-001',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-001', '5d4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-002',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-002', 'ddc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-003',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-003', 'cdd'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-004',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-004', 'de4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-005',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-005', '09c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-006',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-006', 'd64'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-007',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-007', 'f12'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-008',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-008', '706'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-009',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-009', 'bf3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-010',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-010', '7f5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-011',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-011', '8fd'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-012',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-012', 'db9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-013',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-013', '4b2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-014',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-014', '3d1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-015',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-015', '04e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-016',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-016', '01b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/node-builder-workshop-2025-11-13/slide-017',
+                component: ComponentCreator('/presentations/node-builder-workshop-2025-11-13/slide-017', '9f5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/', '15c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001', 'c11'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002', '01f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003', 'eee'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004', '3f2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005', '8b0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006', '1b5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007', '6c0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008', '1ad'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009', '2f3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010', '912'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011', '4b8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012', '300'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013', '3b5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014', 'b1f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015', '333'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016', '189'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017', 'c5a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018', '629'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019', '2ae'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020', '457'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021', 'a2a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022', '526'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023', '9e5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024', '89e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025', 'ac5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026', '1b3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027', '2f2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028', 'f16'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029', '470'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030', '894'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031', 'b72'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032', '78a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033', '904'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034', 'a9e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035', 'afc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036', '2fa'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037', '4a2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038', '7eb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039', '31a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040', '96b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041', '513'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042', 'a79'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043',
+                component: ComponentCreator('/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043', '2dc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/', 'f4d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001', '1a6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002', '277'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003', 'bd0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004', '36a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005', 'd9c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006', '302'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007', '5c6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008', 'bad'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009', '64e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010', 'fbe'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011', '337'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012', '8ac'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013', '4f2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014', 'a66'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015', 'a7a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016', '6da'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017', '8b0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018', '32c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019', 'add'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020', 'eec'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021', '232'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022', 'e96'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023', 'f0a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024', '5f9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025', 'bdc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026', '9aa'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027', 'a71'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028', '99c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029', '310'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030', '658'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031', '2b8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032', 'a14'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033', '078'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034', 'ed2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035', '008'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036', '21f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037', 'ca9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038', 'bb1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039', '135'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040', '65b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041',
+                component: ComponentCreator('/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041', '0e5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/', '0a1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-001',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-001', '138'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-002',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-002', 'f46'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-003',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-003', '415'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-004',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-004', '89a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-005',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-005', 'e19'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-006',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-006', 'b9f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-007',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-007', '059'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-008',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-008', '1ee'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-009',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-009', '80e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-010',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-010', '011'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-011',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-011', '632'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-012',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-012', 'b75'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-013',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-013', '2cb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-014',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-014', 'f36'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-015',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-015', 'e2e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-016',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-016', '694'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-017',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-017', '5fb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-018',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-018', '52a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-019',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-019', 'c23'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-020',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-020', 'cbf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-021',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-021', '5e0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-022',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-022', 'e9e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-023',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-023', '965'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-024',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-024', '4da'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-025',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-025', '74b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-026',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-026', 'dbe'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-027',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-027', '731'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-028',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-028', 'da5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-029',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-029', '5f0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-030',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-030', 'f3c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-031',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-031', '666'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-032',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-032', 'fb6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-033',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-033', 'a0d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-034',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-034', '212'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-035',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-035', '3aa'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-036',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-036', '872'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-037',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-037', 'db3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-038',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-038', '25e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-039',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-039', 'b13'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-040',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-040', 'c45'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-041',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-041', 'f62'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-042',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-042', '263'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-043',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-043', '543'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-044',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-044', '518'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-045',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-045', '244'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-046',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-046', '5d9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-047',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-047', '256'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-048',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-048', '3e3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-049',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-049', 'ab6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-050',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-050', '6f3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-051',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-051', '287'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-052',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-052', '62b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-053',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-053', '39c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-054',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-054', '72d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-055',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-055', 'e73'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-056',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-056', '507'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-057',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-057', '3d2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-058',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-058', 'ae5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-059',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-059', '6f5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-060',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-060', '8b3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-061',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-061', '1e5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-062',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-062', '312'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-063',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-063', '4fd'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-064',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-064', 'eb5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-065',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-065', '849'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-066',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-066', '80b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-067',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-067', '53c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-068',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-068', '776'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-069',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-069', '9dc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-070',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-070', '7a4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/understand-how-bitcoin-works-2026-01-08/slide-071',
+                component: ComponentCreator('/presentations/understand-how-bitcoin-works-2026-01-08/slide-071', 'dc2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/', '095'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-001',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-001', '555'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-002',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-002', 'dea'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-003',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-003', '3b3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-004',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-004', 'b7a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-005',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-005', '0df'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-006',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-006', '740'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-007',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-007', 'cb7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-008',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-008', 'b36'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-009',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-009', 'cea'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-010',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-010', 'e10'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-011',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-011', '246'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-012',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-012', '1a9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-013',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-013', '26c'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-014',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-014', 'c4e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-015',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-015', 'b92'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-multisig-meetup-7-2022-12-08/slide-016',
+                component: ComponentCreator('/presentations/what-is-multisig-meetup-7-2022-12-08/slide-016', '92f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/', 'b73'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-001',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-001', '4dd'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-002',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-002', 'a1b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-003',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-003', 'a7f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-004',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-004', 'ebc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-005',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-005', '4cc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-006',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-006', 'bb9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-007',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-007', '39a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-008',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-008', '3d1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-009',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-009', '22f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-010',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-010', '201'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-011',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-011', '6a5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-012',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-012', '495'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-013',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-013', '69a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-014',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-014', 'fec'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-015',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-015', 'dcf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-016',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-016', '317'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/what-is-nostr-meetup-8-2023-01-12/slide-017',
+                component: ComponentCreator('/presentations/what-is-nostr-meetup-8-2023-01-12/slide-017', 'ab0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/', 'e60'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-001',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-001', 'cf6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-002',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-002', 'c45'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-003',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-003', 'f71'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-004',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-004', '00e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-005',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-005', '4af'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-006',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-006', 'be3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-007',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-007', '420'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-008',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-008', '9cf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-009',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-009', '096'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-010',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-010', '593'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-011',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-011', '59f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-012',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-012', '88d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-013',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-013', '517'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-014',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-014', '439'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-015',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-015', '875'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-016',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-016', '639'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-017',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-017', 'e91'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-018',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-018', 'd28'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-019',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-019', 'ef4'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-020',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-020', 'c8d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-021',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-021', 'dcb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-022',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-022', '663'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-023',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-023', 'b41'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-024',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-024', 'dbb'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-lightning-plus-ai-2024-08-13/slide-025',
+                component: ComponentCreator('/presentations/why-lightning-plus-ai-2024-08-13/slide-025', '0f5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/', 'df8'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001', 'dd0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002', '22f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003', 'd43'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004', 'ab0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005', '352'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006', '6a3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007',
+                component: ComponentCreator('/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007', '293'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/', '0a2'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-001',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-001', '42f'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-002',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-002', 'b6a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-003',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-003', '3e6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-004',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-004', 'ebc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-005',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-005', '1e7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-006',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-006', 'ad0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-007',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-007', '4cc'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-008',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-008', '2a0'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/why-run-a-node-meetup-4-2022-09-08/slide-009',
+                component: ComponentCreator('/presentations/why-run-a-node-meetup-4-2022-09-08/slide-009', 'c41'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-outline',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-outline', '4a5'),
+                exact: true
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/', '8e9'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-001',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-001', '5b7'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-002',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-002', '4b1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-003',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-003', '1ba'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-004',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-004', '33a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-005',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-005', '63d'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-006',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-006', '0be'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-007',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-007', 'cad'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-008',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-008', '088'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-009',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-009', 'aaa'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-010',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-010', '3a3'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-011',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-011', '127'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-012',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-012', '1bf'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-013',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-013', 'b53'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-014',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-014', 'ea1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-015',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-015', '35b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-016',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-016', '24b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-017',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-017', 'fff'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-018',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-018', '904'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-019',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-019', '85e'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-020',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-020', 'ff1'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-021',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-021', '97b'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-022',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-022', '495'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-023',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-023', '3c6'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-024',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-024', 'd5a'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-025',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-025', 'e10'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-026',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-026', 'cd5'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-027',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-027', '839'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-028',
+                component: ComponentCreator('/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-028', 'e1c'),
                 exact: true,
                 sidebar: "wikiSidebar"
               },
@@ -1727,6 +4620,12 @@ export default [
               {
                 path: '/queries/which-custody-model-fits-my-threat-model',
                 component: ComponentCreator('/queries/which-custody-model-fits-my-threat-model', '601'),
+                exact: true,
+                sidebar: "wikiSidebar"
+              },
+              {
+                path: '/summaries/',
+                component: ComponentCreator('/summaries/', '103'),
                 exact: true,
                 sidebar: "wikiSidebar"
               },

@@ -59,14 +59,5 @@
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "BlueWallet",
-    "permalink": "/entities/bluewallet"
-  },
-  "next": {
-    "title": "Braiins Hashpower",
-    "permalink": "/entities/braiins-hashpower"
   }
 }

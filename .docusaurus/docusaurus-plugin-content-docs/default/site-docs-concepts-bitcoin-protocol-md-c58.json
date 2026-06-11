@@ -1,7 +1,7 @@
 {
   "id": "concepts/bitcoin-protocol",
   "title": "Bitcoin Protocol",
-  "description": "The Bitcoin protocol is a set of consensus rules governing peer-to-peer electronic cash. First released by Satoshi Nakamoto in 2009, it combines cryptography, game theory, and distributed systems to create a monetary network without central authority.",
+  "description": "Survey of the Bitcoin protocol layer including consensus rules, peer-to-peer messaging, mempool policy, and the BIP process for proposing changes.",
   "source": "@site/docs/concepts/bitcoin-protocol.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/bitcoin-protocol",
@@ -48,6 +48,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Bitcoin Protocol",
+    "description": "Survey of the Bitcoin protocol layer including consensus rules, peer-to-peer messaging, mempool policy, and the BIP process for proposing changes.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",
@@ -72,7 +73,7 @@
     "permalink": "/concepts/bitcoin-node-types"
   },
   "next": {
-    "title": "Chaumian eCash",
+    "title": "Chaumian Ecash",
     "permalink": "/concepts/chaumian-ecash"
   }
 }

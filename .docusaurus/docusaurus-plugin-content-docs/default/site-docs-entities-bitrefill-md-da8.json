@@ -53,14 +53,5 @@
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "Bitcoin Knots",
-    "permalink": "/entities/bitcoin-knots"
-  },
-  "next": {
-    "title": "Blockstream Green",
-    "permalink": "/entities/blockstream-green"
   }
 }

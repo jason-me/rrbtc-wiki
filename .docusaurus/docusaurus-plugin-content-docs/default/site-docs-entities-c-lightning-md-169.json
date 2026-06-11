@@ -56,11 +56,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "BTCPayServer",
-    "permalink": "/entities/btcpay-server"
+    "title": "Cashu",
+    "permalink": "/entities/cashu"
   },
   "next": {
-    "title": "Caravan",
-    "permalink": "/entities/caravan"
+    "title": "Coldcard",
+    "permalink": "/entities/coldcard"
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Protocol
+description: "Survey of the Bitcoin protocol layer including consensus rules, peer-to-peer messaging, mempool policy, and the BIP process for proposing changes."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

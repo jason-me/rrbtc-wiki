@@ -1,0 +1,18 @@
+---
+title: "Slide 67 of 71 - Understand How Bitcoin Works 2026 01 08"
+sidebar_label: "Slide 67"
+pagination_next: "presentations/understand-how-bitcoin-works-2026-01-08/slide-068"
+pagination_prev: "presentations/understand-how-bitcoin-works-2026-01-08/slide-066"
+---
+
+# Understand How Bitcoin Works 2026 01 08 — Slide 67
+
+![Slide 67 of 71 from 'Understand How Bitcoin Works 2026 01 08' (2026-01-08)](/img/slides/understand-how-bitcoin-works-2026-01-08/slide_066.jpg)
+
+<br/>
+<br/>
+
+[← Previous Slide](/presentations/understand-how-bitcoin-works-2026-01-08/slide-066)  
+[Back to Deck Overview](/presentations/understand-how-bitcoin-works-2026-01-08/)  
+[Next Slide →](/presentations/understand-how-bitcoin-works-2026-01-08/slide-068)
+

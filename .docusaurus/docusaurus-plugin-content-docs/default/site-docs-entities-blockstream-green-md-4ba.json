@@ -56,11 +56,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Bitrefill",
-    "permalink": "/entities/bitrefill"
+    "title": "Bitcoin Knots",
+    "permalink": "/entities/bitcoin-knots"
   },
   "next": {
-    "title": "BlueWallet",
-    "permalink": "/entities/bluewallet"
+    "title": "BRAIINS Hashpower",
+    "permalink": "/entities/braiins-hashpower"
   }
 }

@@ -54,14 +54,5 @@
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "BTCMap",
-    "permalink": "/entities/btcmap"
-  },
-  "next": {
-    "title": "C-Lightning (Core-Lightning)",
-    "permalink": "/entities/c-lightning"
   }
 }

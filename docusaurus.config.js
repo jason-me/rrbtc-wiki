@@ -13,8 +13,8 @@ const config = {
   organizationName: 'jason-me',
   projectName: 'rrbtc-wiki',
 
-  onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'ignore',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
@@ -46,7 +46,7 @@ const config = {
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
-        respectPrefersColorScheme: true, // Automatically respects system dark/light mode
+        respectPrefersColorScheme: true,
       },
       navbar: {
         title: 'Round Rock Bitcoiners',
@@ -65,7 +65,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Round Rock Bitcoiners.`,
+        copyright: `Round Rock Bitcoiners. Content released under the <a href="/license">MIT License</a>.<br /><a href="https://github.com/jason-me/rrbtc-wiki">Contribute on GitHub</a>`,
       },
       prism: {
         theme: prismThemes.github,

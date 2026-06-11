@@ -1,5 +1,6 @@
 ---
 title: Mesh Networks
+description: "Survey of mesh networking projects (GoTenna, LoRaWAN, Reticulum) for Bitcoin transaction propagation and resilience in disconnected or censored environments."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

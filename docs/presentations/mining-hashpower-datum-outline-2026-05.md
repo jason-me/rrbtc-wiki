@@ -1,4 +1,5 @@
 ---
+
 id: mining-hashpower-datum-outline
 type: presentation-outline
 tags: [mining, braiins, datum, hashpower, hermes-agent, privacy]
@@ -7,12 +8,14 @@ date: 2026-05-XX
 status: draft
 last_updated: 2026-05-10
 ---
+> **Note:** This presentation also has [interactive slide-by-slide pages](/presentations/mining-like-the-big-players-2026-05-14/) with key takeaways and SpeakerDeck links where available.
 
 # Mining with Rented Hashrate: Braiins Hashpower + DATUM
 
 > Pared-down outline for ~45 min: 20 min content + 25 min demos & Q&A.
 
 ---
+
 
 ## Slide 1: Connect with Us
 **Title:** Round Rock Bitcoiners
@@ -23,6 +26,7 @@ last_updated: 2026-05-10
 
 ---
 
+
 ## Slide 2: Circular Economy
 **Title:** Circular Economy
 **Body:**
@@ -32,12 +36,14 @@ last_updated: 2026-05-10
 
 ---
 
+
 ## Slide 3: Title — Mining Like the Big Players
 **Title:** Mining Like the Big Players
 **Subtitle:** Hashrate Marketplaces, DATUM, & Automation
 **Footer:** Round Rock Bitcoiners | [Date]
 
 ---
+
 
 ## Slide 4: Why We're Here Tonight
 - You don't need a warehouse in West Texas to mine Bitcoin
@@ -47,6 +53,7 @@ last_updated: 2026-05-10
 
 ---
 
+
 ## Slide 5: The Centralization Problem
 - 3–4 pools control >50% of Bitcoin's hash rate
 - Pool operators choose which transactions make it into blocks
@@ -54,6 +61,7 @@ last_updated: 2026-05-10
 - **How do we participate at scale without feeding the machine?**
 
 ---
+
 
 ## Slide 6: Two Solutions — Rent Hash + Control Templates
 **Rent Hash (no hardware)**
@@ -68,6 +76,7 @@ last_updated: 2026-05-10
 
 ---
 
+
 ## Slide 7: Braiins Hashpower — Overview
 - Launched Jan 2026 (public beta)
 - On-demand SHA-256 hashrate
@@ -77,6 +86,7 @@ last_updated: 2026-05-10
 - Telegram: @braiinshashpower
 
 ---
+
 
 ## Slide 8: How the Market Works
 **Bids (You Buy):**
@@ -90,6 +100,7 @@ last_updated: 2026-05-10
 
 ---
 
+
 ## Slide 9: Solo Mining & Hashrate Autopilot
 **One-Click Solo (Lottery Mode)**
 - Fixed cost, fixed duration, all-or-nothing
@@ -102,6 +113,7 @@ last_updated: 2026-05-10
 - Demo: `http://<AUTOPILOT-HOST>:<PORT>/`
 
 ---
+
 
 ## Slide 10: Template Control — Two Paths
 **Path A: DATUM + Ocean.xyz**
@@ -118,6 +130,7 @@ last_updated: 2026-05-10
 
 ---
 
+
 ## Slide 11: Node Choice — Core vs. Knots (BIP-110 / RDTS)
 **Bitcoin Core** (default, permissive)
 - Accepts nearly all valid transactions (Ordinals, inscriptions)
@@ -131,6 +144,7 @@ last_updated: 2026-05-10
 **Our take:** You choose. Both work with template-control protocols.
 
 ---
+
 
 ## Slide 12: Our Stack
 ```
@@ -150,6 +164,7 @@ C-Lightning (Bolt 12 payouts)
 
 ---
 
+
 ## Slide 13: Hermes Agent — Privacy-Tiered AI
 **The Problem:** Most AI sends everything to the cloud. Your configs, keys, addresses → someone else's server.
 
@@ -164,6 +179,7 @@ C-Lightning (Bolt 12 payouts)
 
 ---
 
+
 ## Slide 14: Live Demo — Hashrate Autopilot
 **What you'll see:**
 - Autopilot dashboard at `http://<AUTOPILOT-HOST>:<PORT>/`
@@ -173,6 +189,7 @@ C-Lightning (Bolt 12 payouts)
 - (If time) One-click solo package spin-up
 
 ---
+
 
 ## Slide 15: Economics & Risks (Quick)
 **Costs:** ~₿0.47–0.62 / EHs/day (~$47–62 at $100k/BTC)
@@ -185,6 +202,7 @@ C-Lightning (Bolt 12 payouts)
 **Mitigations:** Start small (10k sats). Use DATUM failover. Monitor locally.
 
 ---
+
 
 ## Slide 16: Call to Action
 **Tonight:**
@@ -200,6 +218,7 @@ C-Lightning (Bolt 12 payouts)
 
 ---
 
+
 ## Slide 17: Resources
 - [Braiins Hashpower](https://hashpower.braiins.com/)
 - [Braiins Academy / API Docs](https://academy.braiins.com/en/braiins-hashpower/about/)
@@ -211,11 +230,13 @@ C-Lightning (Bolt 12 payouts)
 
 ---
 
+
 ## Slide 18: Q&A
 **Title:** Questions?
 **Subtitle:** Let's talk hash markets, node setups, and keeping AI out of your wallet.
 
 ---
+
 
 ## Appendix: Speaker Notes
 **Slide 5 (Centralization):** Mention Foundry/DMND dominance. Reference Ocean.xyz as the exception.

@@ -1,5 +1,6 @@
 ---
 title: UTXO Model
+description: "Explanation of the UTXO accounting model, coin selection, consolidation, dust limits, and how UTXO management affects privacy, fees, and wallet performance."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

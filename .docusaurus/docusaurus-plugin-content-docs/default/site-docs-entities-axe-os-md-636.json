@@ -53,14 +53,5 @@
     ],
     "confidence": "medium",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "Alby",
-    "permalink": "/entities/alby"
-  },
-  "next": {
-    "title": "Azteco",
-    "permalink": "/entities/azteco"
   }
 }

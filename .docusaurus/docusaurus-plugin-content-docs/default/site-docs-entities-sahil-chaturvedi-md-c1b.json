@@ -42,20 +42,11 @@
       "bitcoin-only",
       "personal-finance"
     ],
-    "sources": [
-      "raw/zero-dollar-manifesto-sahil-2024-06-22.md",
-      "presentations/zero-dollar-manifesto-sahil-2024-06-22.md"
+    "source_refs": [
+      "raw:zero-dollar-manifesto-sahil-2024-06-22.md",
+      "presentations:zero-dollar-manifesto-sahil-2024-06-22.md"
     ],
     "confidence": "high",
     "contested": false
-  },
-  "sidebar": "wikiSidebar",
-  "previous": {
-    "title": "RoninDojo",
-    "permalink": "/entities/ronindojo"
-  },
-  "next": {
-    "title": "Samourai Wallet",
-    "permalink": "/entities/samourai-wallet"
   }
 }

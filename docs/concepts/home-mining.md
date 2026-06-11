@@ -1,5 +1,6 @@
 ---
 title: Home Mining
+description: "Practical guide to solo and pooled mining at home using consumer hardware, hash marketplaces, and Stratum V2 / DATUM template control."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

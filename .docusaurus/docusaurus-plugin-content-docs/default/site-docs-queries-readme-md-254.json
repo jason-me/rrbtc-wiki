@@ -1,7 +1,7 @@
 {
   "id": "queries/README",
-  "title": "Queries",
-  "description": "Pre-built query examples for searching and filtering wiki content.",
+  "title": "Queries Overview",
+  "description": "Common questions and technical challenges we encounter in the community, with direct answers and troubleshooting steps for real-world Bitcoin operations.",
   "source": "@site/docs/queries/README.md",
   "sourceDirName": "queries",
   "slug": "/queries/",
@@ -10,11 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Queries Overview",
+    "pagination_next": "queries/how-do-i-start-mining-at-home"
+  },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Zero Dollar Manifesto",
-    "permalink": "/presentations/zero-dollar-manifesto-sahil-2024-06-22"
+    "title": "Slide 5",
+    "permalink": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005"
   },
   "next": {
     "title": "How Do I Start Mining at Home?",

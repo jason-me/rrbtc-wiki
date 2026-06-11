@@ -62,8 +62,7 @@
             },
             {
               "id": "concepts/bitcoin-nfts",
-              "path": "/concepts/bitcoin-nfts",
-              "sidebar": "wikiSidebar"
+              "path": "/concepts/bitcoin-nfts"
             },
             {
               "id": "concepts/bitcoin-node-types",
@@ -162,8 +161,7 @@
             },
             {
               "id": "entities/axe-os",
-              "path": "/entities/axe-os",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/axe-os"
             },
             {
               "id": "entities/azteco",
@@ -187,8 +185,7 @@
             },
             {
               "id": "entities/bitcoin-commons",
-              "path": "/entities/bitcoin-commons",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/bitcoin-commons"
             },
             {
               "id": "entities/bitcoin-core",
@@ -202,8 +199,7 @@
             },
             {
               "id": "entities/bitrefill",
-              "path": "/entities/bitrefill",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/bitrefill"
             },
             {
               "id": "entities/blockstream-green",
@@ -212,13 +208,11 @@
             },
             {
               "id": "entities/bluewallet",
-              "path": "/entities/bluewallet",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/bluewallet"
             },
             {
               "id": "entities/bolt-card",
-              "path": "/entities/bolt-card",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/bolt-card"
             },
             {
               "id": "entities/braiins-hashpower",
@@ -232,13 +226,11 @@
             },
             {
               "id": "entities/btcmap",
-              "path": "/entities/btcmap",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/btcmap"
             },
             {
               "id": "entities/btcpay-server",
-              "path": "/entities/btcpay-server",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/btcpay-server"
             },
             {
               "id": "entities/c-lightning",
@@ -257,8 +249,7 @@
             },
             {
               "id": "entities/casdcr",
-              "path": "/entities/casdcr",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/casdcr"
             },
             {
               "id": "entities/cashu",
@@ -267,8 +258,7 @@
             },
             {
               "id": "entities/coinatmradar",
-              "path": "/entities/coinatmradar",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/coinatmradar"
             },
             {
               "id": "entities/coldcard",
@@ -277,8 +267,7 @@
             },
             {
               "id": "entities/comparepower",
-              "path": "/entities/comparepower",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/comparepower"
             },
             {
               "id": "entities/datum",
@@ -292,8 +281,7 @@
             },
             {
               "id": "entities/feed-filter",
-              "path": "/entities/feed-filter",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/feed-filter"
             },
             {
               "id": "entities/fold",
@@ -302,8 +290,7 @@
             },
             {
               "id": "entities/hash-rate-index",
-              "path": "/entities/hash-rate-index",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/hash-rate-index"
             },
             {
               "id": "entities/hashguard",
@@ -317,8 +304,7 @@
             },
             {
               "id": "entities/hodl-up",
-              "path": "/entities/hodl-up",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/hodl-up"
             },
             {
               "id": "entities/hodlhodl",
@@ -332,8 +318,7 @@
             },
             {
               "id": "entities/ibexpay",
-              "path": "/entities/ibexpay",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/ibexpay"
             },
             {
               "id": "entities/joinmarket",
@@ -372,8 +357,7 @@
             },
             {
               "id": "entities/nutstash",
-              "path": "/entities/nutstash",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/nutstash"
             },
             {
               "id": "entities/ocean-xyz",
@@ -412,13 +396,11 @@
             },
             {
               "id": "entities/polar",
-              "path": "/entities/polar",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/polar"
             },
             {
               "id": "entities/public-pool",
-              "path": "/entities/public-pool",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/public-pool"
             },
             {
               "id": "entities/raspiblitz",
@@ -442,8 +424,7 @@
             },
             {
               "id": "entities/sahil-chaturvedi",
-              "path": "/entities/sahil-chaturvedi",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/sahil-chaturvedi"
             },
             {
               "id": "entities/samourai-wallet",
@@ -452,8 +433,7 @@
             },
             {
               "id": "entities/sats-card",
-              "path": "/entities/sats-card",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/sats-card"
             },
             {
               "id": "entities/seedsigner",
@@ -462,8 +442,7 @@
             },
             {
               "id": "entities/shushminer",
-              "path": "/entities/shushminer",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/shushminer"
             },
             {
               "id": "entities/simple-proof",
@@ -487,13 +466,11 @@
             },
             {
               "id": "entities/stonewall",
-              "path": "/entities/stonewall",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/stonewall"
             },
             {
               "id": "entities/stowaway",
-              "path": "/entities/stowaway",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/stowaway"
             },
             {
               "id": "entities/stratum-v2",
@@ -527,8 +504,7 @@
             },
             {
               "id": "entities/upstream-data",
-              "path": "/entities/upstream-data",
-              "sidebar": "wikiSidebar"
+              "path": "/entities/upstream-data"
             },
             {
               "id": "entities/wasabi-wallet",
@@ -551,28 +527,2458 @@
               "sidebar": "wikiSidebar"
             },
             {
+              "id": "license",
+              "path": "/license"
+            },
+            {
               "id": "log",
               "path": "/log",
               "sidebar": "wikiSidebar"
             },
             {
-              "id": "presentations/mining-hashpower-datum-outline",
-              "path": "/presentations/mining-hashpower-datum-outline",
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/index",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/",
               "sidebar": "wikiSidebar"
             },
             {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018",
+              "path": "/presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/index",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-001",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-002",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-003",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-004",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-005",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-006",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-007",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-008",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-009",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-010",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-011",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-012",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-013",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-014",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitchat-and-chill-2025-08-14/slide-015",
+              "path": "/presentations/bitchat-and-chill-2025-08-14/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoin-protocol-meetup-2-2022-07-14/index",
+              "path": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001",
+              "path": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002",
+              "path": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003",
+              "path": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004",
+              "path": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005",
+              "path": "/presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/index",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018",
+              "path": "/presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/index",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014",
+              "path": "/presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/index",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-001",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-002",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-003",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-004",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-005",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-006",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-007",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-008",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-009",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-010",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-011",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-012",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-013",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-014",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-015",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-016",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-017",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-018",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-019",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-020",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/cashu-mints-meetup-10-2023-03-09/slide-021",
+              "path": "/presentations/cashu-mints-meetup-10-2023-03-09/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/index",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-001",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-002",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-003",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-004",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-005",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-006",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-007",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-008",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-009",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-010",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-011",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-012",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-013",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-014",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-015",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-016",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-017",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-018",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-019",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-020",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-021",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-022",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-023",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-024",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-025",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-home-mining-bitaxe-2025-04/slide-026",
+              "path": "/presentations/decentralized-home-mining-bitaxe-2025-04/slide-026",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/index",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-001",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-002",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-003",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-004",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-005",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-006",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-007",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-008",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-009",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-010",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-011",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-012",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-013",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-014",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-015",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-016",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-017",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-018",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-019",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-020",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-021",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-022",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-023",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-024",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-025",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-026",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-026",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-027",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-027",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-028",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-028",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-029",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-029",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-030",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-030",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-031",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-031",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-032",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-032",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-033",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-033",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/decentralized-mining-workshop-meetup-30/slide-034",
+              "path": "/presentations/decentralized-mining-workshop-meetup-30/slide-034",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/index",
+              "path": "/presentations/feed-filter-demo-2025-12-11/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-001",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-002",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-003",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-004",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-005",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-006",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-007",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/feed-filter-demo-2025-12-11/slide-008",
+              "path": "/presentations/feed-filter-demo-2025-12-11/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-hashpower-datum-outline",
+              "path": "/presentations/mining-hashpower-datum-outline"
+            },
+            {
               "id": "presentations/mining-like-the-big-players-2026-05-14",
-              "path": "/presentations/mining-like-the-big-players-2026-05-14",
+              "path": "/presentations/mining-like-the-big-players-outline"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/index",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-001",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-002",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-003",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-004",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-005",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-006",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-007",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-008",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-009",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-010",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-011",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-012",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-013",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-014",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-015",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-016",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-017",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mining-like-the-big-players-2026-05-14/slide-018",
+              "path": "/presentations/mining-like-the-big-players-2026-05-14/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/index",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-001",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-002",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-003",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-004",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-005",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-006",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-007",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-008",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-009",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-010",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-011",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-012",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-013",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/mobile-privacy-meetup-5-2022-10-13/slide-014",
+              "path": "/presentations/mobile-privacy-meetup-5-2022-10-13/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/index",
+              "path": "/presentations/node-builder-workshop-2025-11-13/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-001",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-002",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-003",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-004",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-005",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-006",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-007",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-008",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-009",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-010",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-011",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-012",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-013",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-014",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-015",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-016",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/node-builder-workshop-2025-11-13/slide-017",
+              "path": "/presentations/node-builder-workshop-2025-11-13/slide-017",
               "sidebar": "wikiSidebar"
             },
             {
               "id": "presentations/README",
-              "path": "/presentations/",
+              "path": "/presentations/"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/index",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043",
+              "path": "/presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/index",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041",
+              "path": "/presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/index",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-001",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-002",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-003",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-004",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-005",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-006",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-007",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-008",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-009",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-010",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-011",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-012",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-013",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-014",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-015",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-016",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-017",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-018",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-019",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-020",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-021",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-022",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-023",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-024",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-025",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-026",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-026",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-027",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-027",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-028",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-028",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-029",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-029",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-030",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-030",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-031",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-031",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-032",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-032",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-033",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-033",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-034",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-034",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-035",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-035",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-036",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-036",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-037",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-037",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-038",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-038",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-039",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-039",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-040",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-040",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-041",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-041",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-042",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-042",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-043",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-043",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-044",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-044",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-045",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-045",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-046",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-046",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-047",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-047",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-048",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-048",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-049",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-049",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-050",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-050",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-051",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-051",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-052",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-052",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-053",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-053",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-054",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-054",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-055",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-055",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-056",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-056",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-057",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-057",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-058",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-058",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-059",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-059",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-060",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-060",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-061",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-061",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-062",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-062",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-063",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-063",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-064",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-064",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-065",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-065",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-066",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-066",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-067",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-067",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-068",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-068",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-069",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-069",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-070",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-070",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/understand-how-bitcoin-works-2026-01-08/slide-071",
+              "path": "/presentations/understand-how-bitcoin-works-2026-01-08/slide-071",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/index",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-001",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-002",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-003",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-004",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-005",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-006",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-007",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-008",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-009",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-010",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-011",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-012",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-013",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-014",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-015",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-multisig-meetup-7-2022-12-08/slide-016",
+              "path": "/presentations/what-is-multisig-meetup-7-2022-12-08/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/index",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-001",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-002",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-003",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-004",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-005",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-006",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-007",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-008",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-009",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-010",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-011",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-012",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-013",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-014",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-015",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-016",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/what-is-nostr-meetup-8-2023-01-12/slide-017",
+              "path": "/presentations/what-is-nostr-meetup-8-2023-01-12/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/index",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-001",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-002",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-003",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-004",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-005",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-006",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-007",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-008",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-009",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-010",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-011",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-012",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-013",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-014",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-015",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-016",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-017",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-018",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-019",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-020",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-021",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-022",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-023",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-024",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-lightning-plus-ai-2024-08-13/slide-025",
+              "path": "/presentations/why-lightning-plus-ai-2024-08-13/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/index",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007",
+              "path": "/presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/index",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-001",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-002",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-003",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-004",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-005",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-006",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-007",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-008",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/why-run-a-node-meetup-4-2022-09-08/slide-009",
+              "path": "/presentations/why-run-a-node-meetup-4-2022-09-08/slide-009",
               "sidebar": "wikiSidebar"
             },
             {
               "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22",
-              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22",
+              "path": "/presentations/zero-dollar-manifesto-outline"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/index",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-001",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-001",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-002",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-002",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-003",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-003",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-004",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-004",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-005",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-005",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-006",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-006",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-007",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-007",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-008",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-008",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-009",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-009",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-010",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-010",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-011",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-011",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-012",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-012",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-013",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-013",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-014",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-014",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-015",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-015",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-016",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-016",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-017",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-017",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-018",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-018",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-019",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-019",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-020",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-020",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-021",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-021",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-022",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-022",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-023",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-023",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-024",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-024",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-025",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-025",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-026",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-026",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-027",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-027",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-028",
+              "path": "/presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-028",
               "sidebar": "wikiSidebar"
             },
             {
@@ -608,6 +3014,11 @@
             {
               "id": "summaries/privacy-as-a-spectrum",
               "path": "/summaries/privacy-as-a-spectrum",
+              "sidebar": "wikiSidebar"
+            },
+            {
+              "id": "summaries/README",
+              "path": "/summaries/",
               "sidebar": "wikiSidebar"
             }
           ],

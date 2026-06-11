@@ -1,5 +1,6 @@
 ---
 title: Which Custody Model Fits My Threat Model?
+description: "Decision framework for choosing between single-sig, multisig, collaborative custody, and custodial solutions mapped to specific threat models and capability levels."
 created: 2026-06-03
 updated: 2026-06-03
 type: query

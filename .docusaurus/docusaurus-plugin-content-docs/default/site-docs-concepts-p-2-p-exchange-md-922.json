@@ -1,7 +1,7 @@
 {
   "id": "concepts/p2p-exchange",
   "title": "Peer-to-Peer Exchange",
-  "description": "Peer-to-peer (P2P) exchanges allow individuals to buy and sell bitcoin directly with one another, without centralized intermediaries holding funds or requiring identity verification. This aligns with Bitcoin's cypherpunk roots: minimize trust, preserve privacy, and maintain self-custody.",
+  "description": "Comparison of peer-to-peer Bitcoin exchanges: Bisq, RoboSats, HodlHodl, LocalBitcoins (deprecated), and emerging decentralized order books.",
   "source": "@site/docs/concepts/p2p-exchange.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/p2p-exchange",
@@ -43,6 +43,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Peer-to-Peer Exchange",
+    "description": "Comparison of peer-to-peer Bitcoin exchanges: Bisq, RoboSats, HodlHodl, LocalBitcoins (deprecated), and emerging decentralized order books.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",
@@ -66,7 +67,7 @@
     "permalink": "/concepts/nostr"
   },
   "next": {
-    "title": "PayJoin",
+    "title": "Payjoin",
     "permalink": "/concepts/payjoin"
   }
 }

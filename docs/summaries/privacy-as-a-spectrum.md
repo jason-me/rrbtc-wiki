@@ -1,5 +1,6 @@
 ---
 title: Privacy as a Spectrum
+description: "Continuum of Bitcoin privacy from basic hygiene (address reuse avoidance, Tor) to advanced techniques (CoinJoin, Silent Payments, lightning, Nostr) — matched to user capability and threat model."
 created: 2026-06-04
 updated: 2026-06-04
 type: summary

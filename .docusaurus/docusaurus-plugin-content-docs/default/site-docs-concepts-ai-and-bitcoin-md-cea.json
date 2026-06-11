@@ -1,7 +1,7 @@
 {
   "id": "concepts/ai-and-bitcoin",
   "title": "AI and Bitcoin",
-  "description": "The intersection of artificial intelligence and Bitcoin presents both risks and opportunities. AI benefits from decentralization, privacy, and permissionless payment rails — while Bitcoin benefits from AI-assisted tooling for content, code, and automation.",
+  "description": "Exploration of the intersection between artificial intelligence and Bitcoin, covering decentralized AI, Lightning payments for AI services, and the risks of AI centralization.",
   "source": "@site/docs/concepts/ai-and-bitcoin.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/ai-and-bitcoin",
@@ -43,6 +43,7 @@
   "version": "current",
   "frontMatter": {
     "title": "AI and Bitcoin",
+    "description": "Exploration of the intersection between artificial intelligence and Bitcoin, covering decentralized AI, Lightning payments for AI services, and the risks of AI centralization.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",

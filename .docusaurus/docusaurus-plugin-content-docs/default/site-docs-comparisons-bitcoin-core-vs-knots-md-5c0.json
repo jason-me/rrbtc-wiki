@@ -1,7 +1,7 @@
 {
   "id": "comparisons/bitcoin-core-vs-knots",
   "title": "Bitcoin Core vs Bitcoin Knots",
-  "description": "Both are full-node implementations of the Bitcoin protocol. They follow identical consensus rules — neither can create or accept invalid blocks — but they differ in mempool policy: the set of rules each node uses to decide which unconfirmed transactions to accept, relay, and mine.",
+  "description": "Neutral comparison of Bitcoin Core and Bitcoin Knots consensus rules, mempool policies, BIP-110/RDTS differences, and guidance on choosing based on your transaction filtering preferences.",
   "source": "@site/docs/comparisons/bitcoin-core-vs-knots.md",
   "sourceDirName": "comparisons",
   "slug": "/comparisons/bitcoin-core-vs-knots",
@@ -43,6 +43,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Bitcoin Core vs Bitcoin Knots",
+    "description": "Neutral comparison of Bitcoin Core and Bitcoin Knots consensus rules, mempool policies, BIP-110/RDTS differences, and guidance on choosing based on your transaction filtering preferences.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "comparison",
@@ -65,7 +66,7 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Comparisons",
+    "title": "Comparisons Overview",
     "permalink": "/comparisons/"
   },
   "next": {

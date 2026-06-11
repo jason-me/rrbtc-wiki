@@ -51,11 +51,11 @@
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "HashRate Index",
-    "permalink": "/entities/hash-rate-index"
+    "title": "Fold",
+    "permalink": "/entities/fold"
   },
   "next": {
-    "title": "Braiins Hashrate Autopilot",
+    "title": "Hashrate Autopilot",
     "permalink": "/entities/hashrate-autopilot"
   }
 }

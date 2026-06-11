@@ -1,7 +1,7 @@
 {
   "id": "concepts/lightning-network",
   "title": "Lightning Network",
-  "description": "A layer-2 payment protocol built on Bitcoin that enables near-instant, low-cost transactions by moving them off the main blockchain into payment channels.",
+  "description": "Overview of Lightning Network architecture, channel management, routing, Bolt 12 offers, and trade-offs versus on-chain and other Layer 2 solutions.",
   "source": "@site/docs/concepts/lightning-network.md",
   "sourceDirName": "concepts",
   "slug": "/concepts/lightning-network",
@@ -38,6 +38,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Lightning Network",
+    "description": "Overview of Lightning Network architecture, channel management, routing, Bolt 12 offers, and trade-offs versus on-chain and other Layer 2 solutions.",
     "created": "2026-06-03T00:00:00.000Z",
     "updated": "2026-06-03T00:00:00.000Z",
     "type": "concept",

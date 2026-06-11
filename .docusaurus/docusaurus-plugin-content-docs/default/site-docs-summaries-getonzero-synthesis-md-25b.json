@@ -1,7 +1,7 @@
 {
   "id": "summaries/getonzero-synthesis",
   "title": "GetOnZero: Living on the Bitcoin Standard",
-  "description": "A synthesis of Round Rock Bitcoiners meetups on the philosophy, acquisition, deployment, and spending of Bitcoin as primary money.",
+  "description": "Synthesized framework for living on the Bitcoin standard: acquisition rails (KYC and non-KYC), self-custody hierarchy, circular economy spending, and recursive onboarding — drawn from Round Rock Bitcoiners meetups.",
   "source": "@site/docs/summaries/getonzero-synthesis.md",
   "sourceDirName": "summaries",
   "slug": "/summaries/getonzero-synthesis",
@@ -53,6 +53,7 @@
   "version": "current",
   "frontMatter": {
     "title": "GetOnZero: Living on the Bitcoin Standard",
+    "description": "Synthesized framework for living on the Bitcoin standard: acquisition rails (KYC and non-KYC), self-custody hierarchy, circular economy spending, and recursive onboarding — drawn from Round Rock Bitcoiners meetups.",
     "created": "2026-06-04T00:00:00.000Z",
     "updated": "2026-06-04T00:00:00.000Z",
     "type": "summary",
@@ -66,22 +67,22 @@
       "kyc",
       "privacy"
     ],
-    "sources": [
-      "raw/zero-dollar-manifesto-sahil-2024-06-22.md",
-      "raw/bisq-to-bitcoin-retirement-2025-10-10.md",
-      "raw/mining-like-the-big-players-2026-05-14.md",
-      "entities/bitrefill.md",
-      "entities/btcmap.md",
-      "entities/fold.md",
-      "entities/strike.md",
-      "entities/bisq.md",
-      "entities/cashu.md"
+    "source_refs": [
+      "raw:zero-dollar-manifesto-sahil-2024-06-22.md",
+      "raw:bisq-to-bitcoin-retirement-2025-10-10.md",
+      "raw:mining-like-the-big-players-2026-05-14.md",
+      "entities:bitrefill.md",
+      "entities:btcmap.md",
+      "entities:fold.md",
+      "entities:strike.md",
+      "entities:bisq.md",
+      "entities:cashu.md"
     ]
   },
   "sidebar": "wikiSidebar",
   "previous": {
-    "title": "Which Custody Model Fits My Threat Model?",
-    "permalink": "/queries/which-custody-model-fits-my-threat-model"
+    "title": "Summaries Overview",
+    "permalink": "/summaries/"
   },
   "next": {
     "title": "Mining Decentralization",
