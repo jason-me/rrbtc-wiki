@@ -1,4 +1,3 @@
---- Log
 
 ## [2026-06-11] deploy | Wiki v0.1 — Full Docusaurus launch
 - Migrated from MkDocs to Docusaurus v3 with Bitcoin Orange theming
