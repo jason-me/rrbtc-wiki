@@ -1,5 +1,6 @@
 ---
 title: AI and Bitcoin
+description: "Exploration of the intersection between artificial intelligence and Bitcoin, covering decentralized AI, Lightning payments for AI services, and the risks of AI centralization."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

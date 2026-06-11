@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Education
+description: "Overview of Bitcoin education resources, curricula, and pedagogical approaches for developers, users, and educators across technical and non-technical audiences."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

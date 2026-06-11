@@ -1,5 +1,6 @@
 ---
 title: Lightning Network
+description: "Overview of Lightning Network architecture, channel management, routing, Bolt 12 offers, and trade-offs versus on-chain and other Layer 2 solutions."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

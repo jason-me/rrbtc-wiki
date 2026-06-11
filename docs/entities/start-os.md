@@ -4,7 +4,9 @@ created: 2026-05-10
 updated: 2026-06-02
 type: entity
 tags: [node, server, self-hosting, bitcoin, privacy]
-sources: ['raw/decentralized-mining-workshop-meetup-30.md']
+source_refs:
+  - presentations:decentralized-mining-workshop-meetup-30.md
+  - presentations:node-builder-workshop-2025-11-13.md
 confidence: medium
 contested: false
 ---
@@ -21,7 +23,7 @@ StartOS is the foundational home-server layer for the decentralized mining works
 - Provides LAN dashboard and remote Tor access
 
 ## Hardware Reference
-From [Node Builder Workshop 2025 11 13](/raw/node-builder-workshop-2025-11-13) (Node Builder Workshop):
+From [Node Builder Workshop](/presentations/node-builder-workshop-2025-11-13):
 - **Recommended:** Dell OptiPlex 9020M (i5, 16GB RAM, 2TB SSD)
 - **BIOS:** Legacy boot, Secure Boot disabled
 - **Network:** Ethernet preferred; Wi-Fi via USB adapter if needed
@@ -51,11 +53,11 @@ From [Node Builder Workshop 2025 11 13](/raw/node-builder-workshop-2025-11-13) (
 ## Related
 - [Bitcoin Knots](/entities/bitcoin-knots) — recommended full node on StartOS
 - [C-Lightning (Core-Lightning)](/entities/c-lightning) — Lightning implementation packaged for StartOS
-- [Node Builder Workshop 2025 11 13](/node-builder-workshop-2025-11-13) | detailed hardware/BIOS setup
+- [Node Builder Workshop](/presentations/node-builder-workshop-2025-11-13) — detailed hardware/BIOS setup
 
 ## References
-- Meetup #30: Decentralized Mining Workshop ^[raw/decentralized-mining-workshop-meetup-30.md]
-- Node Builder Workshop ^[raw/node-builder-workshop-2025-11-13.md]
+- Meetup #30: Decentralized Mining Workshop
+- Node Builder Workshop
 
 ## Resources
 - [Start9 / StartOS Official Site](https://start9.com)

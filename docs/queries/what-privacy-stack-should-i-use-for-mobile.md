@@ -1,5 +1,6 @@
 ---
 title: What Privacy Stack Should I Use for Mobile?
+description: "Matched privacy stack recommendations for iOS and Android based on threat model — from casual user to high-risk scenarios, covering wallets, networking, and communication."
 created: 2026-06-03
 updated: 2026-06-03
 type: query

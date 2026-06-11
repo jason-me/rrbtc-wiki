@@ -4,7 +4,9 @@ created: 2026-06-04
 updated: 2026-06-04
 type: entity
 tags: [presenter, getonzero, bitcoin-only, personal-finance]
-sources: [raw/zero-dollar-manifesto-sahil-2024-06-22.md, presentations/zero-dollar-manifesto-sahil-2024-06-22.md]
+source_refs:
+  - raw:zero-dollar-manifesto-sahil-2024-06-22.md
+  - presentations:zero-dollar-manifesto-sahil-2024-06-22.md
 confidence: high
 contested: false
 ---
@@ -29,6 +31,5 @@ Bitcoiner, designer, and advocate for the #GetOnZero philosophy. Presented the Z
 > -- @ProgrammableTx (quoted by Sahil)
 
 ## Related Wiki Pages
-- [Zero Dollar Manifesto Sahil 2024 06 22](/raw/zero-dollar-manifesto-sahil-2024-06-22) - Full raw extraction
 - [Zero Dollar Manifesto](/presentations/zero-dollar-manifesto-sahil-2024-06-22) - Presentation card
 - [GetOnZero: Living on the Bitcoin Standard](/summaries/getonzero-synthesis) - GetOnZero synthesis article

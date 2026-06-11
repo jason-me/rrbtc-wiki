@@ -1,5 +1,6 @@
 ---
 title: Multisig
+description: "Deep dive into n-of-m multisignature schemes, hardware wallet coordination, deterministic wallets (BIP-85), and popular multisig coordinators (Sparrow, Nunchuk, CARAVAN)."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

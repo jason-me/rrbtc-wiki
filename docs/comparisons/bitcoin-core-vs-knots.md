@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Core vs Bitcoin Knots
+description: "Neutral comparison of Bitcoin Core and Bitcoin Knots consensus rules, mempool policies, BIP-110/RDTS differences, and guidance on choosing based on your transaction filtering preferences."
 created: 2026-06-03
 updated: 2026-06-03
 type: comparison

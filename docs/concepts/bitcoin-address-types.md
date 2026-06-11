@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Address Types
+description: "Comparison of Bitcoin address formats including Legacy, P2SH, SegWit (Bech32), native SegWit, and Taproot, with guidance on which to use for compatibility, privacy, and future-proofing."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

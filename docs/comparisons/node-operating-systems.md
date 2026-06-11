@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Node Operating Systems
+description: "Comparison of Umbrel, StartOS, RaspiBlitz, myNode, RoninDojo, and bare-metal setups for running a Bitcoin + Lightning node at home."
 created: 2026-06-04
 updated: 2026-06-04
 type: comparison

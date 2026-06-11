@@ -1,5 +1,6 @@
 ---
 title: No-KYC Acquisition Methods
+description: "Methods for acquiring Bitcoin without identity verification including Bisq, RoboSats, HodlHodl, Azteco vouchers, Bitcoin ATMs, and in-person trades."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

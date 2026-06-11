@@ -1,5 +1,6 @@
 ---
 title: Circular Economy
+description: "Examination of earning, spending, and saving entirely in Bitcoin without converting to fiat, including merchant directories, gift cards, and peer-to-peer commerce tools."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

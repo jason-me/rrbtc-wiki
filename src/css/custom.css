@@ -136,3 +136,28 @@ code {
   white-space: nowrap;
   border: 0;
 }
+
+/* === DocCardList: show full descriptions, don't truncate === */
+.theme-doc-card-description {
+  display: -webkit-box !important;
+  -webkit-line-clamp: 3 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: normal !important;
+}
+
+/* Ensure card height is consistent but allows multi-line descriptions */
+.theme-doc-card-container {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+[data-theme='dark'] .theme-doc-card-description {
+  display: -webkit-box !important;
+  -webkit-line-clamp: 3 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: normal !important;
+}

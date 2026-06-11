@@ -1,5 +1,6 @@
 ---
 title: Privacy Stacks
+description: "Modular compositions of tools for on-chain, Lightning, and metadata privacy — including CoinJoin, Silent Payments, Tor, and Nostr/SSH isolation."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

@@ -1,5 +1,6 @@
 ---
 title: Chaumian eCash
+description: "Explanation of Chaumian eCash principles, blind signatures, and modern implementations like Cashu and Fedimint for private, custodial or federated ecash on Bitcoin."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

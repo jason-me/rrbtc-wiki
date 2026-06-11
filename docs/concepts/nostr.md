@@ -1,5 +1,6 @@
 ---
 title: Nostr
+description: "Introduction to the Nostr protocol for censorship-resistant social networking, including clients, relays, NIPs, and integration with Lightning via Zaps."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

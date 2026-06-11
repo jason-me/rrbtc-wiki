@@ -1,5 +1,6 @@
 ---
 title: Custody Models
+description: "Comparison of self-custody, multisig, collaborative custody, and custodial solutions with threat-model guidance for choosing the right approach."
 created: 2026-06-03
 updated: 2026-06-03
 type: concept

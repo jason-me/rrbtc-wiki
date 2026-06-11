@@ -1,5 +1,6 @@
 ---
 title: How Do I Start Mining at Home?
+description: "Step-by-step guide to solo and pooled home mining: hardware selection, Stratum V2/DATUM template control, hash marketplace on-ramps, and operational security."
 created: 2026-06-03
 updated: 2026-06-04
 type: query

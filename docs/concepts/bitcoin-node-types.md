@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Node Types
+description: "Comparison of full, pruned, archival, Simplified Payment Verification (SPV), and neutral nodes; explains trade-offs in storage, trust, privacy, and validation guarantees."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

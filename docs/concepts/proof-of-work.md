@@ -1,5 +1,6 @@
 ---
 title: Proof of Work & Bitcoin Supply
+description: "Fundamentals of Nakamoto consensus, difficulty adjustment, hash rate measurement, energy economics, and the security model underlying Bitcoin's immutability."
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
