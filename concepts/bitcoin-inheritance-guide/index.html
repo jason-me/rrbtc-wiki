@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-concepts/bitcoin-inheritance-guide" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.10.1">
+<title data-rh="true">Bitcoin Inheritance Guide | Round Rock Bitcoiners Wiki</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://wiki.roundrockbitcoiners.com/concepts/bitcoin-inheritance-guide"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Bitcoin Inheritance Guide | Round Rock Bitcoiners Wiki"><meta data-rh="true" name="description" content="Template inheritance guide for a 3-of-5 SeedSigner+ multisig wallet — covers documentation, key distribution, recovery steps, and signing flow for heirs."><meta data-rh="true" property="og:description" content="Template inheritance guide for a 3-of-5 SeedSigner+ multisig wallet — covers documentation, key distribution, recovery steps, and signing flow for heirs."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://wiki.roundrockbitcoiners.com/concepts/bitcoin-inheritance-guide"><link data-rh="true" rel="alternate" href="https://wiki.roundrockbitcoiners.com/concepts/bitcoin-inheritance-guide" hreflang="en"><link data-rh="true" rel="alternate" href="https://wiki.roundrockbitcoiners.com/concepts/bitcoin-inheritance-guide" hreflang="x-default"><link rel="stylesheet" href="/assets/css/styles.50237a89.css">
+<script src="/assets/js/runtime~main.4dc958f1.js" defer="defer"></script>
+<script src="/assets/js/main.a698ad85.js" defer="defer"></script>
+</head>
+<body>
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/img/logo.svg"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.svg" alt="Round Rock Bitcoiners Wiki Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.svg" alt="Round Rock Bitcoiners Wiki Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Round Rock Bitcoiners</b></a><a class="navbar__item navbar__link" href="/">Wiki</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><div class="navbar__search searchBarContainer_NW3z" dir="ltr"><input placeholder="Search" aria-label="Search" class="navbar__search-input searchInput_YFbd" value=""><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><main class="docMainContainer_TBSr docMainContainerEnhanced_lQrH"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Bitcoin Inheritance Guide</h1></header>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="for-heir-name">For: [HEIR NAME]<a href="#for-heir-name" class="hash-link" aria-label="Direct link to For: [HEIR NAME]" title="Direct link to For: [HEIR NAME]" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="prepared-by-your-name">Prepared by: [YOUR NAME]<a href="#prepared-by-your-name" class="hash-link" aria-label="Direct link to Prepared by: [YOUR NAME]" title="Direct link to Prepared by: [YOUR NAME]" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="date-date">Date: [DATE]<a href="#date-date" class="hash-link" aria-label="Direct link to Date: [DATE]" title="Direct link to Date: [DATE]" translate="no">​</a></h3>
+<hr>
+<blockquote>
+<p><strong>This document is confidential. Store it securely. Do not photograph, digitize, or share its contents.</strong></p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-here--read-this-first">START HERE — Read This First<a href="#start-here--read-this-first" class="hash-link" aria-label="Direct link to START HERE — Read This First" title="Direct link to START HERE — Read This First" translate="no">​</a></h2>
+<p>If you are reading this, I have either passed away or am unable to manage my Bitcoin. This document contains everything you need to access and transfer my Bitcoin holdings safely.</p>
+<p><strong>Please read this entire document before doing anything.</strong></p>
+<p>My Bitcoin is secured using a method called multisig (multi-signature). Think of it like a vault that requires three keys from three different people to open. No single seed phrase or person can access the funds alone — this is by design.</p>
+<p><strong>What you will need:</strong></p>
+<ul>
+<li class="">This document</li>
+<li class="">A <strong>SeedSigner+</strong> device (any genuine unit works — they are stateless and interchangeable; one is stored at [PLACEHOLDER LOCATION], and replacements can be built or purchased for ~$50)</li>
+<li class="">Seed phrases (steel plates and/or QR cards) from any <strong>three of the five holders</strong> listed in Section 2</li>
+<li class="">The wallet descriptor / BSMS file (see Section 3)</li>
+<li class="">A Mac or PC you trust</li>
+<li class="">Patience — do not rush this process</li>
+</ul>
+<p><strong>Your two technical contacts if you get stuck:</strong></p>
+<blockquote>
+<p><strong>Technical Contact 1:</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<blockquote>
+<p><strong>Technical Contact 2:</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-1--overview-of-the-setup">Section 1 — Overview of the Setup<a href="#section-1--overview-of-the-setup" class="hash-link" aria-label="Direct link to Section 1 — Overview of the Setup" title="Direct link to Section 1 — Overview of the Setup" translate="no">​</a></h2>
+<p>My Bitcoin is protected by a <strong>3-of-5 multisig wallet</strong>. This means:</p>
+<ul>
+<li class="">There are <strong>5 signing keys</strong> in total</li>
+<li class="">Any <strong>3 of the 5</strong> must be used together to move funds</li>
+<li class="">No single key or pair of keys can move funds alone</li>
+</ul>
+<p><strong>All 5 keys are seed phrases generated by a SeedSigner+ device.</strong> There is no Coldcard, no BIP39 passphrase, and no hidden secondary wallet — just five seed phrases and a wallet descriptor that ties them together.</p>
+<p><strong>The 5 keys are:</strong></p>
+<table><thead><tr><th>#</th><th>Held By</th><th>Location</th></tr></thead><tbody><tr><td>1</td><td>[HOLDER 1 NAME]</td><td>[HOLDER 1 LOCATION]</td></tr><tr><td>2</td><td>[HOLDER 2 NAME]</td><td>[HOLDER 2 LOCATION]</td></tr><tr><td>3</td><td>[HOLDER 3 NAME]</td><td>[HOLDER 3 LOCATION]</td></tr><tr><td>4</td><td>[HOLDER 4 NAME]</td><td>[HOLDER 4 LOCATION]</td></tr><tr><td>5</td><td>[HOLDER 5 NAME]</td><td>[HOLDER 5 LOCATION]</td></tr></tbody></table>
+<p><strong>To access the funds you need:</strong></p>
+<ul>
+<li class="">Collect seed phrases from <strong>any three</strong> of the five holders</li>
+<li class="">Load each seed into the <strong>SeedSigner+</strong> one at a time and sign once per seed</li>
+<li class="">Combine all three signatures in Sparrow Wallet (or Nunchuk) and broadcast the transaction</li>
+</ul>
+<p>The SeedSigner+ is a stateless device — it stores nothing when powered off. You load one seed phrase, sign, power off, then load the next seed and sign again. One device does the work of all three keys sequentially.</p>
+<p>The holders do not necessarily know who the other holders are — this is intentional for security.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-2--the-key-holders-and-order-of-contact">Section 2 — The Key Holders and Order of Contact<a href="#section-2--the-key-holders-and-order-of-contact" class="hash-link" aria-label="Direct link to Section 2 — The Key Holders and Order of Contact" title="Direct link to Section 2 — The Key Holders and Order of Contact" translate="no">​</a></h2>
+<p>Contact the holders in the order listed below. <strong>Start with Holder 1</strong> — they are the most technically comfortable and can help you coordinate and troubleshoot.</p>
+<p>You need seed phrases from any <strong>three</strong> of the five holders. If a holder is unavailable, move to the next one.</p>
+<blockquote>
+<p><strong>Holder 1 — Start Here (Most Technical)</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<blockquote>
+<p><strong>Holder 2</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<blockquote>
+<p><strong>Holder 3</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<blockquote>
+<p><strong>Holder 4</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<blockquote>
+<p><strong>Holder 5</strong>
+Name: [PLACEHOLDER]
+Phone: [PLACEHOLDER]
+Email: [PLACEHOLDER]
+Relationship: [PLACEHOLDER]</p>
+</blockquote>
+<p><strong>Each holder has a sealed envelope containing:</strong></p>
+<ul>
+<li class="">A steel-stamped seed phrase (a metal plate with 12 or 24 words on it)</li>
+<li class="">A seed QR card (a small gridded card with a QR-code pattern that encodes the same seed)</li>
+</ul>
+<p>Both items represent the <strong>same seed phrase</strong> in two formats. The QR card is faster (one scan). The steel plate is the long-term backup and is used only if the QR card is damaged or unreadable.</p>
+<p>Each holder has also been given a copy of the <strong>Bitcoin Key Holder Instructions</strong> explaining what to do when contacted. Refer to that document if a holder seems unsure.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-3--the-wallet-configuration-files-and-where-to-find-them">Section 3 — The Wallet Configuration Files and Where to Find Them<a href="#section-3--the-wallet-configuration-files-and-where-to-find-them" class="hash-link" aria-label="Direct link to Section 3 — The Wallet Configuration Files and Where to Find Them" title="Direct link to Section 3 — The Wallet Configuration Files and Where to Find Them" translate="no">​</a></h2>
+<p>To reconstruct the wallet in Sparrow or Nunchuk you need information about its structure — all five extended public keys (xpubs) and the 3-of-5 threshold. This information is saved in <strong>two different file formats</strong>, both stored side-by-side at every backup location:</p>
+<ul>
+<li class=""><strong>BSMS file</strong> (<code>.bsms</code>) — Bitcoin Secure Multisig Setup, a standardized format (BIP-129). This is the file you should use.</li>
+<li class=""><strong>Output descriptor file</strong> (<code>.txt</code> or <code>.json</code>) — a more raw text-based format that describes the same wallet using descriptor language (e.g. <code>wsh(sortedmulti(3,...))</code>).</li>
+</ul>
+<blockquote>
+<p><strong>Only one of these two files is needed to restore the wallet — they contain the same wallet information in different formats.</strong> Both are saved together purely for redundancy, in case one format becomes unsupported by future wallet software.</p>
+</blockquote>
+<blockquote>
+<p><strong>Recommended:</strong> use the <strong>BSMS file</strong> and open it in <strong>Sparrow Wallet</strong> (Section 6). This is the simplest and most reliable path. The output descriptor is the fallback if Sparrow has trouble with the BSMS file for any reason.</p>
+</blockquote>
+<p>Both files are stored in <strong>multiple redundant locations</strong> so that no single failure prevents recovery:</p>
+<ol>
+<li class=""><strong>Fireproof safe</strong> — a printed copy of both files and a microSD card containing both, alongside this document</li>
+<li class=""><strong>Each holder&#x27;s envelope</strong> — every holder has been given a microSD card containing both files (they contain only public keys, so they are safe to distribute)</li>
+<li class=""><strong>[PLACEHOLDER — additional backup location, e.g. attorney, safety deposit box]</strong></li>
+<li class=""><strong>(Optional) Password manager</strong> — see Section 3B below</li>
+</ol>
+<p>You only need one source to proceed. Both file formats are plaintext — they contain no private keys or seed phrases and are safe to read, copy, and share.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-3b--optional-storing-the-bsms-in-a-password-manager">Section 3B — Optional: Storing the BSMS in a Password Manager<a href="#section-3b--optional-storing-the-bsms-in-a-password-manager" class="hash-link" aria-label="Direct link to Section 3B — Optional: Storing the BSMS in a Password Manager" title="Direct link to Section 3B — Optional: Storing the BSMS in a Password Manager" translate="no">​</a></h2>
+<p>A password manager is a convenient extra backup for the BSMS file, holder contact details, and the location/combination of the safe. This is <strong>optional</strong> — if you already have redundant physical copies (Section 3 items 1–3), you do not need this.</p>
+<p>If you choose to use one, two reasonable options:</p>
+<p><strong>Bitwarden (cloud-hosted) — recommended for most people</strong></p>
+<ul>
+<li class="">Website: <strong><a href="https://bitwarden.com" target="_blank" rel="noopener noreferrer" class="">https://bitwarden.com</a></strong></li>
+<li class="">Run by a long-established company with a free tier. It will almost certainly still exist when your heir needs it.</li>
+<li class="">Trade-off: you are trusting Bitwarden&#x27;s servers to remain available and uncompromised. The data is end-to-end encrypted, so the worst case is a denial of access, not theft of the BSMS (which is already public-key material).</li>
+<li class=""><strong>For your heir to access it</strong>, document:<!-- -->
+<ul>
+<li class="">The Bitwarden account email</li>
+<li class="">Where the master password is written down (e.g. inside the safe — never digitally)</li>
+<li class="">The location of any Yubikey or 2FA backup codes</li>
+</ul>
+</li>
+</ul>
+<p><strong>Vaultwarden (self-hosted alternative)</strong></p>
+<ul>
+<li class="">Project: <strong><a href="https://github.com/dani-garcia/vaultwarden" target="_blank" rel="noopener noreferrer" class="">https://github.com/dani-garcia/vaultwarden</a></strong></li>
+<li class="">A self-hosted Bitwarden-compatible server you run on your own hardware (Raspberry Pi, home server, VPS).</li>
+<li class="">Appealing if you prefer not to depend on any external service.</li>
+<li class=""><strong>Risk to be aware of:</strong> when you are no longer around to maintain it, the server will eventually fail. Power outages, hardware death, an expired domain, a forgotten Tailscale/VPN config, or a router replacement can all make your Vaultwarden unreachable to an heir who is not technical. If you go this route:<!-- -->
+<ul>
+<li class="">Make sure your data is <strong>also</strong> stored somewhere durable that does not depend on you (the safe, an attorney, a holder&#x27;s envelope)</li>
+<li class="">Document the server&#x27;s location, login, and how to reach it on the local network</li>
+<li class="">Treat Vaultwarden as a <em>convenience layer</em>, not the primary backup</li>
+</ul>
+</li>
+</ul>
+<p><strong>General rule:</strong> Anything that depends on infrastructure you personally maintain should not be the only copy of anything critical. The fireproof safe and the holders&#x27; envelopes (Section 3 items 1–2) should always be sufficient on their own.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-4--privacy-and-network-security">Section 4 — Privacy and Network Security<a href="#section-4--privacy-and-network-security" class="hash-link" aria-label="Direct link to Section 4 — Privacy and Network Security" title="Direct link to Section 4 — Privacy and Network Security" translate="no">​</a></h2>
+<p>Before downloading any software or connecting to any Bitcoin-related services, protect your privacy.</p>
+<p><strong>At minimum:</strong></p>
+<ul>
+<li class="">Use <strong>Mullvad VPN</strong> (<a href="https://mullvad.net" target="_blank" rel="noopener noreferrer" class="">https://mullvad.net</a>) — one of the most privacy-respecting VPN services available. You can pay anonymously with Bitcoin or cash. No account email required.</li>
+</ul>
+<p><strong>If you are comfortable with the command line:</strong></p>
+<ul>
+<li class="">Route Sparrow Wallet through <strong>Tor</strong> for stronger anonymity. Tor hides your IP address from the Electrum servers Sparrow queries, so they cannot link your wallet&#x27;s addresses to your home network.</li>
+<li class="">Install Tor: on macOS run <code>brew install tor</code>; on Linux use your package manager (<code>sudo apt install tor</code>).</li>
+<li class="">Start Tor in a terminal by running <code>tor</code>. Leave the terminal window open — Tor must keep running while you use Sparrow. By default it listens on <strong>127.0.0.1:9050</strong> (the SOCKS5 proxy port).</li>
+<li class="">In Sparrow, open <strong>Preferences → Server</strong>, enable <strong>Use Proxy</strong>, set the host to <strong>127.0.0.1</strong> and the port to <strong>9050</strong>, then save.</li>
+<li class="">Sparrow will now route all server traffic through Tor. The first sync may be slower than usual — this is normal.</li>
+</ul>
+<p><strong>For full self-sovereignty:</strong></p>
+<ul>
+<li class="">Run your own Bitcoin node and connect Sparrow Wallet directly to it. This means you are not trusting anyone else&#x27;s server to verify your transactions. This is the gold standard but not required to complete the process.</li>
+</ul>
+<p><strong>Why this matters:</strong>
+Querying a public server to check your Bitcoin balance reveals your wallet addresses and potentially your IP address to that server. Using a VPN, Tor, or your own node prevents this.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-5--downloading-sparrow-wallet-macpc">Section 5 — Downloading Sparrow Wallet (Mac/PC)<a href="#section-5--downloading-sparrow-wallet-macpc" class="hash-link" aria-label="Direct link to Section 5 — Downloading Sparrow Wallet (Mac/PC)" title="Direct link to Section 5 — Downloading Sparrow Wallet (Mac/PC)" translate="no">​</a></h2>
+<p>Sparrow Wallet is the software you will use to reconstruct the wallet and send the Bitcoin.</p>
+<blockquote>
+<p>⚠️ <strong>WARNING: Only download Sparrow Wallet from the official website. Fake versions exist that will steal your funds. Verify every step below.</strong></p>
+</blockquote>
+<p><strong>Step 1 — Go to the official website</strong></p>
+<ul>
+<li class="">Open your browser and navigate to: <strong><a href="https://sparrowwallet.com" target="_blank" rel="noopener noreferrer" class="">https://sparrowwallet.com</a></strong></li>
+<li class="">Look at the URL carefully — it must be exactly <strong>sparrowwallet.com</strong></li>
+<li class="">Do not click links from emails, search ads, or any other source</li>
+</ul>
+<p><strong>Step 2 — Download for your operating system</strong></p>
+<ul>
+<li class="">Click <strong>Download</strong></li>
+<li class="">Download the installer for your operating system (.dmg for Mac, .exe for Windows, .deb/.tar.gz for Linux)</li>
+<li class="">Also download the <strong>manifest file</strong> and <strong>manifest signature file</strong> — these are used to verify the software is genuine</li>
+</ul>
+<p><strong>Step 3 — Verify the download (important)</strong></p>
+<ul>
+<li class="">Sparrow&#x27;s website includes instructions for verifying the software signature</li>
+<li class="">Follow the verification instructions at: <strong><a href="https://sparrowwallet.com/docs/verifying-downloads.html" target="_blank" rel="noopener noreferrer" class="">https://sparrowwallet.com/docs/verifying-downloads.html</a></strong></li>
+<li class="">If you are not comfortable with this step, ask Holder 1 or a technical contact to help</li>
+<li class="">Do not skip this step — fake Sparrow Wallet downloads exist</li>
+</ul>
+<p><strong>Step 4 — Install Sparrow Wallet</strong></p>
+<ul>
+<li class="">Open the downloaded installer</li>
+<li class="">Follow the prompts to install</li>
+<li class="">Open Sparrow Wallet once installation completes</li>
+</ul>
+<p><strong>Step 5 — Connect to a server</strong></p>
+<ul>
+<li class="">When Sparrow opens it will ask you to configure a server</li>
+<li class="">For privacy, use one of the following options:<!-- -->
+<ul>
+<li class=""><strong>Mullvad VPN + Public Electrum server</strong> — simplest option</li>
+<li class=""><strong>Your own Bitcoin node</strong> — best option for full privacy</li>
+</ul>
+</li>
+<li class="">If unsure, select a <strong>Public Server</strong> for now</li>
+<li class="">Click <strong>Done</strong></li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-6--loading-the-wallet-in-sparrow">Section 6 — Loading the Wallet in Sparrow<a href="#section-6--loading-the-wallet-in-sparrow" class="hash-link" aria-label="Direct link to Section 6 — Loading the Wallet in Sparrow" title="Direct link to Section 6 — Loading the Wallet in Sparrow" translate="no">​</a></h2>
+<p>The wallet file is used for <strong>viewing transaction history, confirming the balance, and constructing new transactions</strong>. It contains only public keys — no seed phrases or private keys. The signing devices and seed phrases are what actually control the funds.</p>
+<p><strong>Step 1 — Open Sparrow Wallet</strong></p>
+<ul>
+<li class="">Open Sparrow Wallet if it is not already open</li>
+</ul>
+<p><strong>Step 2 — Load the wallet file</strong></p>
+<ul>
+<li class="">In Sparrow, click <strong>File</strong> in the top menu</li>
+<li class="">Click <strong>Import Wallet</strong></li>
+<li class="">Navigate to the <strong>BSMS file</strong> (<code>.bsms</code>) from the safe, a holder&#x27;s microSD card, or another backup location (see Section 3)</li>
+<li class="">Select the BSMS file and click <strong>Open</strong></li>
+<li class=""><strong>If Sparrow has trouble with the BSMS file</strong>, use the <strong>output descriptor file</strong> instead (<code>.txt</code> or <code>.json</code>) — choose <strong>File → New Wallet → Multi-Signature → paste descriptor</strong>. Either file produces the same wallet.</li>
+</ul>
+<p><strong>Step 3 — The wallet loads</strong></p>
+<ul>
+<li class="">Sparrow will display the wallet and begin syncing</li>
+<li class="">You will see the balance and transaction history once synced</li>
+<li class="">Syncing may take a few minutes</li>
+</ul>
+<p><strong>Step 4 — Verify the balance</strong></p>
+<ul>
+<li class="">Confirm the balance shown matches what you expect</li>
+<li class="">If the balance shows zero after several minutes, contact a technical contact</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-7--booting-and-using-the-seedsigner">Section 7 — Booting and Using the SeedSigner+<a href="#section-7--booting-and-using-the-seedsigner" class="hash-link" aria-label="Direct link to Section 7 — Booting and Using the SeedSigner+" title="Direct link to Section 7 — Booting and Using the SeedSigner+" translate="no">​</a></h2>
+<p>The SeedSigner+ is a small air-gapped signing device. It looks like a small black box with a colour screen and a joystick in a 3D-printed case.</p>
+<blockquote>
+<p><strong>Important: The SeedSigner+ stores nothing when powered off. It is just a tool. You will load each seed phrase into it one at a time to collect signatures. If the unit at [PLACEHOLDER LOCATION] is lost or broken, a new one can be purchased or built for around $50 — see <a href="https://seedsigner.com" target="_blank" rel="noopener noreferrer" class="">https://seedsigner.com</a>.</strong></p>
+</blockquote>
+<p><strong>What you need:</strong></p>
+<ul>
+<li class="">A SeedSigner+ device (from [PLACEHOLDER LOCATION], or any genuine replacement)</li>
+<li class="">A USB-C cable and power source</li>
+<li class="">The seed QR cards (or steel-stamped seed phrases) from three holders</li>
+</ul>
+<p><strong>Step 1 — Power on the SeedSigner+</strong></p>
+<ul>
+<li class="">Connect the USB-C cable to the SeedSigner+ and to a power source (wall adapter or battery)</li>
+<li class="">The screen will light up and display the main menu showing options including <strong>Scan</strong>, <strong>Seeds</strong>, and <strong>Tools</strong></li>
+</ul>
+<p><strong>Step 2 — Load a seed via QR code (recommended)</strong></p>
+<blockquote>
+<p>⚠️ <strong>Never scan the seed QR into any device that connects to the internet. Only use the SeedSigner+ camera.</strong></p>
+</blockquote>
+<ul>
+<li class="">From the main menu, select <strong>Scan</strong></li>
+<li class="">The SeedSigner+ camera will activate</li>
+<li class="">Hold the holder&#x27;s seed QR card in front of the camera in good light</li>
+<li class="">The SeedSigner+ will read the QR and load the seed automatically</li>
+<li class="">A confirmation screen will show the first few words — verify these match the first words on the steel plate</li>
+<li class="">Select <strong>Done</strong></li>
+</ul>
+<p><strong>Step 3 — Load a seed manually (if QR is unavailable)</strong></p>
+<p>If the QR card is damaged or unreadable, use the steel-stamped seed phrase:</p>
+<ul>
+<li class="">From the main menu, select <strong>Seeds → Load a seed → Enter 12-word or 24-word seed</strong></li>
+<li class="">Use the joystick to navigate and the centre button to select each letter</li>
+<li class="">The device will suggest word completions as you type</li>
+<li class="">After entering all words the device will confirm the seed is valid</li>
+<li class="">Verify the first few words match the steel plate</li>
+</ul>
+<p><strong>Step 4 — No passphrase required</strong></p>
+<ul>
+<li class="">This wallet does not use a BIP39 passphrase on any seed</li>
+<li class="">If the SeedSigner+ asks whether to add a passphrase, select <strong>No</strong> or <strong>Skip</strong></li>
+</ul>
+<p><strong>Step 5 — After signing, power off and load the next seed</strong></p>
+<ul>
+<li class="">After collecting one signature (see Section 8), power off the SeedSigner+</li>
+<li class="">Power it back on and repeat Steps 2 or 3 with the next holder&#x27;s seed phrase</li>
+<li class="">The device stores nothing between sessions, so each session is independent</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-8--sending-bitcoin-sparrow--air-gapped-signing">Section 8 — Sending Bitcoin (Sparrow + Air-Gapped Signing)<a href="#section-8--sending-bitcoin-sparrow--air-gapped-signing" class="hash-link" aria-label="Direct link to Section 8 — Sending Bitcoin (Sparrow + Air-Gapped Signing)" title="Direct link to Section 8 — Sending Bitcoin (Sparrow + Air-Gapped Signing)" translate="no">​</a></h2>
+<p>This section explains how to create a transaction in Sparrow and sign it using three seeds, loaded into the SeedSigner+ one at a time. The SeedSigner+ never touches the internet — all data moves through QR codes scanned between Sparrow on your computer and the SeedSigner+ camera/screen.</p>
+<blockquote>
+<p><strong>Why no cables or wireless?</strong> Connecting a signing device via USB, Bluetooth, or NFC creates a potential attack path. Air-gapped signing using QR codes keeps your private keys completely isolated from the internet at all times.</p>
+</blockquote>
+<p><strong>You will need before starting:</strong></p>
+<ul>
+<li class="">Sparrow Wallet open with the wallet loaded (Section 6)</li>
+<li class="">The SeedSigner+ powered on</li>
+<li class="">Three holders&#x27; seed phrases (QR cards and/or steel plates) ready to load one at a time</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="step-8a--create-the-transaction-in-sparrow">Step 8A — Create the Transaction in Sparrow<a href="#step-8a--create-the-transaction-in-sparrow" class="hash-link" aria-label="Direct link to Step 8A — Create the Transaction in Sparrow" title="Direct link to Step 8A — Create the Transaction in Sparrow" translate="no">​</a></h3>
+<p><strong>Step 1 — Go to the Send tab</strong></p>
+<ul>
+<li class="">In Sparrow Wallet, click the <strong>Send</strong> tab on the left side</li>
+</ul>
+<p><strong>Step 2 — Enter the destination address</strong></p>
+<ul>
+<li class="">In the <strong>Pay To</strong> field, enter the Bitcoin address you want to send to</li>
+<li class="">If sending to an exchange or selling peer-to-peer, the platform will provide a deposit address</li>
+<li class="">Triple-check this address — Bitcoin transactions cannot be reversed</li>
+</ul>
+<p><strong>Step 3 — Enter the amount</strong></p>
+<ul>
+<li class="">Enter the amount to send, or click <strong>Max</strong> to send the full balance</li>
+<li class="">Review the network fee — this is paid to Bitcoin miners and is not refundable</li>
+</ul>
+<p><strong>Step 4 — Create the transaction</strong></p>
+<ul>
+<li class="">Click <strong>Create Transaction</strong></li>
+<li class="">Review all details carefully</li>
+<li class="">Click <strong>Finalize Transaction for Signing</strong></li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="step-8b--sign-with-the-first-holders-seed">Step 8B — Sign with the First Holder&#x27;s Seed<a href="#step-8b--sign-with-the-first-holders-seed" class="hash-link" aria-label="Direct link to Step 8B — Sign with the First Holder&#x27;s Seed" title="Direct link to Step 8B — Sign with the First Holder&#x27;s Seed" translate="no">​</a></h3>
+<p><strong>Step 1 — Load the first seed into the SeedSigner+</strong></p>
+<ul>
+<li class="">Power on the SeedSigner+ and load Holder #1&#x27;s seed via QR or manual entry (Section 7, Steps 2 or 3)</li>
+</ul>
+<p><strong>Step 2 — Export the unsigned transaction from Sparrow</strong></p>
+<ul>
+<li class="">In Sparrow, click <strong>Show QR</strong></li>
+<li class="">Sparrow displays an animated QR code — this is the unsigned PSBT (partially signed Bitcoin transaction)</li>
+</ul>
+<p><strong>Step 3 — Scan the PSBT with the SeedSigner+</strong></p>
+<ul>
+<li class="">On the SeedSigner+, select <strong>Scan</strong> from the main menu</li>
+<li class="">Point the camera at your computer screen</li>
+<li class="">Hold it steady — it may cycle through several frames before completing</li>
+<li class="">The SeedSigner+ will display the transaction details</li>
+</ul>
+<p><strong>Step 4 — Verify on the SeedSigner+ screen</strong></p>
+<ul>
+<li class="">Read the destination address and amount shown on the SeedSigner+</li>
+<li class=""><strong>Compare this to what Sparrow shows — they must match exactly</strong></li>
+<li class="">If anything looks different, stop and contact a technical contact</li>
+</ul>
+<p><strong>Step 5 — Sign</strong></p>
+<ul>
+<li class="">Select <strong>Sign</strong> on the SeedSigner+</li>
+<li class="">The device displays a QR code — this is the partially signed transaction</li>
+</ul>
+<p><strong>Step 6 — Scan the signed PSBT back into Sparrow</strong></p>
+<ul>
+<li class="">In Sparrow, click <strong>Scan QR</strong></li>
+<li class="">Hold the SeedSigner+ screen up to your computer&#x27;s camera</li>
+<li class="">Sparrow now shows <strong>1 of 3 signatures</strong> collected</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="step-8c--sign-with-the-second-holders-seed">Step 8C — Sign with the Second Holder&#x27;s Seed<a href="#step-8c--sign-with-the-second-holders-seed" class="hash-link" aria-label="Direct link to Step 8C — Sign with the Second Holder&#x27;s Seed" title="Direct link to Step 8C — Sign with the Second Holder&#x27;s Seed" translate="no">​</a></h3>
+<ul>
+<li class="">Power off the SeedSigner+</li>
+<li class="">Power it back on and load Holder #2&#x27;s seed (Section 7)</li>
+<li class="">Repeat the exact same process as Step 8B</li>
+<li class="">Sparrow will now show <strong>2 of 3 signatures</strong> collected</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="step-8d--sign-with-the-third-holders-seed">Step 8D — Sign with the Third Holder&#x27;s Seed<a href="#step-8d--sign-with-the-third-holders-seed" class="hash-link" aria-label="Direct link to Step 8D — Sign with the Third Holder&#x27;s Seed" title="Direct link to Step 8D — Sign with the Third Holder&#x27;s Seed" translate="no">​</a></h3>
+<ul>
+<li class="">Power off the SeedSigner+</li>
+<li class="">Power it back on and load Holder #3&#x27;s seed (Section 7)</li>
+<li class="">Repeat the exact same process as Step 8B</li>
+<li class="">Sparrow will now show <strong>3 of 3 signatures</strong> — the transaction is fully signed</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="step-8e--broadcast-the-transaction">Step 8E — Broadcast the Transaction<a href="#step-8e--broadcast-the-transaction" class="hash-link" aria-label="Direct link to Step 8E — Broadcast the Transaction" title="Direct link to Step 8E — Broadcast the Transaction" translate="no">​</a></h3>
+<p><strong>Step 1 — Final review</strong></p>
+<ul>
+<li class="">Review the transaction one final time in Sparrow</li>
+<li class="">Confirm the destination address and amount are correct</li>
+</ul>
+<p><strong>Step 2 — Broadcast</strong></p>
+<ul>
+<li class="">Click <strong>Broadcast Transaction</strong></li>
+<li class="">Sparrow sends the transaction to the Bitcoin network</li>
+<li class="">Write down the transaction ID shown — this is your proof</li>
+</ul>
+<p><strong>Step 3 — Confirm</strong></p>
+<ul>
+<li class="">The transaction typically confirms within 10–60 minutes</li>
+<li class="">Track it at <strong><a href="https://mempool.space" target="_blank" rel="noopener noreferrer" class="">https://mempool.space</a></strong> using the transaction ID</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-9--selling-or-exchanging-bitcoin">Section 9 — Selling or Exchanging Bitcoin<a href="#section-9--selling-or-exchanging-bitcoin" class="hash-link" aria-label="Direct link to Section 9 — Selling or Exchanging Bitcoin" title="Direct link to Section 9 — Selling or Exchanging Bitcoin" translate="no">​</a></h2>
+<p><strong>Recommended — HodlHodl (Peer-to-Peer, No KYC)</strong></p>
+<ul>
+<li class="">Website: <strong><a href="https://hodlhodl.com" target="_blank" rel="noopener noreferrer" class="">https://hodlhodl.com</a></strong></li>
+<li class="">A peer-to-peer Bitcoin marketplace requiring no identity verification</li>
+<li class="">Preserves your privacy and avoids leaving a paper trail</li>
+<li class="">Read their documentation at: <strong><a href="https://hodlhodl.com/pages/faq" target="_blank" rel="noopener noreferrer" class="">https://hodlhodl.com/pages/faq</a></strong></li>
+<li class="">Start with a small test transaction before selling larger amounts</li>
+<li class="">Holder 1 can help you navigate this if needed</li>
+</ul>
+<p><strong>Note on KYC exchanges:</strong>
+Traditional exchanges such as Coinbase or Kraken require identity verification and report to tax authorities. Be aware of the privacy and tax implications in your jurisdiction.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-10--loading-the-wallet-in-nunchuk-alternative">Section 10 — Loading the Wallet in Nunchuk (Alternative)<a href="#section-10--loading-the-wallet-in-nunchuk-alternative" class="hash-link" aria-label="Direct link to Section 10 — Loading the Wallet in Nunchuk (Alternative)" title="Direct link to Section 10 — Loading the Wallet in Nunchuk (Alternative)" translate="no">​</a></h2>
+<p>If Sparrow Wallet is unavailable, Nunchuk is a reliable alternative.</p>
+<p><strong>Step 1 — Download Nunchuk</strong></p>
+<ul>
+<li class="">Go to: <strong><a href="https://nunchuk.io" target="_blank" rel="noopener noreferrer" class="">https://nunchuk.io</a></strong></li>
+<li class="">Download the desktop app for your operating system</li>
+<li class="">Verify you are on the official website</li>
+</ul>
+<p><strong>Step 2 — Import wallet via file</strong></p>
+<ul>
+<li class="">Open Nunchuk and select <strong>Add Wallet → Import Wallet → From File</strong></li>
+<li class="">Select the <strong>BSMS file</strong> (<code>.bsms</code>) from the safe, a holder&#x27;s microSD card, or another backup location</li>
+<li class="">If Nunchuk has trouble with the BSMS file, use the <strong>output descriptor file</strong> instead — Nunchuk also supports importing descriptors directly</li>
+<li class="">The wallet loads with full transaction history and balance</li>
+</ul>
+<p><strong>Step 3 — Signing in Nunchuk</strong></p>
+<ul>
+<li class="">Select <strong>New Transaction</strong>, enter the destination and amount</li>
+<li class="">Follow the on-screen QR signing flow with the SeedSigner+ — the process mirrors Section 8</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-11--do-not-do-this">Section 11 — DO NOT Do This<a href="#section-11--do-not-do-this" class="hash-link" aria-label="Direct link to Section 11 — DO NOT Do This" title="Direct link to Section 11 — DO NOT Do This" translate="no">​</a></h2>
+<blockquote>
+<p>Read this section carefully. These mistakes can result in permanent loss of funds.</p>
+</blockquote>
+<ol>
+<li class="">
+<p><strong>Do not rush.</strong> Take your time. There is no deadline. A mistake here cannot be undone.</p>
+</li>
+<li class="">
+<p><strong>Do not download software from any source other than the official websites.</strong> Fake versions of Sparrow and Nunchuk exist and will steal your funds. Always verify the URL.</p>
+</li>
+<li class="">
+<p><strong>Do not broadcast a transaction without verifying the destination address on the SeedSigner+ screen.</strong> Compare every character. Bitcoin transactions are irreversible.</p>
+</li>
+<li class="">
+<p><strong>Do not scan a seed QR card into any device that connects to the internet.</strong> Only the SeedSigner+ camera should ever read it.</p>
+</li>
+<li class="">
+<p><strong>Do not photograph, text, email, or digitally store seed phrases.</strong> Ever.</p>
+</li>
+<li class="">
+<p><strong>Do not connect the SeedSigner+ to your computer with a USB cable for data transfer, and do not enable Bluetooth or NFC on any signing device.</strong> Always use QR codes. This keeps the private keys air-gapped and safe from remote attacks.</p>
+</li>
+<li class="">
+<p><strong>Do not share this document digitally.</strong> Print additional copies only if necessary and store them securely.</p>
+</li>
+<li class="">
+<p><strong>Do not skip the verification step on the SeedSigner+ screen.</strong> The screen on the signing device is the only trustworthy source — your computer could be compromised.</p>
+</li>
+<li class="">
+<p><strong>If anything feels wrong or unexpected, stop and call a technical contact before proceeding.</strong></p>
+</li>
+</ol>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="section-12--learning-resources">Section 12 — Learning Resources<a href="#section-12--learning-resources" class="hash-link" aria-label="Direct link to Section 12 — Learning Resources" title="Direct link to Section 12 — Learning Resources" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p><strong>BTCSessions</strong> — <a href="https://www.youtube.com/@BTCSessions" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/@BTCSessions</a>
+Practical Bitcoin tutorials including Sparrow Wallet, SeedSigner, and multisig setup guides</p>
+</li>
+<li class="">
+<p><strong>Bitcoin University (Matthew Kratter)</strong> — <a href="https://www.youtube.com/@Bitcoin_University" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/@Bitcoin_University</a>
+Clear explanations of Bitcoin fundamentals, security, and self-custody</p>
+</li>
+<li class="">
+<p><strong>ForrestHODL</strong> — <a href="https://www.youtube.com/@ForrestHODL" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/@ForrestHODL</a>
+Focused on Bitcoin security, hardware wallets, and inheritance planning</p>
+</li>
+<li class="">
+<p><strong>SeedSigner Documentation</strong> — <a href="https://seedsigner.com" target="_blank" rel="noopener noreferrer" class="">https://seedsigner.com</a>
+Official SeedSigner project documentation, build guides, and usage tutorials</p>
+</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="glossary">Glossary<a href="#glossary" class="hash-link" aria-label="Direct link to Glossary" title="Direct link to Glossary" translate="no">​</a></h2>
+<p><strong>3-of-5 Multisig</strong>
+A wallet that requires 3 out of 5 signing keys to authorize any transaction. No single key or pair of keys can move funds alone.</p>
+<p><strong>Air-gapped</strong>
+A device that never connects to the internet. The SeedSigner+ is air-gapped, meaning it cannot be hacked remotely.</p>
+<p><strong>BSMS File</strong>
+Bitcoin Secure Multisig Setup file. Contains all the information needed to reconstruct a multisig wallet including all public keys (xpubs), derivation paths, and the required signature threshold. Contains no private keys — safe to back up and distribute.</p>
+<p><strong>Output Descriptor (Wallet Descriptor)</strong>
+A text-based file describing the complete structure of your wallet — which keys are involved, in what order, and what threshold is required (e.g. <code>wsh(sortedmulti(3,xpub1,xpub2,...))</code>). An alternative to the BSMS file for reconstructing the wallet in Sparrow or Nunchuk. Either format works; only one is needed.</p>
+<p><strong>KYC (Know Your Customer)</strong>
+Identity verification required by regulated exchanges. Non-KYC alternatives like HodlHodl allow trading without this.</p>
+<p><strong>Multisig (Multi-Signature)</strong>
+A Bitcoin wallet requiring multiple signing devices to authorize a transaction. Eliminates single points of failure.</p>
+<p><strong>PSBT (Partially Signed Bitcoin Transaction)</strong>
+A Bitcoin transaction that has been created but not yet fully signed. Passed between signing sessions until enough signatures are collected, then broadcast to the network.</p>
+<p><strong>QR Code</strong>
+A scannable square barcode used here to transfer transaction data between Sparrow and the SeedSigner+ without any cable or wireless connection.</p>
+<p><strong>Seed Phrase</strong>
+A list of 12 or 24 words representing a private key. Anyone with these words can access the associated funds.</p>
+<p><strong>SeedQR</strong>
+A compact QR-code format used by SeedSigner that encodes a seed phrase visually. Scanning it loads the seed instantly without typing.</p>
+<p><strong>SeedSigner+</strong>
+An open-source, air-gapped Bitcoin signing device. It is stateless — it stores nothing when powered off. Seed phrases must be loaded each time it is powered on, making it safe to use with multiple seeds sequentially. Build instructions and source: <a href="https://seedsigner.com" target="_blank" rel="noopener noreferrer" class="">https://seedsigner.com</a></p>
+<p><strong>Sparrow Wallet</strong>
+A powerful open-source Bitcoin wallet application for desktop. Used to construct, review, and broadcast transactions. Does not store private keys — those stay on the signing devices.</p>
+<p><strong>Transaction ID (TXID)</strong>
+A unique identifier for a Bitcoin transaction. Track confirmation status at <a href="https://mempool.space" target="_blank" rel="noopener noreferrer" class="">https://mempool.space</a></p>
+<p><strong>xpub (Extended Public Key)</strong>
+A public key that allows a wallet to generate and monitor addresses without being able to spend funds. Used to reconstruct a watch-only wallet for monitoring balances.</p>
+<hr>
+<p><em>This document was prepared by [YOUR NAME] on [DATE]. If you have questions, contact [TECHNICAL CONTACT 1] or [TECHNICAL CONTACT 2] before taking any action.</em></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-tags-row"><div class="col"><b>Tags:</b><ul class="tags_jXut padding--none margin-left--sm"><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/custody">custody</a></li><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/multisig">multisig</a></li><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/inheritance">inheritance</a></li><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/estate-planning">estate-planning</a></li><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/seedsigner">seedsigner</a></li></ul></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#for-heir-name" class="table-of-contents__link toc-highlight">For: [HEIR NAME]</a></li><li><a href="#prepared-by-your-name" class="table-of-contents__link toc-highlight">Prepared by: [YOUR NAME]</a></li><li><a href="#date-date" class="table-of-contents__link toc-highlight">Date: [DATE]</a></li><li><a href="#start-here--read-this-first" class="table-of-contents__link toc-highlight">START HERE — Read This First</a></li><li><a href="#section-1--overview-of-the-setup" class="table-of-contents__link toc-highlight">Section 1 — Overview of the Setup</a></li><li><a href="#section-2--the-key-holders-and-order-of-contact" class="table-of-contents__link toc-highlight">Section 2 — The Key Holders and Order of Contact</a></li><li><a href="#section-3--the-wallet-configuration-files-and-where-to-find-them" class="table-of-contents__link toc-highlight">Section 3 — The Wallet Configuration Files and Where to Find Them</a></li><li><a href="#section-3b--optional-storing-the-bsms-in-a-password-manager" class="table-of-contents__link toc-highlight">Section 3B — Optional: Storing the BSMS in a Password Manager</a></li><li><a href="#section-4--privacy-and-network-security" class="table-of-contents__link toc-highlight">Section 4 — Privacy and Network Security</a></li><li><a href="#section-5--downloading-sparrow-wallet-macpc" class="table-of-contents__link toc-highlight">Section 5 — Downloading Sparrow Wallet (Mac/PC)</a></li><li><a href="#section-6--loading-the-wallet-in-sparrow" class="table-of-contents__link toc-highlight">Section 6 — Loading the Wallet in Sparrow</a></li><li><a href="#section-7--booting-and-using-the-seedsigner" class="table-of-contents__link toc-highlight">Section 7 — Booting and Using the SeedSigner+</a></li><li><a href="#section-8--sending-bitcoin-sparrow--air-gapped-signing" class="table-of-contents__link toc-highlight">Section 8 — Sending Bitcoin (Sparrow + Air-Gapped Signing)</a><ul><li><a href="#step-8a--create-the-transaction-in-sparrow" class="table-of-contents__link toc-highlight">Step 8A — Create the Transaction in Sparrow</a></li><li><a href="#step-8b--sign-with-the-first-holders-seed" class="table-of-contents__link toc-highlight">Step 8B — Sign with the First Holder&#39;s Seed</a></li><li><a href="#step-8c--sign-with-the-second-holders-seed" class="table-of-contents__link toc-highlight">Step 8C — Sign with the Second Holder&#39;s Seed</a></li><li><a href="#step-8d--sign-with-the-third-holders-seed" class="table-of-contents__link toc-highlight">Step 8D — Sign with the Third Holder&#39;s Seed</a></li><li><a href="#step-8e--broadcast-the-transaction" class="table-of-contents__link toc-highlight">Step 8E — Broadcast the Transaction</a></li></ul></li><li><a href="#section-9--selling-or-exchanging-bitcoin" class="table-of-contents__link toc-highlight">Section 9 — Selling or Exchanging Bitcoin</a></li><li><a href="#section-10--loading-the-wallet-in-nunchuk-alternative" class="table-of-contents__link toc-highlight">Section 10 — Loading the Wallet in Nunchuk (Alternative)</a></li><li><a href="#section-11--do-not-do-this" class="table-of-contents__link toc-highlight">Section 11 — DO NOT Do This</a></li><li><a href="#section-12--learning-resources" class="table-of-contents__link toc-highlight">Section 12 — Learning Resources</a></li><li><a href="#glossary" class="table-of-contents__link toc-highlight">Glossary</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Round Rock Bitcoiners. Content released under the <a href="/license">MIT License</a>.<br><a href="https://github.com/jason-me/rrbtc-wiki">Contribute on GitHub</a></div></div></div></footer></div>
+</body>
+</html>
