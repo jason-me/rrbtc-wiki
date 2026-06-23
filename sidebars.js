@@ -1,143 +1,3216 @@
-const presentationsSidebar = require('./sidebars.presentations');
+const presentationsSidebar = require("./sidebars.presentations");
 
 module.exports = {
   wikiSidebar: [
     {
-      type: 'doc',
-      id: 'index',
-      label: 'Welcome',
+      type: "doc",
+      id: "index",
+      label: "Welcome",
     },
     {
-      type: 'category',
-      label: 'Concepts',
-      link: { type: 'doc', id: 'concepts/README' },
+      type: "category",
+      label: "Comparisons",
+      link: {
+        type: "doc",
+        id: "comparisons/README"
+      },
       items: [
-        { type: 'doc', id: 'concepts/README', label: 'Concepts Overview' },
-        { type: 'doc', id: 'concepts/accessibility-in-bitcoin', label: 'Accessibility in Bitcoin' },
-        { type: 'doc', id: 'concepts/ai-and-bitcoin', label: 'AI and Bitcoin' },
-        { type: 'doc', id: 'concepts/bitcoin-address-types', label: 'Bitcoin Address Types' },
-        { type: 'doc', id: 'concepts/bitcoin-education', label: 'Bitcoin Education' },
-        { type: 'doc', id: 'concepts/bitcoin-node-types', label: 'Bitcoin Node Types' },
-        { type: 'doc', id: 'concepts/bitcoin-protocol', label: 'Bitcoin Protocol' },
-        { type: 'doc', id: 'concepts/chaumian-ecash', label: 'Chaumian Ecash' },
-        { type: 'doc', id: 'concepts/circular-economy', label: 'Circular Economy' },
-        { type: 'doc', id: 'concepts/custody-models', label: 'Custody Models' },
-        { type: 'doc', id: 'concepts/home-mining', label: 'Home Mining' },
-        { type: 'doc', id: 'concepts/lightning-network', label: 'Lightning Network' },
-        { type: 'doc', id: 'concepts/mesh-networks', label: 'Mesh Networks' },
-        { type: 'doc', id: 'concepts/mining-payout-schemas', label: 'Mining Payout Schemas' },
-        { type: 'doc', id: 'concepts/multisig', label: 'Multisig' },
-        { type: 'doc', id: 'concepts/no-kyc-acquisition', label: 'No-KYC Acquisition' },
-        { type: 'doc', id: 'concepts/nostr', label: 'Nostr' },
-        { type: 'doc', id: 'concepts/p2p-exchange', label: 'P2P Exchange' },
-        { type: 'doc', id: 'concepts/payjoin', label: 'Payjoin' },
-        { type: 'doc', id: 'concepts/privacy-stacks', label: 'Privacy Stacks' },
-        { type: 'doc', id: 'concepts/proof-of-work', label: 'Proof of Work' },
-        { type: 'doc', id: 'concepts/utxo-model', label: 'UTXO Model' },
-      ],
+        {
+          type: "doc",
+              id: "comparisons/bitcoin-core-vs-knots",
+              label: "Bitcoin Core Vs Knots"
+        },
+        {
+          type: "doc",
+              id: "comparisons/collaborative-custody-providers",
+              label: "Collaborative Custody Providers"
+        },
+        {
+          type: "doc",
+              id: "comparisons/mining-payout-schemas",
+              label: "Mining Payout Schemas"
+        },
+        {
+          type: "doc",
+              id: "comparisons/node-operating-systems",
+              label: "Node Operating Systems"
+        },
+        {
+          type: "doc",
+              id: "comparisons/privacy-stacks",
+              label: "Privacy Stacks"
+        }
+      ]
     },
     {
-      type: 'category',
-      label: 'Comparisons',
-      link: { type: 'doc', id: 'comparisons/README' },
+      type: "category",
+      label: "Concepts",
+      link: {
+        type: "doc",
+        id: "concepts/README"
+      },
       items: [
-        { type: 'doc', id: 'comparisons/README', label: 'Comparisons Overview' },
-        { type: 'doc', id: 'comparisons/bitcoin-core-vs-knots', label: 'Bitcoin Core vs Knots' },
-        { type: 'doc', id: 'comparisons/collaborative-custody-providers', label: 'Collaborative Custody Providers' },
-        { type: 'doc', id: 'comparisons/mining-payout-schemas', label: 'Mining Payout Schemas' },
-        { type: 'doc', id: 'comparisons/node-operating-systems', label: 'Node Operating Systems' },
-        { type: 'doc', id: 'comparisons/privacy-stacks', label: 'Privacy Stacks' },
-      ],
+        {
+          type: "doc",
+              id: "concepts/accessibility-in-bitcoin",
+              label: "Accessibility In Bitcoin"
+        },
+        {
+          type: "doc",
+              id: "concepts/ai-and-bitcoin",
+              label: "Ai And Bitcoin"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-address-types",
+              label: "Bitcoin Address Types"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-education",
+              label: "Bitcoin Education"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-inheritance-guide",
+              label: "Bitcoin Inheritance Guide"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-key-holder-instructions",
+              label: "Bitcoin Key Holder Instructions"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-nfts",
+              label: "Bitcoin Nfts"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-node-types",
+              label: "Bitcoin Node Types"
+        },
+        {
+          type: "doc",
+              id: "concepts/bitcoin-protocol",
+              label: "Bitcoin Protocol"
+        },
+        {
+          type: "doc",
+              id: "concepts/chaumian-ecash",
+              label: "Chaumian Ecash"
+        },
+        {
+          type: "doc",
+              id: "concepts/circular-economy",
+              label: "Circular Economy"
+        },
+        {
+          type: "doc",
+              id: "concepts/custody-models",
+              label: "Custody Models"
+        },
+        {
+          type: "doc",
+              id: "concepts/home-mining",
+              label: "Home Mining"
+        },
+        {
+          type: "doc",
+              id: "concepts/lightning-network",
+              label: "Lightning Network"
+        },
+        {
+          type: "doc",
+              id: "concepts/mesh-networks",
+              label: "Mesh Networks"
+        },
+        {
+          type: "doc",
+              id: "concepts/mining-payout-schemas",
+              label: "Mining Payout Schemas"
+        },
+        {
+          type: "doc",
+              id: "concepts/multisig",
+              label: "Multisig"
+        },
+        {
+          type: "doc",
+              id: "concepts/no-kyc-acquisition",
+              label: "No Kyc Acquisition"
+        },
+        {
+          type: "doc",
+              id: "concepts/nostr",
+              label: "Nostr"
+        },
+        {
+          type: "doc",
+              id: "concepts/p2p-exchange",
+              label: "P2P Exchange"
+        },
+        {
+          type: "doc",
+              id: "concepts/payjoin",
+              label: "Payjoin"
+        },
+        {
+          type: "doc",
+              id: "concepts/privacy-stacks",
+              label: "Privacy Stacks"
+        },
+        {
+          type: "doc",
+              id: "concepts/proof-of-work",
+              label: "Proof Of Work"
+        },
+        {
+          type: "doc",
+              id: "concepts/utxo-model",
+              label: "Utxo Model"
+        }
+      ]
     },
     {
-      type: 'category',
-      label: 'Entities',
-      link: { type: 'doc', id: 'entities/README' },
+      type: "category",
+      label: "Entities",
+      link: {
+        type: "doc",
+        id: "entities/README"
+      },
       items: [
-        { type: 'doc', id: 'entities/README', label: 'Entities Overview' },
-        { type: 'doc', id: 'entities/alby', label: 'Alby' },
-        { type: 'doc', id: 'entities/azteco', label: 'Azteco' },
-        { type: 'doc', id: 'entities/base58', label: 'Base58' },
-        { type: 'doc', id: 'entities/bisq', label: 'Bisq' },
-        { type: 'doc', id: 'entities/bitaxe', label: 'BitAxe' },
-        { type: 'doc', id: 'entities/bitcoin-core', label: 'Bitcoin Core' },
-        { type: 'doc', id: 'entities/bitcoin-knots', label: 'Bitcoin Knots' },
-        { type: 'doc', id: 'entities/blockstream-green', label: 'Blockstream Green' },
-        { type: 'doc', id: 'entities/braiins-hashpower', label: 'BRAIINS Hashpower' },
-        { type: 'doc', id: 'entities/breez', label: 'Breez' },
-        { type: 'doc', id: 'entities/caravan', label: 'CARAVAN' },
-        { type: 'doc', id: 'entities/casa', label: 'CASA' },
-        { type: 'doc', id: 'entities/cashu', label: 'Cashu' },
-        { type: 'doc', id: 'entities/c-lightning', label: 'c-lightning' },
-        { type: 'doc', id: 'entities/coldcard', label: 'Coldcard' },
-        { type: 'doc', id: 'entities/datum', label: 'DATUM' },
-        { type: 'doc', id: 'entities/electrum', label: 'Electrum' },
-        { type: 'doc', id: 'entities/fold', label: 'Fold' },
-        { type: 'doc', id: 'entities/hashguard', label: 'HashGuard' },
-        { type: 'doc', id: 'entities/hashrate-autopilot', label: 'Hashrate Autopilot' },
-        { type: 'doc', id: 'entities/hodlhodl', label: 'HodlHodl' },
-        { type: 'doc', id: 'entities/hwi', label: 'HWI' },
-        { type: 'doc', id: 'entities/joinmarket', label: 'JoinMarket' },
-        { type: 'doc', id: 'entities/kaboom-racks', label: 'Kaboom Racks' },
-        { type: 'doc', id: 'entities/ledger', label: 'Ledger' },
-        { type: 'doc', id: 'entities/lnbits', label: 'LNbits' },
-        { type: 'doc', id: 'entities/muun', label: 'Muun' },
-        { type: 'doc', id: 'entities/mynode', label: 'MyNode' },
-        { type: 'doc', id: 'entities/nunchuk', label: 'Nunchuk' },
-        { type: 'doc', id: 'entities/ocean-xyz', label: 'Ocean.xyz' },
-        { type: 'doc', id: 'entities/opennode', label: 'OpenNode' },
-        { type: 'doc', id: 'entities/oshi-app', label: 'Oshi App' },
-        { type: 'doc', id: 'entities/payjoin-dev-kit', label: 'Payjoin Dev Kit' },
-        { type: 'doc', id: 'entities/phoenix', label: 'Phoenix' },
-        { type: 'doc', id: 'entities/plebdevs', label: 'PlebDevs' },
-        { type: 'doc', id: 'entities/pleblab', label: 'PlebLab' },
-        { type: 'doc', id: 'entities/raspiblitz', label: 'RaspiBlitz' },
-        { type: 'doc', id: 'entities/robosats', label: 'RoboSats' },
-        { type: 'doc', id: 'entities/ronindojo', label: 'RoninDojo' },
-        { type: 'doc', id: 'entities/samourai-wallet', label: 'Samourai Wallet' },
-        { type: 'doc', id: 'entities/seedsigner', label: 'SeedSigner' },
-        { type: 'doc', id: 'entities/simple-proof', label: 'Simple Proof' },
-        { type: 'doc', id: 'entities/sparrow-wallet', label: 'Sparrow Wallet' },
-        { type: 'doc', id: 'entities/specter-desktop', label: 'Specter Desktop' },
-        { type: 'doc', id: 'entities/start-os', label: 'StartOS' },
-        { type: 'doc', id: 'entities/stratum-v2', label: 'Stratum V2' },
-        { type: 'doc', id: 'entities/strike', label: 'Strike' },
-        { type: 'doc', id: 'entities/tapsigner', label: 'Tapsigner' },
-        { type: 'doc', id: 'entities/trezor', label: 'Trezor' },
-        { type: 'doc', id: 'entities/umbrel', label: 'Umbrel' },
-        { type: 'doc', id: 'entities/unchained-capital', label: 'Unchained Capital' },
-        { type: 'doc', id: 'entities/wasabi-wallet', label: 'Wasabi Wallet' },
-        { type: 'doc', id: 'entities/whirlpool', label: 'Whirlpool' },
-        { type: 'doc', id: 'entities/zeus', label: 'Zeus' },
-      ],
+        {
+          type: "doc",
+              id: "entities/alby",
+              label: "Alby"
+        },
+        {
+          type: "doc",
+              id: "entities/axe-os",
+              label: "Axe Os"
+        },
+        {
+          type: "doc",
+              id: "entities/azteco",
+              label: "Azteco"
+        },
+        {
+          type: "doc",
+              id: "entities/base58",
+              label: "Base58"
+        },
+        {
+          type: "doc",
+              id: "entities/bisq",
+              label: "Bisq"
+        },
+        {
+          type: "doc",
+              id: "entities/bitaxe",
+              label: "Bitaxe"
+        },
+        {
+          type: "doc",
+              id: "entities/bitcoin-commons",
+              label: "Bitcoin Commons"
+        },
+        {
+          type: "doc",
+              id: "entities/bitcoin-core",
+              label: "Bitcoin Core"
+        },
+        {
+          type: "doc",
+              id: "entities/bitcoin-knots",
+              label: "Bitcoin Knots"
+        },
+        {
+          type: "doc",
+              id: "entities/bitrefill",
+              label: "Bitrefill"
+        },
+        {
+          type: "doc",
+              id: "entities/blockstream-green",
+              label: "Blockstream Green"
+        },
+        {
+          type: "doc",
+              id: "entities/bluewallet",
+              label: "Bluewallet"
+        },
+        {
+          type: "doc",
+              id: "entities/bolt-card",
+              label: "Bolt Card"
+        },
+        {
+          type: "doc",
+              id: "entities/braiins-hashpower",
+              label: "Braiins Hashpower"
+        },
+        {
+          type: "doc",
+              id: "entities/breez",
+              label: "Breez"
+        },
+        {
+          type: "doc",
+              id: "entities/btcmap",
+              label: "Btcmap"
+        },
+        {
+          type: "doc",
+              id: "entities/btcpay-server",
+              label: "Btcpay Server"
+        },
+        {
+          type: "doc",
+              id: "entities/c-lightning",
+              label: "C Lightning"
+        },
+        {
+          type: "doc",
+              id: "entities/caravan",
+              label: "Caravan"
+        },
+        {
+          type: "doc",
+              id: "entities/casa",
+              label: "Casa"
+        },
+        {
+          type: "doc",
+              id: "entities/casdcr",
+              label: "Casdcr"
+        },
+        {
+          type: "doc",
+              id: "entities/cashu",
+              label: "Cashu"
+        },
+        {
+          type: "doc",
+              id: "entities/coinatmradar",
+              label: "Coinatmradar"
+        },
+        {
+          type: "doc",
+              id: "entities/coldcard",
+              label: "Coldcard"
+        },
+        {
+          type: "doc",
+              id: "entities/comparepower",
+              label: "Comparepower"
+        },
+        {
+          type: "doc",
+              id: "entities/datum",
+              label: "Datum"
+        },
+        {
+          type: "doc",
+              id: "entities/electrum",
+              label: "Electrum"
+        },
+        {
+          type: "doc",
+              id: "entities/feed-filter",
+              label: "Feed Filter"
+        },
+        {
+          type: "doc",
+              id: "entities/fold",
+              label: "Fold"
+        },
+        {
+          type: "doc",
+              id: "entities/hash-rate-index",
+              label: "Hash Rate Index"
+        },
+        {
+          type: "doc",
+              id: "entities/hashguard",
+              label: "Hashguard"
+        },
+        {
+          type: "doc",
+              id: "entities/hashrate-autopilot",
+              label: "Hashrate Autopilot"
+        },
+        {
+          type: "doc",
+              id: "entities/hodl-up",
+              label: "Hodl Up"
+        },
+        {
+          type: "doc",
+              id: "entities/hodlhodl",
+              label: "Hodlhodl"
+        },
+        {
+          type: "doc",
+              id: "entities/hwi",
+              label: "Hwi"
+        },
+        {
+          type: "doc",
+              id: "entities/ibexpay",
+              label: "Ibexpay"
+        },
+        {
+          type: "doc",
+              id: "entities/joinmarket",
+              label: "Joinmarket"
+        },
+        {
+          type: "doc",
+              id: "entities/kaboom-racks",
+              label: "Kaboom Racks"
+        },
+        {
+          type: "doc",
+              id: "entities/ledger",
+              label: "Ledger"
+        },
+        {
+          type: "doc",
+              id: "entities/lnbits",
+              label: "Lnbits"
+        },
+        {
+          type: "doc",
+              id: "entities/muun",
+              label: "Muun"
+        },
+        {
+          type: "doc",
+              id: "entities/mynode",
+              label: "Mynode"
+        },
+        {
+          type: "doc",
+              id: "entities/nunchuk",
+              label: "Nunchuk"
+        },
+        {
+          type: "doc",
+              id: "entities/nutstash",
+              label: "Nutstash"
+        },
+        {
+          type: "doc",
+              id: "entities/ocean-xyz",
+              label: "Ocean Xyz"
+        },
+        {
+          type: "doc",
+              id: "entities/opennode",
+              label: "Opennode"
+        },
+        {
+          type: "doc",
+              id: "entities/oshi-app",
+              label: "Oshi App"
+        },
+        {
+          type: "doc",
+              id: "entities/payjoin-dev-kit",
+              label: "Payjoin Dev Kit"
+        },
+        {
+          type: "doc",
+              id: "entities/phoenix",
+              label: "Phoenix"
+        },
+        {
+          type: "doc",
+              id: "entities/plebdevs",
+              label: "Plebdevs"
+        },
+        {
+          type: "doc",
+              id: "entities/pleblab",
+              label: "Pleblab"
+        },
+        {
+          type: "doc",
+              id: "entities/polar",
+              label: "Polar"
+        },
+        {
+          type: "doc",
+              id: "entities/public-pool",
+              label: "Public Pool"
+        },
+        {
+          type: "doc",
+              id: "entities/raspiblitz",
+              label: "Raspiblitz"
+        },
+        {
+          type: "doc",
+              id: "entities/robosats",
+              label: "Robosats"
+        },
+        {
+          type: "doc",
+              id: "entities/ronindojo",
+              label: "Ronindojo"
+        },
+        {
+          type: "doc",
+              id: "entities/sahil-chaturvedi",
+              label: "Sahil Chaturvedi"
+        },
+        {
+          type: "doc",
+              id: "entities/samourai-wallet",
+              label: "Samourai Wallet"
+        },
+        {
+          type: "doc",
+              id: "entities/sats-card",
+              label: "Sats Card"
+        },
+        {
+          type: "doc",
+              id: "entities/seedsigner",
+              label: "Seedsigner"
+        },
+        {
+          type: "doc",
+              id: "entities/shushminer",
+              label: "Shushminer"
+        },
+        {
+          type: "doc",
+              id: "entities/simple-proof",
+              label: "Simple Proof"
+        },
+        {
+          type: "doc",
+              id: "entities/sparrow-wallet",
+              label: "Sparrow Wallet"
+        },
+        {
+          type: "doc",
+              id: "entities/specter-desktop",
+              label: "Specter Desktop"
+        },
+        {
+          type: "doc",
+              id: "entities/start-os",
+              label: "Start Os"
+        },
+        {
+          type: "doc",
+              id: "entities/stonewall",
+              label: "Stonewall"
+        },
+        {
+          type: "doc",
+              id: "entities/stowaway",
+              label: "Stowaway"
+        },
+        {
+          type: "doc",
+              id: "entities/stratum-v2",
+              label: "Stratum V2"
+        },
+        {
+          type: "doc",
+              id: "entities/strike",
+              label: "Strike"
+        },
+        {
+          type: "doc",
+              id: "entities/tapsigner",
+              label: "Tapsigner"
+        },
+        {
+          type: "doc",
+              id: "entities/trezor",
+              label: "Trezor"
+        },
+        {
+          type: "doc",
+              id: "entities/umbrel",
+              label: "Umbrel"
+        },
+        {
+          type: "doc",
+              id: "entities/unchained-capital",
+              label: "Unchained Capital"
+        },
+        {
+          type: "doc",
+              id: "entities/upstream-data",
+              label: "Upstream Data"
+        },
+        {
+          type: "doc",
+              id: "entities/wasabi-wallet",
+              label: "Wasabi Wallet"
+        },
+        {
+          type: "doc",
+              id: "entities/whirlpool",
+              label: "Whirlpool"
+        },
+        {
+          type: "doc",
+              id: "entities/zeus",
+              label: "Zeus"
+        }
+      ]
     },
-    ...presentationsSidebar,
     {
-      type: 'category',
-      label: 'Queries',
-      link: { type: 'doc', id: 'queries/README' },
+      type: "category",
+      label: "Presentations",
       items: [
-        { type: 'doc', id: 'queries/README', label: 'Queries Overview' },
-        { type: 'doc', id: 'queries/how-do-i-start-mining-at-home', label: 'How do I start mining at home?' },
-        { type: 'doc', id: 'queries/what-privacy-stack-should-i-use-for-mobile', label: 'What privacy stack should I use for mobile?' },
-        { type: 'doc', id: 'queries/which-custody-model-fits-my-threat-model', label: 'Which custody model fits my threat model?' },
-      ],
+        {
+          type: "category",
+          label: "Bisq To Bitcoin Retirement 2025 10 10",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "bisq-to-bitcoin-retirement-2025-10-10/slide-018",
+              label: "Slide 18"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitchat And Chill 2025 08 14",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "bitchat-and-chill-2025-08-14/slide-015",
+              label: "Slide 15"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitcoin Protocol Meetup 2 2022 07 14",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "bitcoin-protocol-meetup-2-2022-07-14/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "bitcoin-protocol-meetup-2-2022-07-14/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "bitcoin-protocol-meetup-2-2022-07-14/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "bitcoin-protocol-meetup-2-2022-07-14/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "bitcoin-protocol-meetup-2-2022-07-14/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "bitcoin-protocol-meetup-2-2022-07-14/slide-005",
+              label: "Slide 5"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitcoindesign Gaad Workshop1 2025 05 16",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop1-2025-05-16/slide-018",
+              label: "Slide 18"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitcoindesign Gaad Workshop2 2025 05 16",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "bitcoindesign-gaad-workshop2-2025-05-16/slide-014",
+              label: "Slide 14"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Cashu Mints Meetup 10 2023 03 09",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "cashu-mints-meetup-10-2023-03-09/slide-021",
+              label: "Slide 21"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Decentralized Home Mining Bitaxe 2025 04",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "decentralized-home-mining-bitaxe-2025-04/slide-026",
+              label: "Slide 26"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Decentralized Mining Workshop Meetup 30",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "decentralized-mining-workshop-meetup-30/slide-034",
+              label: "Slide 34"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Feed Filter Demo 2025 12 11",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "feed-filter-demo-2025-12-11/slide-008",
+              label: "Slide 8"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Mining Like The Big Players 2026 05 14",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "mining-like-the-big-players-2026-05-14/slide-018",
+              label: "Slide 18"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Mobile Privacy Meetup 5 2022 10 13",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "mobile-privacy-meetup-5-2022-10-13/slide-014",
+              label: "Slide 14"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Multisig Wallet Overview 2026 06 11",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "multisig-wallet-overview-2026-06-11/index",
+              label: "Deck Overview"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Node Builder Workshop 2025 11 13",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "node-builder-workshop-2025-11-13/slide-017",
+              label: "Slide 17"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Round Rock Bitcoiners 26 Larp 2024 07 29",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-036",
+              label: "Slide 36"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-037",
+              label: "Slide 37"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-038",
+              label: "Slide 38"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-039",
+              label: "Slide 39"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-040",
+              label: "Slide 40"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-041",
+              label: "Slide 41"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-042",
+              label: "Slide 42"
+            },
+            {
+              type: "doc",
+              id: "round-rock-bitcoiners-26-larp-2024-07-29/slide-043",
+              label: "Slide 43"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Rr Bitcoiners 18 Plebdevs 2023 11 09",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-036",
+              label: "Slide 36"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-037",
+              label: "Slide 37"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-038",
+              label: "Slide 38"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-039",
+              label: "Slide 39"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-040",
+              label: "Slide 40"
+            },
+            {
+              type: "doc",
+              id: "rr-bitcoiners-18-plebdevs-2023-11-09/slide-041",
+              label: "Slide 41"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Understand How Bitcoin Works 2026 01 08",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-036",
+              label: "Slide 36"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-037",
+              label: "Slide 37"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-038",
+              label: "Slide 38"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-039",
+              label: "Slide 39"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-040",
+              label: "Slide 40"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-041",
+              label: "Slide 41"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-042",
+              label: "Slide 42"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-043",
+              label: "Slide 43"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-044",
+              label: "Slide 44"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-045",
+              label: "Slide 45"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-046",
+              label: "Slide 46"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-047",
+              label: "Slide 47"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-048",
+              label: "Slide 48"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-049",
+              label: "Slide 49"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-050",
+              label: "Slide 50"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-051",
+              label: "Slide 51"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-052",
+              label: "Slide 52"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-053",
+              label: "Slide 53"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-054",
+              label: "Slide 54"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-055",
+              label: "Slide 55"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-056",
+              label: "Slide 56"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-057",
+              label: "Slide 57"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-058",
+              label: "Slide 58"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-059",
+              label: "Slide 59"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-060",
+              label: "Slide 60"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-061",
+              label: "Slide 61"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-062",
+              label: "Slide 62"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-063",
+              label: "Slide 63"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-064",
+              label: "Slide 64"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-065",
+              label: "Slide 65"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-066",
+              label: "Slide 66"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-067",
+              label: "Slide 67"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-068",
+              label: "Slide 68"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-069",
+              label: "Slide 69"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-070",
+              label: "Slide 70"
+            },
+            {
+              type: "doc",
+              id: "understand-how-bitcoin-works-2026-01-08/slide-071",
+              label: "Slide 71"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "What Is Multisig Meetup 7 2022 12 08",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "what-is-multisig-meetup-7-2022-12-08/slide-016",
+              label: "Slide 16"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "What Is Nostr Meetup 8 2023 01 12",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "what-is-nostr-meetup-8-2023-01-12/slide-017",
+              label: "Slide 17"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Why Lightning Plus Ai 2024 08 13",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "why-lightning-plus-ai-2024-08-13/slide-025",
+              label: "Slide 25"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Why Privacy Matters Meetup 3 2022 08 11",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "why-privacy-matters-meetup-3-2022-08-11/slide-007",
+              label: "Slide 7"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Why Run A Node Meetup 4 2022 09 08",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "why-run-a-node-meetup-4-2022-09-08/slide-009",
+              label: "Slide 9"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Zero Dollar Manifesto Sahil 2024 06 22",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "zero-dollar-manifesto-sahil-2024-06-22/slide-028",
+              label: "Slide 28"
+            }
+          ]
+        }
+      ]
     },
     {
-      type: 'category',
-      label: 'Summaries',
-      link: { type: 'doc', id: 'summaries/README' },
+      type: "category",
+      label: "Queries",
+      link: {
+        type: "doc",
+        id: "queries/README"
+      },
       items: [
-        { type: 'doc', id: 'summaries/README', label: 'Summaries Overview' },
-        { type: 'doc', id: 'summaries/getonzero-synthesis', label: 'getonzero Synthesis' },
-        { type: 'doc', id: 'summaries/mining-decentralization', label: 'Mining Decentralization' },
-        { type: 'doc', id: 'summaries/privacy-as-a-spectrum', label: 'Privacy as a Spectrum' },
-      ],
+        {
+          type: "doc",
+              id: "queries/how-do-i-start-mining-at-home",
+              label: "How Do I Start Mining At Home"
+        },
+        {
+          type: "doc",
+              id: "queries/what-privacy-stack-should-i-use-for-mobile",
+              label: "What Privacy Stack Should I Use For Mobile"
+        },
+        {
+          type: "doc",
+              id: "queries/which-custody-model-fits-my-threat-model",
+              label: "Which Custody Model Fits My Threat Model"
+        }
+      ]
     },
     {
-      type: 'doc',
-      id: 'log',
-      label: 'Change Log',
-    },
+      type: "category",
+      label: "Summaries",
+      link: {
+        type: "doc",
+        id: "summaries/README"
+      },
+      items: [
+        {
+          type: "doc",
+              id: "summaries/getonzero-synthesis",
+              label: "Getonzero Synthesis"
+        },
+        {
+          type: "doc",
+              id: "summaries/mining-decentralization",
+              label: "Mining Decentralization"
+        },
+        {
+          type: "doc",
+              id: "summaries/privacy-as-a-spectrum",
+              label: "Privacy As A Spectrum"
+        }
+      ]
+    }
   ],
 };
