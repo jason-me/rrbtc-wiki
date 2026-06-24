@@ -1,6 +1,6 @@
 ---
 title: "Round Rock Bitcoiners Meetup"
-date: "2026-05-10"
+date: "2024-11-14"
 presenter: "Round Rock Bitcoiners"
 type: presentation
 sidebar_label: "Round Rock Bitcoiners Meetup"
@@ -9,7 +9,7 @@ pagination_next: "presentations/decentralized-mining-workshop-meetup-30/slide-00
 
 # Round Rock Bitcoiners Meetup
 
-**Date:** 2026-05-10  
+**Date:** 2024-11-14  
 **Presenter:** Round Rock Bitcoiners  
 
 ---
@@ -116,71 +116,71 @@ pagination_next: "presentations/decentralized-mining-workshop-meetup-30/slide-00
 - [Slide 32](/presentations/decentralized-mining-workshop-meetup-30/slide-032)
 - [Slide 33](/presentations/decentralized-mining-workshop-meetup-30/slide-033)
 - [Slide 34](/presentations/decentralized-mining-workshop-meetup-30/slide-034)
-![Slide 1 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_000.jpg)
+![Slide 1 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_000.jpg)
 
-![Slide 2 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_001.jpg)
+![Slide 2 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_001.jpg)
 
-![Slide 3 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_002.jpg)
+![Slide 3 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_002.jpg)
 
-![Slide 4 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_003.jpg)
+![Slide 4 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_003.jpg)
 
-![Slide 5 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_004.jpg)
+![Slide 5 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_004.jpg)
 
-![Slide 6 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_005.jpg)
+![Slide 6 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_005.jpg)
 
-![Slide 7 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_006.jpg)
+![Slide 7 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_006.jpg)
 
-![Slide 8 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_007.jpg)
+![Slide 8 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_007.jpg)
 
-![Slide 9 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_008.jpg)
+![Slide 9 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_008.jpg)
 
-![Slide 10 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_009.jpg)
+![Slide 10 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_009.jpg)
 
-![Slide 11 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_010.jpg)
+![Slide 11 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_010.jpg)
 
-![Slide 12 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_011.jpg)
+![Slide 12 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_011.jpg)
 
-![Slide 13 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_012.jpg)
+![Slide 13 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_012.jpg)
 
-![Slide 14 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_013.jpg)
+![Slide 14 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_013.jpg)
 
-![Slide 15 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_014.jpg)
+![Slide 15 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_014.jpg)
 
-![Slide 16 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_015.jpg)
+![Slide 16 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_015.jpg)
 
-![Slide 17 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_016.jpg)
+![Slide 17 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_016.jpg)
 
-![Slide 18 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_017.jpg)
+![Slide 18 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_017.jpg)
 
-![Slide 19 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_018.jpg)
+![Slide 19 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_018.jpg)
 
-![Slide 20 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_019.jpg)
+![Slide 20 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_019.jpg)
 
-![Slide 21 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_020.jpg)
+![Slide 21 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_020.jpg)
 
-![Slide 22 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_021.jpg)
+![Slide 22 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_021.jpg)
 
-![Slide 23 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_022.jpg)
+![Slide 23 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_022.jpg)
 
-![Slide 24 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_023.jpg)
+![Slide 24 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_023.jpg)
 
-![Slide 25 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_024.jpg)
+![Slide 25 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_024.jpg)
 
-![Slide 26 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_025.jpg)
+![Slide 26 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_025.jpg)
 
-![Slide 27 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_026.jpg)
+![Slide 27 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_026.jpg)
 
-![Slide 28 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_027.jpg)
+![Slide 28 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_027.jpg)
 
-![Slide 29 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_028.jpg)
+![Slide 29 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_028.jpg)
 
-![Slide 30 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_029.jpg)
+![Slide 30 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_029.jpg)
 
-![Slide 31 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_030.jpg)
+![Slide 31 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_030.jpg)
 
-![Slide 32 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_031.jpg)
+![Slide 32 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_031.jpg)
 
-![Slide 33 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_032.jpg)
+![Slide 33 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_032.jpg)
 
-![Slide 34 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_033.jpg)
+![Slide 34 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_033.jpg)
 

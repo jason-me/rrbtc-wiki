@@ -17,6 +17,8 @@ module.exports = {
         { type: 'doc', id: 'concepts/ai-and-bitcoin', label: 'AI and Bitcoin' },
         { type: 'doc', id: 'concepts/bitcoin-address-types', label: 'Bitcoin Address Types' },
         { type: 'doc', id: 'concepts/bitcoin-education', label: 'Bitcoin Education' },
+        { type: 'doc', id: 'concepts/bitcoin-inheritance-guide', label: 'Bitcoin Inheritance Guide' },
+        { type: 'doc', id: 'concepts/bitcoin-key-holder-instructions', label: 'Bitcoin Key Holder Instructions' },
         { type: 'doc', id: 'concepts/bitcoin-node-types', label: 'Bitcoin Node Types' },
         { type: 'doc', id: 'concepts/bitcoin-protocol', label: 'Bitcoin Protocol' },
         { type: 'doc', id: 'concepts/chaumian-ecash', label: 'Chaumian Ecash' },

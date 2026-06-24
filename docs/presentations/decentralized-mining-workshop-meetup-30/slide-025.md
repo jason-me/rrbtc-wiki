@@ -7,7 +7,7 @@ pagination_prev: "presentations/decentralized-mining-workshop-meetup-30/slide-02
 
 # Round Rock Bitcoiners Meetup — Slide 25
 
-![Slide 25 of 34 from 'Round Rock Bitcoiners Meetup' (2026-05-10)](/img/slides/decentralized-mining-workshop-meetup-30/slide_024.jpg)
+![Slide 25 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/decentralized-mining-workshop-meetup-30/slide_024.jpg)
 
 <br/>
 <br/>

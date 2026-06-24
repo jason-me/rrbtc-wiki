@@ -8,6 +8,14 @@ module.exports = [
     items: [
       {
         type: 'category',
+        label: 'Multisig Wallet Overview (2026-06-11)',
+        collapsed: true,
+        items: [
+          { type: 'doc', id: 'presentations/multisig-wallet-overview-2026-06-11/index', label: 'Deck Overview' },
+        ]
+      },
+      {
+        type: 'category',
         label: 'Mining Like The Big Players (2026-05-14)',
         collapsed: true,
         items: [
