@@ -1,7 +1,7 @@
 ---
 title: SeedSigner
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-09-07
 type: entity
 tags: [hardware-wallet, signing-device, diy, multisig, open-source]
 confidence: high
@@ -52,3 +52,7 @@ SeedSigner is designed for users who want to verify every layer of their signing
 - [concepts/custody-models.md] — trade-offs between hot, warm, and cold storage
 - [entities/simple-proof.md] — complementary Bitcoin-native security tools
 - [entities/jade.md] — commercial hardware wallet alternative with different trust assumptions
+- [[entities/krux.md]] — open-source signing-device firmware for commodity microcontrollers
+- [[entities/jade-diy.md]] — Blockstream Jade firmware on generic hardware
+- [[entities/specter-diy.md]] — Specter DIY air-gapped hardware wallet
+- [[presentations/round-rock-bitcoiners-50-self-custody-entropy.md]] — Meetup #50 on self-custody and entropy

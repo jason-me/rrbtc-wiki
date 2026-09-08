@@ -1,7 +1,7 @@
 ---
 title: "Slide 26 of 26 - Decentralized Home Mining w/ Bitaxe"
 sidebar_label: "Slide 26"
-pagination_next: "presentations/why-lightning-plus-ai-2024-08-13/index"
+pagination_next: "presentations/decentralized-mining-workshop-meetup-30/index"
 pagination_prev: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-025"
 ---
 
@@ -14,5 +14,5 @@ pagination_prev: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-0
 
 [← Previous Slide](/presentations/decentralized-home-mining-bitaxe-2025-04/slide-025)  
 [Back to Deck Overview](/presentations/decentralized-home-mining-bitaxe-2025-04/)  
-[Next Slide →](/presentations/why-lightning-plus-ai-2024-08-13/)
+[Next Slide →](/presentations/decentralized-mining-workshop-meetup-30/)
 

@@ -361,6 +361,11 @@ module.exports = {
         },
         {
           type: "doc",
+              id: "entities/jade-diy",
+              label: "Jade Diy"
+        },
+        {
+          type: "doc",
               id: "entities/joinmarket",
               label: "Joinmarket"
         },
@@ -368,6 +373,11 @@ module.exports = {
           type: "doc",
               id: "entities/kaboom-racks",
               label: "Kaboom Racks"
+        },
+        {
+          type: "doc",
+              id: "entities/krux",
+              label: "Krux"
         },
         {
           type: "doc",
@@ -501,6 +511,11 @@ module.exports = {
         },
         {
           type: "doc",
+              id: "entities/specter-diy",
+              label: "Specter Diy"
+        },
+        {
+          type: "doc",
               id: "entities/start-os",
               label: "Start Os"
         },
@@ -572,13 +587,904 @@ module.exports = {
       items: [
         {
           type: "category",
-          label: "Multisig Wallet Overview 2026 06 11",
+          label: "Bisq To Bitcoin Retirement 2025 10 10",
           collapsed: true,
           items: [
             {
               type: "doc",
-              id: "presentations/multisig-wallet-overview-2026-06-11/index",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/index",
               label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018",
+              label: "Slide 18"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitchat And Chill 2025 08 14",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitchat-and-chill-2025-08-14/slide-015",
+              label: "Slide 15"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitcoin Protocol Meetup 2 2022 07 14",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005",
+              label: "Slide 5"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitcoindesign Gaad Workshop1 2025 05 16",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018",
+              label: "Slide 18"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Bitcoindesign Gaad Workshop2 2025 05 16",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014",
+              label: "Slide 14"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Cashu Mints Meetup 10 2023 03 09",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-021",
+              label: "Slide 21"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Decentralized Home Mining Bitaxe 2025 04",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-026",
+              label: "Slide 26"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Decentralized Mining Workshop Meetup 30",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "presentations/decentralized-mining-workshop-meetup-30/slide-034",
+              label: "Slide 34"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Feed Filter Demo 2025 12 11",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/feed-filter-demo-2025-12-11/slide-008",
+              label: "Slide 8"
             }
           ]
         },
@@ -681,6 +1587,833 @@ module.exports = {
               type: "doc",
               id: "presentations/mining-like-the-big-players-2026-05-14/slide-018",
               label: "Slide 18"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Mobile Privacy Meetup 5 2022 10 13",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-014",
+              label: "Slide 14"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Multisig Wallet Overview 2026 06 11",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/multisig-wallet-overview-2026-06-11/index",
+              label: "Deck Overview"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Node Builder Workshop 2025 11 13",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/node-builder-workshop-2025-11-13/slide-017",
+              label: "Slide 17"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Round Rock Bitcoiners 26 Larp 2024 07 29",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036",
+              label: "Slide 36"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037",
+              label: "Slide 37"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038",
+              label: "Slide 38"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039",
+              label: "Slide 39"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040",
+              label: "Slide 40"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041",
+              label: "Slide 41"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042",
+              label: "Slide 42"
+            },
+            {
+              type: "doc",
+              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043",
+              label: "Slide 43"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Rr Bitcoiners 18 Plebdevs 2023 11 09",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036",
+              label: "Slide 36"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037",
+              label: "Slide 37"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038",
+              label: "Slide 38"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039",
+              label: "Slide 39"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040",
+              label: "Slide 40"
+            },
+            {
+              type: "doc",
+              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041",
+              label: "Slide 41"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Self Custody And Entropy Meetup 50 2026 09 07",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "presentations/self-custody-and-entropy-meetup-50-2026-09-07/slide-036",
+              label: "Slide 36"
             }
           ]
         },
@@ -1053,523 +2786,190 @@ module.exports = {
         },
         {
           type: "category",
-          label: "Feed Filter Demo 2025 12 11",
+          label: "What Is Multisig Meetup 7 2022 12 08",
           collapsed: true,
           items: [
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/index",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/index",
               label: "Deck Overview"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-001",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-001",
               label: "Slide 1"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-002",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-002",
               label: "Slide 2"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-003",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-003",
               label: "Slide 3"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-004",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-004",
               label: "Slide 4"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-005",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-005",
               label: "Slide 5"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-006",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-006",
               label: "Slide 6"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-007",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-007",
               label: "Slide 7"
             },
             {
               type: "doc",
-              id: "presentations/feed-filter-demo-2025-12-11/slide-008",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-008",
               label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-016",
+              label: "Slide 16"
             }
           ]
         },
         {
           type: "category",
-          label: "Node Builder Workshop 2025 11 13",
+          label: "What Is Nostr Meetup 8 2023 01 12",
           collapsed: true,
           items: [
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/index",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/index",
               label: "Deck Overview"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-001",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-001",
               label: "Slide 1"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-002",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-002",
               label: "Slide 2"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-003",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-003",
               label: "Slide 3"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-004",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-004",
               label: "Slide 4"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-005",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-005",
               label: "Slide 5"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-006",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-006",
               label: "Slide 6"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-007",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-007",
               label: "Slide 7"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-008",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-008",
               label: "Slide 8"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-009",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-009",
               label: "Slide 9"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-010",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-010",
               label: "Slide 10"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-011",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-011",
               label: "Slide 11"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-012",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-012",
               label: "Slide 12"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-013",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-013",
               label: "Slide 13"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-014",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-014",
               label: "Slide 14"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-015",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-015",
               label: "Slide 15"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-016",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-016",
               label: "Slide 16"
             },
             {
               type: "doc",
-              id: "presentations/node-builder-workshop-2025-11-13/slide-017",
+              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-017",
               label: "Slide 17"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Bisq To Bitcoin Retirement 2025 10 10",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/bisq-to-bitcoin-retirement-2025-10-10/slide-018",
-              label: "Slide 18"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Bitchat And Chill 2025 08 14",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitchat-and-chill-2025-08-14/slide-015",
-              label: "Slide 15"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Bitcoindesign Gaad Workshop1 2025 05 16",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop1-2025-05-16/slide-018",
-              label: "Slide 18"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Bitcoindesign Gaad Workshop2 2025 05 16",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoindesign-gaad-workshop2-2025-05-16/slide-014",
-              label: "Slide 14"
             }
           ]
         },
@@ -1712,228 +3112,105 @@ module.exports = {
         },
         {
           type: "category",
-          label: "Round Rock Bitcoiners 26 Larp 2024 07 29",
+          label: "Why Privacy Matters Meetup 3 2022 08 11",
           collapsed: true,
           items: [
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/index",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/index",
               label: "Deck Overview"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-001",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001",
               label: "Slide 1"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-002",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002",
               label: "Slide 2"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-003",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003",
               label: "Slide 3"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-004",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004",
               label: "Slide 4"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-005",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005",
               label: "Slide 5"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-006",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006",
               label: "Slide 6"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-007",
+              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007",
+              label: "Slide 7"
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "Why Run A Node Meetup 4 2022 09 08",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-007",
               label: "Slide 7"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-008",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-008",
               label: "Slide 8"
             },
             {
               type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-009",
+              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-009",
               label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-018",
-              label: "Slide 18"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-019",
-              label: "Slide 19"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-020",
-              label: "Slide 20"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-021",
-              label: "Slide 21"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-022",
-              label: "Slide 22"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-023",
-              label: "Slide 23"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-024",
-              label: "Slide 24"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-025",
-              label: "Slide 25"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-026",
-              label: "Slide 26"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-027",
-              label: "Slide 27"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-028",
-              label: "Slide 28"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-029",
-              label: "Slide 29"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-030",
-              label: "Slide 30"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-031",
-              label: "Slide 31"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-032",
-              label: "Slide 32"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-033",
-              label: "Slide 33"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-034",
-              label: "Slide 34"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-035",
-              label: "Slide 35"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-036",
-              label: "Slide 36"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-037",
-              label: "Slide 37"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-038",
-              label: "Slide 38"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-039",
-              label: "Slide 39"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-040",
-              label: "Slide 40"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-041",
-              label: "Slide 41"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-042",
-              label: "Slide 42"
-            },
-            {
-              type: "doc",
-              id: "presentations/round-rock-bitcoiners-26-larp-2024-07-29/slide-043",
-              label: "Slide 43"
             }
           ]
         },
@@ -2086,1076 +3363,6 @@ module.exports = {
               type: "doc",
               id: "presentations/zero-dollar-manifesto-sahil-2024-06-22/slide-028",
               label: "Slide 28"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Rr Bitcoiners 18 Plebdevs 2023 11 09",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-018",
-              label: "Slide 18"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-019",
-              label: "Slide 19"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-020",
-              label: "Slide 20"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-021",
-              label: "Slide 21"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-022",
-              label: "Slide 22"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-023",
-              label: "Slide 23"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-024",
-              label: "Slide 24"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-025",
-              label: "Slide 25"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-026",
-              label: "Slide 26"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-027",
-              label: "Slide 27"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-028",
-              label: "Slide 28"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-029",
-              label: "Slide 29"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-030",
-              label: "Slide 30"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-031",
-              label: "Slide 31"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-032",
-              label: "Slide 32"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-033",
-              label: "Slide 33"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-034",
-              label: "Slide 34"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-035",
-              label: "Slide 35"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-036",
-              label: "Slide 36"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-037",
-              label: "Slide 37"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-038",
-              label: "Slide 38"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-039",
-              label: "Slide 39"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-040",
-              label: "Slide 40"
-            },
-            {
-              type: "doc",
-              id: "presentations/rr-bitcoiners-18-plebdevs-2023-11-09/slide-041",
-              label: "Slide 41"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Cashu Mints Meetup 10 2023 03 09",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-018",
-              label: "Slide 18"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-019",
-              label: "Slide 19"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-020",
-              label: "Slide 20"
-            },
-            {
-              type: "doc",
-              id: "presentations/cashu-mints-meetup-10-2023-03-09/slide-021",
-              label: "Slide 21"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "What Is Nostr Meetup 8 2023 01 12",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-nostr-meetup-8-2023-01-12/slide-017",
-              label: "Slide 17"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "What Is Multisig Meetup 7 2022 12 08",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/what-is-multisig-meetup-7-2022-12-08/slide-016",
-              label: "Slide 16"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Mobile Privacy Meetup 5 2022 10 13",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/mobile-privacy-meetup-5-2022-10-13/slide-014",
-              label: "Slide 14"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Why Run A Node Meetup 4 2022 09 08",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-run-a-node-meetup-4-2022-09-08/slide-009",
-              label: "Slide 9"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Why Privacy Matters Meetup 3 2022 08 11",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/why-privacy-matters-meetup-3-2022-08-11/slide-007",
-              label: "Slide 7"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Bitcoin Protocol Meetup 2 2022 07 14",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/bitcoin-protocol-meetup-2-2022-07-14/slide-005",
-              label: "Slide 5"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Decentralized Home Mining Bitaxe 2025 04",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-018",
-              label: "Slide 18"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-019",
-              label: "Slide 19"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-020",
-              label: "Slide 20"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-021",
-              label: "Slide 21"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-022",
-              label: "Slide 22"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-023",
-              label: "Slide 23"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-024",
-              label: "Slide 24"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-025",
-              label: "Slide 25"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-home-mining-bitaxe-2025-04/slide-026",
-              label: "Slide 26"
-            }
-          ]
-        },
-        {
-          type: "category",
-          label: "Decentralized Mining Workshop Meetup 30",
-          collapsed: true,
-          items: [
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/index",
-              label: "Deck Overview"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-001",
-              label: "Slide 1"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-002",
-              label: "Slide 2"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-003",
-              label: "Slide 3"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-004",
-              label: "Slide 4"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-005",
-              label: "Slide 5"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-006",
-              label: "Slide 6"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-007",
-              label: "Slide 7"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-008",
-              label: "Slide 8"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-009",
-              label: "Slide 9"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-010",
-              label: "Slide 10"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-011",
-              label: "Slide 11"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-012",
-              label: "Slide 12"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-013",
-              label: "Slide 13"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-014",
-              label: "Slide 14"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-015",
-              label: "Slide 15"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-016",
-              label: "Slide 16"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-017",
-              label: "Slide 17"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-018",
-              label: "Slide 18"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-019",
-              label: "Slide 19"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-020",
-              label: "Slide 20"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-021",
-              label: "Slide 21"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-022",
-              label: "Slide 22"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-023",
-              label: "Slide 23"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-024",
-              label: "Slide 24"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-025",
-              label: "Slide 25"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-026",
-              label: "Slide 26"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-027",
-              label: "Slide 27"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-028",
-              label: "Slide 28"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-029",
-              label: "Slide 29"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-030",
-              label: "Slide 30"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-031",
-              label: "Slide 31"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-032",
-              label: "Slide 32"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-033",
-              label: "Slide 33"
-            },
-            {
-              type: "doc",
-              id: "presentations/decentralized-mining-workshop-meetup-30/slide-034",
-              label: "Slide 34"
             }
           ]
         }

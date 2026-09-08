@@ -1,7 +1,7 @@
 ---
 title: "Slide 18 of 18 - Mining Like The Big Players"
 sidebar_label: "Slide 18"
-pagination_next: "presentations/decentralized-mining-workshop-meetup-30/index"
+pagination_next: "presentations/understand-how-bitcoin-works-2026-01-08/index"
 pagination_prev: "presentations/mining-like-the-big-players-2026-05-14/slide-017"
 ---
 
@@ -14,5 +14,5 @@ pagination_prev: "presentations/mining-like-the-big-players-2026-05-14/slide-017
 
 [← Previous Slide](/presentations/mining-like-the-big-players-2026-05-14/slide-017)  
 [Back to Deck Overview](/presentations/mining-like-the-big-players-2026-05-14/)  
-[Next Slide →](/presentations/decentralized-mining-workshop-meetup-30/)
+[Next Slide →](/presentations/understand-how-bitcoin-works-2026-01-08/)
 
