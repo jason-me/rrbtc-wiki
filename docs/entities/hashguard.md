@@ -42,5 +42,5 @@ DIY Python auto-optimizer for the [Braiins Hashpower](https://hashpower.braiins.
 
 ## References
 
-- Meetup demo script ^[raw/mining-like-the-big-players-2026-05-14.md]
-- Presentation outline ^[presentations/2026-05-14-mining-like-the-big-players/index.md]
+- Meetup demo script Raw notes (wiki only)
+- Presentation outline Deck outline

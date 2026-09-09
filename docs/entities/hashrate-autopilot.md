@@ -49,5 +49,5 @@ Official automation tool from Braiins for managing hashrate bids on the [Braiins
 ## References
 
 - Official site: https://hashpower.braiins.com
-- Meetup demo script ^[raw/mining-like-the-big-players-2026-05-14.md]
-- Presentation outline ^[presentations/2026-05-14-mining-like-the-big-players/index.md]
+- Meetup demo script Raw notes (wiki only)
+- Presentation outline Deck outline
