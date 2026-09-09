@@ -14,7 +14,7 @@ for dir_name in sorted(os.listdir(docs_root)):
 
     if dir_name == 'presentations':
         # Handle presentations specially
-        for pres_dir in sorted(os.listdir(dir_path)):
+        for pres_dir in sorted(os.listdir(dir_path), reverse=True):
             pres_path = os.path.join(dir_path, pres_dir)
             if not os.path.isdir(pres_path):
                 continue

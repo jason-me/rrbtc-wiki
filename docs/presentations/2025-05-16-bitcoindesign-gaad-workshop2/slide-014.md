@@ -1,7 +1,7 @@
 ---
 title: "Slide 14 of 14 - BitcoinDesign-GAAD-Workshop2"
 sidebar_label: "Slide 14"
-pagination_next: "presentations/decentralized-home-mining-bitaxe-2025-04/index"
+pagination_next: "presentations/2025-04-12-decentralized-home-mining-bitaxe/index"
 pagination_prev: "presentations/2025-05-16-bitcoindesign-gaad-workshop2/slide-013"
 ---
 
@@ -14,5 +14,5 @@ pagination_prev: "presentations/2025-05-16-bitcoindesign-gaad-workshop2/slide-01
 
 [← Previous Slide](/presentations/2025-05-16-bitcoindesign-gaad-workshop2/slide-013)  
 [Back to Deck Overview](/presentations/2025-05-16-bitcoindesign-gaad-workshop2/)  
-[Next Slide →](/presentations/decentralized-home-mining-bitaxe-2025-04/)
+[Next Slide →](/presentations/2025-04-12-decentralized-home-mining-bitaxe/)
 

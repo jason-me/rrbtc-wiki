@@ -1,0 +1,18 @@
+---
+title: "Slide 22 of 34 - Round Rock Bitcoiners Meetup"
+sidebar_label: "Slide 22"
+pagination_next: "presentations/2024-11-14-decentralized-mining-workshop-meetup-30/slide-023"
+pagination_prev: "presentations/2024-11-14-decentralized-mining-workshop-meetup-30/slide-021"
+---
+
+# Round Rock Bitcoiners Meetup — Slide 22
+
+![Slide 22 of 34 from 'Round Rock Bitcoiners Meetup' (2024-11-14)](/img/slides/2024-11-14-decentralized-mining-workshop-meetup-30/slide_021.jpg)
+
+<br/>
+<br/>
+
+[← Previous Slide](/presentations/2024-11-14-decentralized-mining-workshop-meetup-30/slide-021)  
+[Back to Deck Overview](/presentations/2024-11-14-decentralized-mining-workshop-meetup-30/)  
+[Next Slide →](/presentations/2024-11-14-decentralized-mining-workshop-meetup-30/slide-023)
+
