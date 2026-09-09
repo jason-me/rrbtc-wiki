@@ -4,7 +4,7 @@ created: 2026-06-04
 updated: 2026-06-04
 type: entity
 tags: [mining, automation, tools, braiins]
-sources: [raw/mining-like-the-big-players-2026-05-14.md, presentations/2026-05-14-mining-like-the-big-players.md]
+sources: [raw/mining-like-the-big-players-2026-05-14.md, presentations/2026-05-14-mining-like-the-big-players/index.md]
 confidence: high
 contested: false
 ---
@@ -50,4 +50,4 @@ Official automation tool from Braiins for managing hashrate bids on the [Braiins
 
 - Official site: https://hashpower.braiins.com
 - Meetup demo script ^[raw/mining-like-the-big-players-2026-05-14.md]
-- Presentation outline ^[presentations/2026-05-14-mining-like-the-big-players.md]
+- Presentation outline ^[presentations/2026-05-14-mining-like-the-big-players/index.md]
