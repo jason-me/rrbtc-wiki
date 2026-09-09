@@ -31,5 +31,5 @@ Bitcoiner, designer, and advocate for the #GetOnZero philosophy. Presented the Z
 > -- @ProgrammableTx (quoted by Sahil)
 
 ## Related Wiki Pages
-- [Zero Dollar Manifesto](/presentations/zero-dollar-manifesto-sahil-2024-06-22) - Presentation card
+- [Zero Dollar Manifesto](/presentations/2024-06-22-zero-dollar-manifesto-sahil) - Presentation card
 - [GetOnZero: Living on the Bitcoin Standard](/summaries/getonzero-synthesis) - GetOnZero synthesis article

@@ -16,4 +16,4 @@ Sahil Chaturvedi presents the Zero Dollar Manifesto — a personal finance philo
 ## Watch the Presentation
 
 - [Slide deck on SpeakerDeck](https://speakerdeck.com/rrbtc/zero-dollar-manifesto-sahil-chaturvedi)
-- [Interactive slide-by-slide pages](/presentations/zero-dollar-manifesto-sahil-2024-06-22/)
+- [Interactive slide-by-slide pages](/presentations/2024-06-22-zero-dollar-manifesto-sahil/)

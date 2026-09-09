@@ -4,7 +4,7 @@ created: 2026-06-04
 updated: 2026-06-04
 type: entity
 tags: [mining, automation, tools, python]
-sources: [raw/mining-like-the-big-players-2026-05-14.md, presentations/mining-like-the-big-players-2026-05-14.md]
+sources: [raw/mining-like-the-big-players-2026-05-14.md, presentations/2026-05-14-mining-like-the-big-players.md]
 confidence: high
 contested: false
 ---
@@ -43,4 +43,4 @@ DIY Python auto-optimizer for the [Braiins Hashpower](https://hashpower.braiins.
 ## References
 
 - Meetup demo script ^[raw/mining-like-the-big-players-2026-05-14.md]
-- Presentation outline ^[presentations/mining-like-the-big-players-2026-05-14.md]
+- Presentation outline ^[presentations/2026-05-14-mining-like-the-big-players.md]

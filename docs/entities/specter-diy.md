@@ -17,13 +17,13 @@ Specter DIY is an open-source, do-it-yourself hardware wallet project from the S
 
 - **DIY hardware wallet**: assembled from off-the-shelf parts (e.g. STM32-based discovery boards)
 - **Air-gapped**: QR-based communication with the coordinator; no persistent USB data link
-- **Companion to [[entities/specter-desktop.md]]**: signs PSBTs for wallets managed in Specter Desktop
+- **Companion to [Specter Desktop](/entities/specter-desktop)**: signs PSBTs for wallets managed in Specter Desktop
 - **Open-source**: firmware and build instructions are public
 
 ## Key Features
 
 - Generates and holds seeds, displays xpubs, signs transactions
-- Integrates with [[concepts/multisig.md]] setups alongside other signers
+- Integrates with [Multisig](/concepts/multisig) setups alongside other signers
 - Focus on verifiable, user-built custody rather than closed proprietary devices
 - Part of the broader Specter ecosystem for Bitcoin self-custody
 
@@ -33,8 +33,8 @@ Specter DIY trades tamper-resistant hardware for transparency and user control. 
 
 ## Relation to Round Rock Bitcoiners
 
-- Featured in [[presentations/round-rock-bitcoiners-50-self-custody-entropy.md|Meetup #50 — On Self Custody & Entropy]] as a DIY custody option
-- Existing wiki coverage of [[entities/specter-desktop.md]] as a coordinator
+- Featured in [Meetup #50 — On Self Custody & Entropy](/presentations/2026-09-07-self-custody-and-entropy-meetup-50) as a DIY custody option
+- Existing wiki coverage of [Specter Desktop](/entities/specter-desktop) as a coordinator
 
 ## Resources
 
@@ -43,6 +43,6 @@ Specter DIY trades tamper-resistant hardware for transparency and user control. 
 
 ## See also
 
-- [[entities/specter-desktop.md]] — multisig coordinator software
-- [[entities/krux.md]] — open-source signing-device firmware
-- [[concepts/custody-models.md]] — custody trade-offs
+- [Specter Desktop](/entities/specter-desktop) — multisig coordinator software
+- [Krux](/entities/krux) — open-source signing-device firmware
+- [Custody Models](/concepts/custody-models) — custody trade-offs

@@ -23,7 +23,7 @@ StartOS is the foundational home-server layer for the decentralized mining works
 - Provides LAN dashboard and remote Tor access
 
 ## Hardware Reference
-From [Node Builder Workshop](/presentations/node-builder-workshop-2025-11-13):
+From [Node Builder Workshop](/presentations/2025-11-13-node-builder-workshop):
 - **Recommended:** Dell OptiPlex 9020M (i5, 16GB RAM, 2TB SSD)
 - **BIOS:** Legacy boot, Secure Boot disabled
 - **Network:** Ethernet preferred; Wi-Fi via USB adapter if needed
@@ -53,7 +53,7 @@ From [Node Builder Workshop](/presentations/node-builder-workshop-2025-11-13):
 ## Related
 - [Bitcoin Knots](/entities/bitcoin-knots) — recommended full node on StartOS
 - [C-Lightning (Core-Lightning)](/entities/c-lightning) — Lightning implementation packaged for StartOS
-- [Node Builder Workshop](/presentations/node-builder-workshop-2025-11-13) — detailed hardware/BIOS setup
+- [Node Builder Workshop](/presentations/2025-11-13-node-builder-workshop) — detailed hardware/BIOS setup
 
 ## References
 - Meetup #30: Decentralized Mining Workshop

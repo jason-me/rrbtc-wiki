@@ -1,0 +1,17 @@
+---
+title: "Slide 18 of 36 - Trust Don't Verify — On Self Custody & Entropy (Meetup #50)"
+sidebar_label: "Slide 18"
+pagination_next: "presentations/2026-09-07-self-custody-and-entropy-meetup-50/slide-019"
+pagination_prev: "presentations/2026-09-07-self-custody-and-entropy-meetup-50/slide-017"
+---
+
+# Trust Don't Verify — On Self Custody & Entropy (Meetup #50) — Slide 18
+
+![Slide 18 of 36 from 'Trust Don't Verify — On Self Custody & Entropy (Meetup #50)' (2026-08-13, RRBTC). Part of a presentation covering: custody, entropy, diy signing devices, inheritance.](/img/slides/2026-09-07-self-custody-and-entropy-meetup-50/slide_017.jpg)
+
+<br/>
+<br/>
+
+  
+[Back to Deck Overview](/presentations/2026-09-07-self-custody-and-entropy-meetup-50/)  
+[Next Slide →](/presentations/2026-09-07-self-custody-and-entropy-meetup-50/slide-019)

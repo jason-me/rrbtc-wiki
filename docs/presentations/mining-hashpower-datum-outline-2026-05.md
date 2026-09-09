@@ -8,7 +8,7 @@ date: 2026-05-XX
 status: draft
 last_updated: 2026-05-10
 ---
-> **Note:** This presentation also has [interactive slide-by-slide pages](/presentations/mining-like-the-big-players-2026-05-14/) with key takeaways and SpeakerDeck links where available.
+> **Note:** This presentation also has [interactive slide-by-slide pages](/presentations/2026-05-14-mining-like-the-big-players/) with key takeaways and SpeakerDeck links where available.
 
 # Mining with Rented Hashrate: Braiins Hashpower + DATUM
 

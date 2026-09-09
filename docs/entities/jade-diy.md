@@ -24,16 +24,16 @@ Jade DIY is Blockstream's open-source firmware for the Blockstream Jade hardware
 
 - Runs Jade's open-source firmware on generic hardware
 - Supports seed generation, xpub export, and PSBT signing
-- Works with [[entities/specter-desktop.md]], Sparrow, Nunchuk, and other coordinators
-- Enables [[concepts/multisig.md]] alongside other DIY and commercial signers
+- Works with [Specter Desktop](/entities/specter-desktop), Sparrow, Nunchuk, and other coordinators
+- Enables [Multisig](/concepts/multisig) alongside other DIY and commercial signers
 
 ## Security Model
 
-Like [[entities/krux.md]] and [[entities/seedsigner.md]], Jade DIY emphasizes transparency over tamper resistance. The user is responsible for physical security and supply-chain verification; the benefit is a fully inspectable stack.
+Like [Krux](/entities/krux) and [SeedSigner](/entities/seedsigner), Jade DIY emphasizes transparency over tamper resistance. The user is responsible for physical security and supply-chain verification; the benefit is a fully inspectable stack.
 
 ## Relation to Round Rock Bitcoiners
 
-- Featured in [[presentations/round-rock-bitcoiners-50-self-custody-entropy.md|Meetup #50 — On Self Custody & Entropy]] as a DIY firmware option
+- Featured in [Meetup #50 — On Self Custody & Entropy](/presentations/2026-09-07-self-custody-and-entropy-meetup-50) as a DIY firmware option
 - Part of the community's DIY/maker ethos around self-custody
 
 ## Resources
@@ -44,6 +44,6 @@ Like [[entities/krux.md]] and [[entities/seedsigner.md]], Jade DIY emphasizes tr
 
 ## See also
 
-- [[entities/krux.md]] — open-source signing-device firmware
-- [[entities/seedsigner.md]] — DIY air-gapped signing device
-- [[entities/specter-diy.md]] — Specter's DIY hardware wallet
+- [Krux](/entities/krux) — open-source signing-device firmware
+- [SeedSigner](/entities/seedsigner) — DIY air-gapped signing device
+- [Specter DIY](/entities/specter-diy) — Specter's DIY hardware wallet

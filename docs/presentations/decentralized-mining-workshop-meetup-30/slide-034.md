@@ -1,7 +1,7 @@
 ---
 title: "Slide 34 of 34 - Round Rock Bitcoiners Meetup"
 sidebar_label: "Slide 34"
-pagination_next: "presentations/why-lightning-plus-ai-2024-08-13/index"
+pagination_next: "presentations/2024-08-13-why-lightning-plus-ai/index"
 pagination_prev: "presentations/decentralized-mining-workshop-meetup-30/slide-033"
 ---
 
@@ -14,5 +14,5 @@ pagination_prev: "presentations/decentralized-mining-workshop-meetup-30/slide-03
 
 [← Previous Slide](/presentations/decentralized-mining-workshop-meetup-30/slide-033)  
 [Back to Deck Overview](/presentations/decentralized-mining-workshop-meetup-30/)  
-[Next Slide →](/presentations/why-lightning-plus-ai-2024-08-13/)
+[Next Slide →](/presentations/2024-08-13-why-lightning-plus-ai/)
 
