@@ -587,6 +587,208 @@ module.exports = {
       items: [
         {
           type: "category",
+          label: "2026 09 10 Bitcoin After Bip 110",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/index",
+              label: "Deck Overview"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-001",
+              label: "Slide 1"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-002",
+              label: "Slide 2"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-003",
+              label: "Slide 3"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-004",
+              label: "Slide 4"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-005",
+              label: "Slide 5"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-006",
+              label: "Slide 6"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-007",
+              label: "Slide 7"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-008",
+              label: "Slide 8"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-009",
+              label: "Slide 9"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-010",
+              label: "Slide 10"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-011",
+              label: "Slide 11"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-012",
+              label: "Slide 12"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-013",
+              label: "Slide 13"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-014",
+              label: "Slide 14"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-015",
+              label: "Slide 15"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-016",
+              label: "Slide 16"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-017",
+              label: "Slide 17"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-018",
+              label: "Slide 18"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-019",
+              label: "Slide 19"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-020",
+              label: "Slide 20"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-021",
+              label: "Slide 21"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-022",
+              label: "Slide 22"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-023",
+              label: "Slide 23"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-024",
+              label: "Slide 24"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-025",
+              label: "Slide 25"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-026",
+              label: "Slide 26"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-027",
+              label: "Slide 27"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-028",
+              label: "Slide 28"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-029",
+              label: "Slide 29"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-030",
+              label: "Slide 30"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-031",
+              label: "Slide 31"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-032",
+              label: "Slide 32"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-033",
+              label: "Slide 33"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-034",
+              label: "Slide 34"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-035",
+              label: "Slide 35"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-036",
+              label: "Slide 36"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-037",
+              label: "Slide 37"
+            },
+            {
+              type: "doc",
+              id: "presentations/2026-09-10-bitcoin-after-bip-110/slide-038",
+              label: "Slide 38"
+            }
+          ]
+        },
+        {
+          type: "category",
           label: "2026 09 07 Self Custody And Entropy Meetup 50",
           collapsed: true,
           items: [
