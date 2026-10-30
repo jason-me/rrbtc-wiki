@@ -38,7 +38,18 @@ const config = {
     ],
   ],
 
-  themes: ['@easyops-cn/docusaurus-search-local'],
+  themes: [
+     [
+       '@easyops-cn/docusaurus-search-local',
+       {
+         hashed: true,
+         docsRouteBasePath: '/',
+         indexBlog: false,
+         indexPages: true,
+         highlightSearchTermsOnTargetPage: true,
+       },
+     ],
+   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
